@@ -1,0 +1,55 @@
+{
+  "skill_name": "essay-grader",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "우리 아이가 Unit 3 DBQ 1번(유라시아 통치자들의 권력 강화) 연습으로 쓴 에세이야. 실제 AP 기준으로 채점해줘. 파일: tools/evals/essay-grader/inputs/dbq_unit3_consolidation_student.txt",
+      "expected_output": "4/7. Thesis 1 (claim + line of reasoning), Contextualization 0 (one-sentence passing reference), Evidence from documents 2 (Docs 1, 2, 3, 5 described and used; Doc 6 only quoted), Evidence beyond 1 (devshirme/Janissaries described), Sourcing 0 (Bernier explained but Machiavelli only identified), Complexity 0. Flags 'Hideyoshi, the Tokugawa shogun' as a factual error that does not cost a point.",
+      "files": [
+        "tools/evals/essay-grader/inputs/dbq_unit3_consolidation_student.txt"
+      ],
+      "assertions": [
+        "Total score is 4/7",
+        "Contextualization is scored 0 (one-sentence passing reference)",
+        "Evidence from the Documents is scored 2/2 (Docs 1, 2, 3, 5 described; Doc 6 only quoted)",
+        "Evidence Beyond the Documents is scored 1 (devshirme/Janissaries)",
+        "Sourcing is scored 0 (only Bernier is explained; 'Machiavelli was Italian' is identification)",
+        "Complexity is scored 0",
+        "Flags 'Hideyoshi, the Tokugawa shogun' as a factual error that does not cost a point",
+        "Quotes the student's own sentences as evidence for row decisions",
+        "Report is written in Korean"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "LEQ 3번(남아시아·서남아시아 육상 제국들이 비슷하게 발전했는지) 썼는데 몇 점 나올까? 솔직하게 봐줘. 파일: tools/evals/essay-grader/inputs/leq3_gunpowder_empires_student.txt",
+      "expected_output": "4/6. Thesis 0 (introduction and conclusion both restate the prompt with 'to a large extent'; no line of reasoning), Contextualization 1 (Mongol/Timurid collapse, Turkic groups, gunpowder spread), Evidence 2 (Constantinople 1453, Panipat 1526, Janissaries, ghulams used to support similarity), Analysis and Reasoning 1 (comparison structure; the single 'However, the Safavids were Shi'a' sentence is a phrase, not complexity). Flags Akbar/Taj Mahal as a factual error (Shah Jahan) that does not cost a point.",
+      "files": [
+        "tools/evals/essay-grader/inputs/leq3_gunpowder_empires_student.txt"
+      ],
+      "assertions": [
+        "Total score is 4/6",
+        "Thesis/Claim is scored 0 (restates the prompt, no line of reasoning)",
+        "Contextualization is scored 1",
+        "Evidence is scored 2/2",
+        "Analysis and Reasoning is scored 1/2 (the 'However, the Safavids were Shi'a' sentence is not complexity)",
+        "Flags Akbar building the Taj Mahal as a factual error (Shah Jahan) that does not cost a point",
+        "Quotes the student's own sentences as evidence for row decisions",
+        "Report is written in Korean"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "SAQ 연습 문제 답안이야. 채점해줘.\n\n문제:\n(a) Identify ONE way the Columbian Exchange affected the Americas in the period 1450–1750.\n(b) Describe ONE way the Atlantic slave trade affected African societies in the period 1450–1750.\n(c) Explain ONE reason European states established maritime empires in the period 1450–1750.\n\n답안:\n(a) Smallpox and other diseases brought by Europeans killed a large part of the Native American population.\n(b) It affected the Kingdom of Dahomey.\n(c) European states wanted to get spices and other Asian goods directly instead of paying high prices to Ottoman and Venetian middlemen, so Portugal and Spain sponsored voyages to find sea routes, and these voyages led to trading posts and colonies.",
+      "expected_output": "2/3. (a) 1 — accurate identification. (b) 0 — names an isolated term (Dahomey) without describing how African societies were affected. (c) 1 — explains a reason with a causal link (bypass middlemen → sponsored voyages → trading posts/colonies).",
+      "files": [],
+      "assertions": [
+        "Total score is 2/3",
+        "Part (a) earns 1 point",
+        "Part (b) earns 0 points because it names an isolated term without describing an effect",
+        "Part (c) earns 1 point",
+        "Report is written in Korean"
+      ]
+    }
+  ]
+}
