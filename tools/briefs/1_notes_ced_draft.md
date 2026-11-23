@@ -6,14 +6,14 @@ Historical Developments into the last section yourself: the agent must not inven
 
 ---
 
-You are writing AP World History: Modern study materials for **Topic <X.Y>** in the directory `<REPO_ROOT>`. Create exactly 4 files there:
-- `AP_WH_<X.Y>_Notes_EN.md`, `AP_WH_<X.Y>_Notes_KR.md`
-- `AP_WH_<X.Y>_Flashcards_EN.md`, `AP_WH_<X.Y>_Flashcards_KR.md`
+You are writing AP World History: Modern study materials for **Topic <X.Y>** in the repo `<REPO_ROOT>`. Create exactly 4 files (create the folders if missing):
+- `Unit<N>/Notes/AP_WH_<X.Y>_Notes_EN.md`, `Unit<N>/Notes/AP_WH_<X.Y>_Notes_KR.md`
+- `Unit<N>/Flashcards/AP_WH_<X.Y>_Flashcards_EN.md`, `Unit<N>/Flashcards/AP_WH_<X.Y>_Flashcards_KR.md`
 
 Do not modify or delete any other file. Do not git commit.
 
 ## Format templates — read these first
-Read `AP_WH_2.1_Notes_EN.md`, `AP_WH_2.1_Notes_KR.md`, `AP_WH_2.1_Flashcards_EN.md`, `AP_WH_2.1_Flashcards_KR.md` (or any finished topic). Match their structure, heading style, table style, Korean writing style (plain declarative "~했다/~이다", short clear sentences), Mermaid usage, and flashcard markup exactly. Differences from the template:
+Read `Unit2/Notes/AP_WH_2.1_Notes_EN.md`, `Unit2/Notes/AP_WH_2.1_Notes_KR.md`, `Unit2/Flashcards/AP_WH_2.1_Flashcards_EN.md`, `Unit2/Flashcards/AP_WH_2.1_Flashcards_KR.md` (or any finished topic). Match their structure, heading style, table style, Korean writing style (plain declarative "~했다/~이다", short clear sentences), Mermaid usage, and flashcard markup exactly. Differences from the template:
 1. Source line exactly: EN `> Source: Based on the College Board CED · Textbook not yet incorporated` / KR `> 출처: CED 기준 · 교재 반영 전`. Never write "the textbook says". Use `> ⚠️ Needs verification: ...` / `> ⚠️ 확인 필요: ...` only for facts or dates that are genuinely disputed or uncertain.
 2. Unit line: EN `**<Unit line EN>**` / KR `**<Unit line KR>**`.
 3. An opening quote in the Big Picture is optional. Include one only if it is a well-known, accurately attributed primary source.

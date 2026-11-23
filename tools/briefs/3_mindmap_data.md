@@ -7,12 +7,12 @@ file name.
 
 ---
 
-Goal: produce structured data that the main session will turn into an OPML mind map (`AP_WH_Unit<N>_MindMap_EN.opml` / `_KR.opml`). The user asked for a Unit <N> mind map organized by state → people / events / institutions, in EN and KR, with source-topic tags. You do NOT write OPML. You write ONE JSON file: `<OUT_JSON>`.
+Goal: produce structured data that the main session will turn into an OPML mind map (`Unit<N>/Mindmaps/AP_WH_Unit<N>_MindMap_EN.opml` / `_KR.opml`). The user asked for a Unit <N> mind map organized by state → people / events / institutions, in EN and KR, with source-topic tags. You do NOT write OPML. You write ONE JSON file: `<OUT_JSON>`.
 
 ## Sources (read-only)
-- **Notes:** `AP_WH_<N>.1_Notes_EN.md` … `AP_WH_<N>.<last>_Notes_EN.md` and their `_KR.md` twins in `<REPO_ROOT>`. Use ONLY facts in these notes, and use the KR notes' Korean terms and name spellings.
+- **Notes:** `AP_WH_<N>.1_Notes_EN.md` … `AP_WH_<N>.<last>_Notes_EN.md` and their `_KR.md` twins in `<REPO_ROOT>/Unit<N>/Notes/`. Use ONLY facts in these notes, and use the KR notes' Korean terms and name spellings.
 - **Cross-topic coverage:** your regions may appear in several topics (the comparison topic covers everything), so grep all of them.
-- **Style reference:** the first ~60 lines of `AP_WH_Unit2_MindMap_EN.opml` / `_KR.opml`.
+- **Style reference:** the first ~60 lines of `Unit2/Mindmaps/AP_WH_Unit2_MindMap_EN.opml` / `_KR.opml`.
 
 Do not modify any file in the repo.
 

@@ -1,7 +1,7 @@
 """Generate AP_WH_Unit<N>_MCQ_{EN,KR}.md and AP_WH_Unit<N>_MCQ_Answers_{EN,KR}.md.
 
 Usage (from the repo root):
-    python3 -I tools/mcq/gen.py tools/mcq/unit1 .
+    python3 -I tools/mcq/gen.py tools/mcq/unit1 Unit1/Tests
 
 <unit_dir> holds meta.py (UNIT, TOPICS, TARGET) and data_*.py modules, each defining one list
 named SETS_* of stimulus sets (see unit1/data_a.py for the schema; every text field is an

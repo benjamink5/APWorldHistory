@@ -1,7 +1,7 @@
 """Build AP_WH_Unit<N>_MindMap_{EN,KR}.opml from paired EN/KR region data.
 
 Usage (from the repo root):
-    python3 -I tools/mindmap/build_opml.py tools/mindmap/unit1 .
+    python3 -I tools/mindmap/build_opml.py tools/mindmap/unit1 Unit1/Mindmaps
 
 <unit_dir> holds meta.json (unit number, titles) plus one or more region files (*.json).
 Each region file is a JSON array of:

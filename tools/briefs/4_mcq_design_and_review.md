@@ -32,7 +32,7 @@ Good distractors are plausible and wrong for a historical reason:
 Avoid distractors that fail on absurdity alone. Never use "all/none of the above".
 
 ## 3. Generate and inspect the patterns
-Run `python3 -I tools/mcq/gen.py tools/mcq/unit<N> .` and read its printed report:
+Run `python3 -I tools/mcq/gen.py tools/mcq/unit<N> Unit<N>/Tests` and read its printed report:
 - answer distribution, longest same-letter run
 - difficulty, type, topic, and stimulus counts
 - the number of questions where the correct option is the longest
@@ -50,7 +50,7 @@ Choose `TARGET` in `meta.py` with a seeded random search under these rules:
 Send this to a fresh general-purpose agent:
 
 > You are an independent reviewer for an AP World History: Modern practice test (Unit <N>). I want an unanchored check, so I am NOT giving you my answer key.
-> Read ONLY `<REPO_ROOT>/AP_WH_Unit<N>_MCQ_EN.md`. Do NOT open any file whose name contains "Answers", and do not open the KR file. Do not modify any file.
+> Read ONLY `<REPO_ROOT>/Unit<N>/Tests/AP_WH_Unit<N>_MCQ_EN.md`. Do NOT open any file whose name contains "Answers", and do not open the KR file. Do not modify any file.
 > 1. Answer every question yourself, as a strong AP student or teacher would. For each, give your answer letter and your confidence (high/medium/low).
 > 2. Flag every question where a second option is defensible, the stem is unclear, or the answer depends on a contested fact.
 > 3. Check the facts in the stimuli and options: source attributions (author, date, translator, translation year), quotation wording, dates, and historical claims.
