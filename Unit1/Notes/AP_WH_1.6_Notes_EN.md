@@ -12,23 +12,19 @@
 
 | Code | Learning Objective |
 |---|---|
-| 1.6 LO A (CDI) | Explain how the beliefs and practices of the predominant religions in Europe affected European society. |
-| 1.6 LO B (GOV) | Explain the causes and consequences of political decentralization in Europe from c. 1200 to c. 1450. |
-| 1.6 LO C (SIO) | Explain the effects of agriculture on social organization in Europe from c. 1200 to c. 1450. |
+| 1.6 LO-K (CDI) | Explain how the beliefs and practices of the predominant religions in Europe affected European society. |
+| 1.6 LO-L (GOV) | Explain the causes and consequences of political decentralization in Europe from c. 1200 to c. 1450. |
+| 1.6 LO-M (SIO) | Explain the effects of agriculture on social organization in Europe from c. 1200 to c. 1450. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | Covered in |
 |---|---|---|
-| HD1 (LO A) · KC-3.1.III.D.vi | Christianity, as well as the core beliefs and practices of Judaism and Islam, continued to shape societies in Europe. | §2, §3, §4, §5, §10, §11, §13 |
-| HD2 (LO B) · KC-3.2.I.C | Europe was politically fragmented and characterized by decentralized monarchies, feudalism, and the manorial system. | §1, §6, §7, §8 |
-| HD2 example | England | §7, §8 |
-| HD2 example | France | §7, §8 |
-| HD2 example | Holy Roman Empire | §7 |
-| HD2 example | Italian city-states (e.g., Venice) | §4, §7, §11, §12 |
-| HD3 (LO C) · KC-3.3.III.A.i | Europe was largely an agricultural society dependent on free and coerced labor, including serfdom. | §6, §9, §10, §11 |
+| HD1 (LO-K) · KC-3.1.III.D.v | Christianity, Judaism, Islam, and the core beliefs and practices of these religions continued to shape societies in Europe. | §2, §3, §4, §5, §10, §11, §13 |
+| HD2 (LO-L) · KC-3.2.I.B.ii | Europe was politically fragmented and characterized by decentralized monarchies, feudalism, and the manorial system. | §1, §6, §7, §8 |
+| HD3 (LO-M) · KC-3.3.III.C | Europe was largely an agricultural society dependent on free and coerced labor, including serfdom. | §6, §9, §10, §11 |
 
-> ⚠️ Needs verification: The HD wording is close to the CED but may not match it word for word. The textbook does not settle the illustrative example list. Its political section covers only **France**, the **Holy Roman Empire**, and **Norman England** (plus the Christian–Muslim wars in Sicily and Spain). It mentions **Venice** only as the wealthy city-state behind the Fourth Crusade's diversion and as Marco Polo's home, and **Florence** only through the Medici's support for Renaissance artists. It never presents the Italian city-states as an example of decentralized rule. Check whether Venice or the Italian city-states are listed against the official CED PDF.
+> **Note:** The CED lists no illustrative examples for 1.6. The textbook's political section covers **France**, the **Holy Roman Empire**, and **Norman England** (plus the Christian–Muslim wars in Sicily and Spain); these notes treat them in §7 and §8. It mentions **Venice** only as the wealthy city-state behind the Fourth Crusade's diversion and as Marco Polo's home, and **Florence** only through the Medici's support for Renaissance artists.
 
 ---
 

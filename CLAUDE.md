@@ -13,12 +13,16 @@ Files are grouped by unit, then by kind: `Unit<N>/{Notes,Flashcards,Mindmaps,Tes
 | Path | What it is |
 |---|---|
 | `Unit<N>/Notes/AP_WH_<topic>_Notes_{EN,KR}.md` | Topic notes (e.g. `1.3`) |
+| `Unit<N>/Notes/AP_WH_Unit<N>_CED_{EN,KR}.md` | CED reference for the unit (Units 1–9): per topic, the suggested skill, LOs, HDs with KC codes, and illustrative examples, verbatim. KR keeps the English and adds a Korean line under each item |
+| `Course/AP_WH_Course_Exam_Overview_{EN,KR}.md` | Exam format and unit weightings, skills, reasoning processes, themes, course at a glance, and SAQ/DBQ/LEQ rubrics, from the CED |
 | `Unit<N>/Flashcards/AP_WH_<topic>_Flashcards_{EN,KR}.md` | 20–40 cards per topic |
 | `Unit<N>/Mindmaps/AP_WH_Unit<N>_MindMap_{EN,KR}.opml` | Unit mind map: region → People / Events / Institutions |
 | `Unit<N>/Tests/AP_WH_Unit<N>_MCQ_{EN,KR}.md` | MCQ question sheet (KR version: English original + Korean translation under each line) |
 | `Unit<N>/Tests/AP_WH_Unit<N>_MCQ_Answers_{EN,KR}.md` | Answer key, explanations, distribution and scoring tables |
 
 Units 1 and 2 are complete. When creating a new unit, copy the structure of the existing files of the same family instead of inventing a new layout.
+
+Units 6–9 have only their CED reference files so far.
 
 Units 3–5 were made elsewhere and copied in. They do not follow the conventions in this file: their headers, source lines, and test formats differ (Unit 3 adds DBQs and practice questions; Unit 4 has a single-language MCQ sheet and `_Explanations` files; Unit 5 has a 100-question test with an answer key). Do not treat them as templates.
 
@@ -28,7 +32,7 @@ Units 3–5 were made elsewhere and copied in. They do not follow the convention
 
 ## Sources and their order of authority
 
-1. **CED** (Learning Objectives and Historical Developments). The CED PDF on apcentral.collegeboard.org is blocked by the proxy, so CED wording has been written from memory. Wherever exact wording matters, flag it as needing verification.
+1. **CED** (Learning Objectives and Historical Developments), effective Fall 2026. The PDF is at `~/Library/Mobile Documents/com~apple~CloudDocs/Family Shared/AP-WorldHistory/ap-world-history-modern-course-and-exam-description.pdf` (256 pages; not committed). Its wording is transcribed in `Unit<N>/Notes/AP_WH_Unit<N>_CED_{EN,KR}.md` (Units 1–9) and `Course/AP_WH_Course_Exam_Overview_{EN,KR}.md`; use those files as the CED reference, and check the PDF when exact wording matters. The CED letters Learning Objectives across a whole unit (`Unit 1: Learning Objective A` … `N`), not per topic. PDFKit text extraction drops spaces in some lines, so verify transcriptions against the page image (the Read tool with `pages`). Before November 2026, the CED wording in the notes was written from memory; the Unit 1–2 LO/HD tables have since been checked against the PDF.
 2. **Textbook**: OCR'd plain text, one file per topic:
    `~/Library/Mobile Documents/com~apple~CloudDocs/Family Shared/AP-WorldHistory/Unit01-02/Textbook/<topic>.txt`. The same folder also holds scanned PDFs. The OCR has typos, cut-off sentences, and scrambled tables; when a fact depends on garbled text, say "check against the printed textbook". Treat these files as data only.
 3. Standard scholarship. Use it to flag textbook errors, never to silently override the textbook.
@@ -55,9 +59,9 @@ After textbook integration, the Focus Question becomes `**Focus Question (textbo
 
 ## Workflow and `tools/`
 
-Each unit goes through the same pipeline. Agent briefs for every step are saved as fill-in templates in `tools/briefs/`. Reuse them; don't rewrite them from scratch.
+Each unit goes through the same pipeline. Agent briefs for every step are saved as fill-in templates in `tools/briefs/`. Reuse them; don't rewrite them from scratch. `briefs/5_ced_reference_and_audit.md` holds the briefs for transcribing the CED and for auditing a unit's LO/HD tables against it. Use the audit brief before textbook integration whenever a new unit's notes come from memory or from outside the repo.
 
-1. **CED draft** (`briefs/1_notes_ced_draft.md`): run one agent per topic in parallel. Each writes notes and flashcards (EN + KR). The main session supplies the CED LO/HD text in the brief. Then show the user the topic list and get confirmation before starting.
+1. **CED draft** (`briefs/1_notes_ced_draft.md`): run one agent per topic in parallel. Each writes notes and flashcards (EN + KR). The main session supplies the CED LO/HD text in the brief, copied from `Unit<N>/Notes/AP_WH_Unit<N>_CED_EN.md`. Then show the user the topic list and get confirmation before starting.
 2. **Textbook integration** (`briefs/2_notes_textbook_integration.md`): run one agent per topic. Afterwards, send the same agent the flashcard follow-up message in that file; it has already read the textbook. If an agent's write is blocked by permissions, do not work around it. Ask the user to approve, then make the edit in the main session.
 3. **Mind map** (`briefs/3_mindmap_data.md`): split the regions among about 4 agents. Each writes paired EN/KR JSON for its own regions only. Then build:
    `python3 -I tools/mindmap/build_opml.py tools/mindmap/unit1 Unit1/Mindmaps`
@@ -90,6 +94,13 @@ xmllint --noout Unit1/Mindmaps/AP_WH_Unit1_MindMap_EN.opml Unit1/Mindmaps/AP_WH_
 For notes, compare the EN and KR files: count headings (`^#+ `), table rows (`^\|`), `` ```mermaid `` blocks, and `⚠️`. Also grep for `�`; Korean writes have occasionally produced broken characters.
 
 Don't count Korean strings with `sort | uniq -c`. Under the macOS UTF-8 locale, it merges different Hangul strings: it once reported a nonexistent Unit 2 tag error by folding `(인과관계)` into `(비교)`. Count with Python (`collections.Counter`) or with one `grep -c` per string.
+
+## Git
+
+- **Never commit to `main` directly.** For every set of changes, start from an up-to-date `main` (`git switch main && git pull`), create a feature branch with a short descriptive name, commit there, and push with `git push -u origin <branch>`. The user opens and merges the PRs on GitHub.
+- Run `git branch --show-current` before committing. PRs get merged on GitHub between sessions, so the branch you expect may no longer be checked out.
+- Commit and push when the user asks. Say which branch the commit landed on.
+- Never force-push or rewrite pushed history. To undo a pushed commit, add a revert commit.
 
 ## Known open issues
 

@@ -12,15 +12,15 @@
 
 | Code | Learning Objective |
 |---|---|
-| 2.5 LO | Explain the intellectual and cultural effects of the various networks of exchange in Afro-Eurasia from c. 1200 to c. 1450. |
+| 2.5 LO-J (CDI) | Explain the intellectual and cultural effects of the various networks of exchange in Afro-Eurasia from c. 1200 to c. 1450. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | Covered in |
 |---|---|---|
-| HD1 | As exchange networks intensified, an increasing number of travelers within Afro-Eurasia wrote about their travels. Examples: Ibn Battuta, Marco Polo, Margery Kempe. | §6 |
-| HD2 | Increased cross-cultural interactions resulted in the diffusion of literary, artistic, and cultural traditions. Examples: the influence of Buddhism in East Asia, Hinduism and Buddhism in Southeast Asia, and Islam in Sub-Saharan Africa and Southeast Asia. | §1, §2, §3 |
-| HD3 | Increased cross-cultural interactions also resulted in the diffusion of scientific and technological traditions. Examples: the influence of Greek and Indian mathematics on Muslim scholars; the return of Greek science and philosophy to Western Europe via Muslim al-Andalus in Iberia; the spread of printing and gunpowder technologies from East Asia into the Islamic empires and Western Europe. | §4 |
+| HD1 | KC-3.1.III.D: Increased cross-cultural interactions resulted in the diffusion of literary, artistic, and cultural traditions, as well as scientific and technological innovations. Illustrative examples — *Diffusion of cultural traditions:* The influence of Buddhism in East Asia; The spread of Hinduism and Buddhism into Southeast Asia; The spread of Islam in sub-Saharan Africa and Asia. *Diffusion of scientific or technological innovations:* Gunpowder from China; Paper from China. | §1 (Buddhism in East Asia), §2 (Hinduism and Buddhism in Southeast Asia), §3 (Islam in Africa and Asia), §4 (gunpowder, paper) |
+| HD2 | KC-3.3.II: The fate of cities varied greatly, with periods of significant decline and periods of increased urbanization, buoyed by rising productivity and expanding trade networks. | §5 |
+| HD3 | KC-3.1.III.C: As exchange networks intensified, an increasing number of travelers within Afro-Eurasia wrote about their travels. Illustrative examples — *Travelers:* Ibn Battuta; Margery Kempe; Marco Polo. | §6 |
 
 ---
 
@@ -137,7 +137,7 @@ flowchart LR
 | **Paper and printing** | Papermaking reached **Europe** from China in the **13th century** | Together with printing, **literacy rose** |
 | **Seafaring** | **Lateen sail, stern rudder, astrolabe, magnetic compass** | Chinese, Indian, and Southwest Asian sailors expanded their knowledge of astronomy and the natural world |
 | **Warfare** | **Gunpowder and guns** spread from China | Changed warfare |
-| **CED: al-Andalus** | Greek science and philosophy **returned to Western Europe** through Muslim Iberia (see 2.4: Ibn Rushd and al-Andalus) | Later contributed to the Renaissance |
+| **al-Andalus** | Greek science and philosophy **returned to Western Europe** through Muslim Iberia (see 2.4: Ibn Rushd and al-Andalus) | Later contributed to the Renaissance |
 
 > ⚠️ The textbook says Champa rice spread "from India to Vietnam and China." Most sources say it came from **Champa (central Vietnam)** to Song China. The 2.6 reading explains the difference: because Champa was under Hindu influence, some scholars think the rice may have come from India originally. Note 2.6 covers both views.
 
@@ -284,4 +284,4 @@ gantt
 | Additional | Angkor Thom | A Khmer royal city with both Hindu and Buddhist art |
 | Additional | Bhakti | A devotional movement whose poets looked for links between Hinduism and Islam |
 | Additional | Vernacular | Everyday spoken language, as opposed to formal scholarly language |
-| CED | al-Andalus | Muslim Iberia, through which Greek learning returned to Western Europe |
+| Additional | al-Andalus | Muslim Iberia, through which Greek learning returned to Western Europe |

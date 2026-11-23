@@ -43,6 +43,7 @@ Check the result by looking at it, not only by trusting the page count. Render a
 - `(A)`-style answer options stay literal. The pandoc `fancy_lists` extension is turned off.
 - The `neutral` Mermaid theme is grayscale on purpose, so pages print well on a black-and-white printer.
 - A question paragraph (`**12.** …`) and the option list that follows it are never split across pages.
+- Table columns are sized to their content, not to the length of the `|---|` separator. A short first-column cell (20 characters or fewer, such as `KC-3.2.I.A` or `HD1 · LO-D`) does not wrap.
 
 ## If something is missing
 

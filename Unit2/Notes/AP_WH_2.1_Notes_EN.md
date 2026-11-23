@@ -12,16 +12,15 @@
 
 | Code | Learning Objective |
 |---|---|
-| 2.1 LO | Explain the causes and effects of the growth of networks of exchange after 1200. |
+| 2.1 LO-A (ECN) | Explain the causes and effects of growth of networks of exchange after 1200. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | Covered in |
 |---|---|---|
-| HD1 | Improved commercial practices led to an increased volume of trade and expanded the geographical range of existing and newly active trade networks. | §2, §3 |
-| HD2 | The growth of interregional trade in luxury goods was encouraged by innovations in previously existing transportation and commercial technologies, including the caravanserai, forms of credit, and the development of money economies. | §2, §3 |
-| HD3 | The Silk Roads promoted the growth of powerful new trading cities. | §4 |
-| HD4 | Demand for luxury goods increased in Afro-Eurasia. Chinese, Persian, and Indian artisans and merchants expanded their production of textiles and porcelains for export; the manufacture of iron and steel expanded in China. | §6 |
+| HD1 | KC-3.1.I.A.i: Improved commercial practices led to an increased volume of trade and expanded the geographical range of existing trade routes—including the Silk Roads—promoting the growth of powerful new trading cities. Illustrative examples — *Trading cities:* Kashgar; Samarkand. | §2, §3, §4 (Kashgar, Samarkand) |
+| HD2 | KC-3.1.I.C.i: The growth of interregional trade in luxury goods was encouraged by innovations in previously existing transportation and commercial technologies, including the caravanserai, forms of credit, and the development of money economies. Illustrative examples — *New forms of credit and money economies:* Bills of exchange; Banking houses; Use of paper money. | §2, §3 (caravanserai, bills of exchange, banking houses, paper money) |
+| HD3 | KC-3.3.I.B: Demand for luxury goods increased in Afro-Eurasia. Chinese, Persian, and Indian artisans and merchants expanded their production of textiles and porcelains for export; manufacture of iron and steel expanded in China. | §6 |
 
 ---
 
@@ -250,5 +249,5 @@ gantt
 | Economics | Bill of exchange | A document promising payment of a set amount on a set date |
 | Economics | Hanseatic League | A commercial alliance of northern German and Scandinavian cities (13th century to mid-17th century) |
 | CED | Luxury goods | High-value, low-bulk goods such as silk and porcelain |
-| CED | Proto-industrialization | Large-scale production for market before mechanized industry |
+| Economics | Proto-industrialization | Large-scale production for market before mechanized industry |
 | CED | Porcelain | Fine, high-fired ceramic and a famous Chinese export |

@@ -12,17 +12,14 @@
 
 | Code | Learning Objective |
 |---|---|
-| 2.6 LO | Explain the environmental effects of the various networks of exchange in Afro-Eurasia from c. 1200 to c. 1450. |
+| 2.6 LO-K (ENV) | Explain the environmental effects of the various networks of exchange in Afro-Eurasia from c. 1200 to c. 1450. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | Covered in |
 |---|---|---|
-| HD1 | There was continued diffusion of crops and pathogens, with epidemic diseases, including the bubonic plague, along trade routes. | §1, §3 |
-| HD2 | Examples of crop diffusion (CED illustrative examples): bananas in Africa, new rice varieties in East Asia, and the spread of cotton, sugar, and citrus throughout Dar al-Islam and the Mediterranean basin. | §1 |
+| HD1 | KC-3.1.IV: There was continued diffusion of crops and pathogens, with epidemic diseases, including the bubonic plague, along trade routes. Illustrative examples — *Diffusion of crops:* Bananas in Africa; New rice varieties in East Asia; Spread of citrus in the Mediterranean. | §1 (bananas, Champa rice, citrus), §3 |
 | Textbook extension | Population pressure caused environmental degradation: overgrazing, deforestation, and soil erosion. | §2 |
-
-> ⚠️ HD1 and HD2 paraphrase the CED. The textbook covers the same crops and the plague, which supports this structure, but check the exact wording against the official CED PDF.
 
 ---
 
@@ -226,7 +223,7 @@ gantt
 | Environment (Degradation) | Deforestation | Clearing forests; caused soil erosion in feudal Europe |
 | Environment (Degradation) | Soil erosion | Loss of topsoil, which lowers farm production |
 | Environment (Disease) | Bubonic plague | The Black Death, spread by fleas along trade routes |
-| Additional | Cotton | A CED example; spread together with Islam |
+| Additional | Cotton | Not a CED example (the CED lists bananas, new rice varieties, and citrus); spread together with Islam |
 | Additional | Terraced farming | Step-shaped fields on hillsides; used to grow Champa rice in the uplands |
 | Additional | Paddies | Flooded lowland fields for growing rice |
 | Additional | Little Ice Age | A cooler period (c. 1300–c. 1800) that reduced harvests |

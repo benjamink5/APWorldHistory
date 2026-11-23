@@ -12,17 +12,16 @@
 
 | Code | Learning Objective |
 |---|---|
-| 1.5 LO (GOV) | Explain how and why states in Africa developed and changed over time. |
+| 1.5 LO-J (GOV) | Explain how and why states in Africa developed and changed over time. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | Covered in |
 |---|---|---|
-| HD1 (KC-3.2.I.D) | In Africa, as in Eurasia and the Americas, state systems demonstrated continuity, innovation, and diversity in the 13th century. | §1–§9 |
-| HD1-a | Illustrative example: **Mali** | §2 |
-| HD1-b | Illustrative example: **Hausa kingdoms** | §3 |
-| HD1-c | Illustrative example: **Ethiopia** | §4 |
-| HD1-d | Illustrative example: **Great Zimbabwe** | §5 |
+| HD1 (KC-3.2.I.D.ii) | In Africa, as in Eurasia and the Americas, state systems demonstrated continuity, innovation, and diversity and expanded in scope and reach. | §1–§9 |
+| HD1-a | Illustrative example: **Great Zimbabwe** | §5 |
+| HD1-b | Illustrative example: **Ethiopia** | §4 |
+| HD1-c | Illustrative example: **Hausa kingdoms** | §3 |
 
 ---
 

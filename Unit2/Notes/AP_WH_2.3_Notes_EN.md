@@ -12,18 +12,20 @@
 
 | Code | Learning Objective |
 |---|---|
-| 2.3 LO-A | Explain the causes of the growth of networks of exchange after 1200. |
-| 2.3 LO-B | Explain the effects of the growth of networks of exchange after 1200. |
+| 2.3 LO-E (ECN) | Explain the causes of the growth of networks of exchange after 1200. |
+| 2.3 LO-F (CDI) | Explain the effects of the growth of networks of exchange after 1200. |
+| 2.3 LO-G (ENV) | Explain the role of environmental factors in the development of networks of exchange in the period from c. 1200 to c. 1450. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | LO | Covered in |
 |---|---|---|---|
-| HD1 | The growth of interregional trade was encouraged by innovations in previously existing maritime technologies, such as the compass, astrolabe, and larger ship designs (e.g., the dhow and the junk). | A | §4 |
-| HD2 | The expansion and intensification of long-distance trade routes often depended on environmental knowledge, including advanced knowledge of the monsoon winds. | A | §3 |
-| HD3 | The growth of interregional trade encouraged merchants to set up diasporic communities, where they introduced their own cultural traditions into the local culture. Examples: Arab and Persian communities in East Africa, Chinese merchant communities in Southeast Asia, Malay communities in the Indian Ocean basin. | B | §6 |
-| HD4 | The economy of the Indian Ocean led to the growth of new states, often based on trade: the Swahili city-states, the Sultanate of Malacca, and the Gujarat region. | B | §5, §7, §8 |
-| HD5 | The Ming dynasty's state-sponsored voyages, led by Zheng He, made Chinese prestige greater in the Indian Ocean. | B | §9 |
+| HD1 | KC-3.1.I.A.ii: Improved transportation technologies and commercial practices led to an increased volume of trade and expanded the geographical range of existing trade routes, including the Indian Ocean, promoting the growth of powerful new trading cities. | E | §1 (Calicut, Cambay), §4, §5, §8 |
+| HD2 | KC-3.1.I.C.ii: The growth of interregional trade in luxury goods was encouraged by significant innovations in previously existing transportation and commercial technologies, including the use of the compass, the astrolabe, and larger ship designs. | E | §4 |
+| HD3 | KC-3.1.I.A.iii: The Indian Ocean trading network fostered the growth of states. Illustrative examples — *Growth of states:* City-states of the Swahili Coast; Gujarat; Sultanate of Malacca. | E | §5 (Malacca), §7 (Gujarat), §8 (Swahili city-states) |
+| HD4 | KC-3.1.III.B: In key places along important trade routes, merchants set up diasporic communities where they introduced their own cultural traditions into the indigenous cultures and, in turn, indigenous cultures influenced merchant cultures. Illustrative examples — *Diasporic communities:* Arab and Persian communities in East Africa; Chinese merchant communities in Southeast Asia; Malay communities in the Indian Ocean basin. | F | §6 (Arab and Persian merchants in East Africa; textbook table: Chinese merchants in Southeast Asia, Malay merchants in Sri Lanka), §9 (Chinese emigration to Southeast Asian ports) |
+| HD5 | KC-3.2.II.A.iii: Interregional contacts and conflicts between states and empires encouraged significant technological and cultural transfers, including during Chinese maritime activity led by Ming Admiral Zheng He. | F | §9 |
+| HD6 | KC-3.1.II.A.i: The expansion and intensification of long-distance trade routes often depended on environmental knowledge, including advanced knowledge of the monsoon winds. | G | §3 |
 
 ---
 
@@ -124,11 +126,11 @@ flowchart LR
 | **Stern rudder** | Invented by Chinese sailors in the classical period; gave ships more stability and made them easier to steer |
 | **Dhow** | A small wooden ship used by Arab and Indian sailors; dominated the seas in the Postclassical Era |
 | **Astrolabe** | Improved by Muslim navigators in the 12th century; showed how far north or south a ship was from the equator (latitude) |
-| **Compass and junk** | CED examples. The 2.3 reading says the magnetic compass and improved rudder are covered in Topic 4.1; the 2.1 reading covers the junk |
+| **Compass and junk** | The CED names the compass, the astrolabe, and larger ship designs (KC-3.1.I.C.ii); the junk is one such larger ship design. The 2.3 reading says the magnetic compass and improved rudder are covered in Topic 4.1; the 2.1 reading covers the junk |
 
 - Trade itself spread sailing technology quickly to many lands around the Indian Ocean.
 
-> ⚠️ The 2.1 reading dates the magnetic compass and junk to the Han Dynasty, while the 2.3 reading moves the compass to Topic 4.1. Since the CED lists the compass and junk as examples for 2.3, they are kept here.
+> ⚠️ The 2.1 reading dates the magnetic compass and junk to the Han Dynasty, while the 2.3 reading moves the compass to Topic 4.1. Since the CED's 2.3 HD names the compass and larger ship designs, they are kept here.
 
 ## §5. Cause and Effect: Growth of States — Malacca
 

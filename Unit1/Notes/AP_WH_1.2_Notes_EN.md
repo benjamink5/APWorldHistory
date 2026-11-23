@@ -12,20 +12,27 @@
 
 | Code | Learning Objective |
 |---|---|
-| 1.2 LO A (CDI) | Explain how systems of belief and their practices affected society in the period from c. 1200 to c. 1450. |
-| 1.2 LO B (GOV) | Explain the causes and effects of the rise of Islamic states over time. |
-| 1.2 LO C (CDI/SCI) | Explain the effects of intellectual innovation in Dar al-Islam. |
+| 1.2 LO-D (CDI) | Explain how systems of belief and their practices affected society in the period from c. 1200 to c. 1450. |
+| 1.2 LO-E (GOV) | Explain the causes and effects of the rise of Islamic states over time. |
+| 1.2 LO-F (TEC) | Explain the effects of intellectual innovation in Dar al-Islam. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | Covered in |
 |---|---|---|
-| HD1 · LO A | KC-3.1.III.D.iii: Islam, Judaism, Christianity, and the core beliefs and practices of these religions continued to shape societies in Afro-Eurasia. | §1, §2, §7 |
-| HD2 · LO B | KC-3.2.I.A.ii: As the Abbasid Caliphate fragmented, new Islamic political entities emerged, most of which were dominated by Turkic peoples. These states demonstrated continuity, innovation, and diversity. Illustrative examples: **Mamluks**, **Seljuk Empire**, **Delhi Sultanate**. | §3, §4 (Seljuks, Mamluks, Delhi Sultanate), Comparison Tables |
-| HD3 · LO B | KC-3.2.I.A.iii: Muslim rule continued to expand to many parts of Afro-Eurasia due to military expansion, and Islam subsequently expanded through the activities of merchants, missionaries, and Sufis. | §2 (Sufism, merchants), §5 |
-| HD4 · LO C | KC-3.1.III.D.iv: Muslim states and empires encouraged significant intellectual innovations and transfers. Illustrative examples: **advances in mathematics**, **Nasir al-Din al-Tusi**, **literature**, **preservation and commentaries on Greek moral and natural philosophy**, **House of Wisdom in Abbasid Baghdad**, **scholarly and cultural transfers in Muslim and Christian Spain**. | §6 (House of Wisdom, mathematics, al-Tusi, Greek philosophy, literature), §7 (Muslim and Christian Spain), §8 |
-
-> ⚠️ Needs verification: the KC wording for HD1, HD3, and HD4 is close to the CED but approximated. Check the exact wording against the current CED.
+| HD1 · LO-D | KC-3.1.III.D.iii: Islam, Judaism, Christianity, and the core beliefs and practices of these religions continued to shape societies in Africa and Asia. | §1, §2, §5 |
+| HD2 · LO-E | KC-3.2.I: As the Abbasid Caliphate fragmented, new Islamic political entities emerged, most of which were dominated by Turkic peoples. These states demonstrated continuity, innovation, and diversity. | §3, §4, Comparison Tables |
+| HD2 · Ex. | Illustrative example (New Islamic political entities): Seljuk Empire | §3, §4 |
+| HD2 · Ex. | Illustrative example (New Islamic political entities): Mamluk sultanate of Egypt | §4 |
+| HD2 · Ex. | Illustrative example (New Islamic political entities): Delhi sultanates | §4 |
+| HD3 · LO-E | KC-3.1.III.A: Muslim rule continued to expand to many parts of Afro-Eurasia due to military expansion, and Islam subsequently expanded through the activities of merchants, missionaries, and Sufis. | §2 (Sufism, merchants), §5 |
+| HD4 · LO-F | KC-3.2.II.A.i: Muslim states and empires encouraged significant intellectual innovations and transfers. | §6, §7, §8 |
+| HD4 · Ex. | Illustrative example (Innovations): Advances in mathematics (Nasir al-Din al-Tusi) | §6 |
+| HD4 · Ex. | Illustrative example (Innovations): Advances in literature ('A'ishah al-Ba'uniyyah) | §2, §6 |
+| HD4 · Ex. | Illustrative example (Innovations): Advances in medicine | §6 |
+| HD4 · Ex. | Illustrative example (Transfers): Preservation and commentaries on Greek moral and natural philosophy | §6, §7 |
+| HD4 · Ex. | Illustrative example (Transfers): House of Wisdom in Abbasid Bagdad | §6 |
+| HD4 · Ex. | Illustrative example (Transfers): Scholarly and cultural transfers in Muslim and Christian Spain | §7 |
 
 ---
 

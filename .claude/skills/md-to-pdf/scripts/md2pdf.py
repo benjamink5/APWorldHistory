@@ -39,6 +39,8 @@ HEADER = """<script src="mermaid.min.js"></script>
 window.__mermaidErrors = [];
 document.addEventListener("DOMContentLoaded", async () => {
   if (%(open)s) document.querySelectorAll("details").forEach(d => d.open = true);
+  // Keep short codes in a table's first column (KC-3.2.I.A, HD1 · LO-D) on one line.
+  document.querySelectorAll("tr > :first-child").forEach(c => { if (c.textContent.trim().length <= 20) c.style.whiteSpace = "nowrap"; });
   const nodes = [...document.querySelectorAll("pre.mermaid")];
   if (nodes.length && window.mermaid) {
     mermaid.initialize({ startOnLoad: false, theme: "neutral", securityLevel: "loose",

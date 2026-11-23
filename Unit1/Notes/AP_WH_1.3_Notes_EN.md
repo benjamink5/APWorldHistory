@@ -12,24 +12,25 @@
 
 | Code | Learning Objective |
 |---|---|
-| 1.3 LO-A (CDI) | Explain how the various belief systems and practices of South and Southeast Asia affected society over time. |
-| 1.3 LO-B (GOV) | Explain how and why various states of South and Southeast Asia developed and maintained power over time. |
+| 1.3 LO-G (CDI) | Explain how the various belief systems and practices of South and Southeast Asia affected society over time. |
+| 1.3 LO-H (GOV) | Explain how and why various states of South and Southeast Asia developed and maintained power over time. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | LO | Covered in |
 |---|---|---|---|
-| HD1 (KC-3.1.III.D.v) | Hinduism, Islam, and Buddhism, and their core beliefs and practices, continued to shape societies in South and Southeast Asia. | A | §1, §2, §3, §4 |
-| HD1 example | Bhakti movement | A | §3 |
-| HD1 example | Sufism | A | §4 |
-| HD1 example | Buddhist monasticism | A | §2, §6 |
-| HD2 (KC-3.2.I.A.iv) | State formation and development demonstrated continuity, innovation, and diversity in South and Southeast Asia, including the new Hindu and Buddhist states that emerged. | B | §5, §6, §7, §8, §9 |
-| HD2 example | Vijayanagara Empire | B | §5 |
-| HD2 example | Srivijaya Empire | B | §7 |
-| HD2 example | Rajput kingdoms | B | §5 |
-| HD2 example | Khmer Empire | B | §8 |
-| HD2 example | Majapahit | B | §7 |
-| HD2 example | Sinhala dynasties | B | §6 |
+| HD1 (KC-3.1.III.D.iv) | Hinduism, Islam, and Buddhism, and their core beliefs and practices, continued to shape societies in South and Southeast Asia. | G | §1, §2, §3, §4 |
+| HD1 example | Bhakti movement | G | §3 |
+| HD1 example | Sufism | G | §4 |
+| HD1 example | Buddhist monasticism | G | §2, §6 |
+| HD2 (KC-3.2.I.B.i) | State formation and development demonstrated continuity, innovation, and diversity, including the new Hindu and Buddhist states that emerged in South and Southeast Asia. | H | §5, §6, §7, §8, §9 |
+| HD2 example | Vijayanagara Empire | H | §5 |
+| HD2 example | Srivijaya Empire | H | §7 |
+| HD2 example | Rajput kingdoms | H | §5 |
+| HD2 example | Khmer Empire | H | §8 |
+| HD2 example | Majapahit | H | §7 |
+| HD2 example | Sukhothai kingdom | H | §2, §8 |
+| HD2 example | Sinhala dynasties | H | §6 |
 
 ---
 
@@ -324,6 +325,7 @@ flowchart LR
 - **Irrigation:** Huge **reservoirs (barays)** and canals stored water for **rice** farming, supporting a large population. The textbook adds that irrigation let farmers harvest **rice several times a year**, and **drainage systems** reduced damage from heavy **monsoon rains**, making the Khmer one of the **most prosperous** kingdoms in Southeast Asia.
 - **Maintaining power:** kings presented themselves as connected to the gods, built temples to show legitimacy, controlled labor for temples and waterworks, and collected rice as taxes.
 - **Decline (15th century):** wars with the Thai kingdom of **Ayutthaya** (founded 1351), strain on the water system, and the shift to Theravada Buddhism (which needed fewer royal temples) weakened royal power. Ayutthaya **sacked Angkor c. 1431**, and the Khmer capital moved south.
+- **Sukhothai kingdom (c. 1238–1438):** a Thai kingdom that broke away from Khmer control in the 13th century. Under King **Ramkhamhaeng** (late 13th century) it expanded and supported **Theravada Buddhism** from Sri Lanka, and its rulers presented themselves as patrons of the monks. In the 14th century it came under the rival Thai kingdom of **Ayutthaya**, which absorbed it in 1438.
 - Chinese envoy **Zhou Daguan** visited Angkor in 1296–1297 and described its wealth.
 - **Legacy (textbook):** The ruins of Angkor Thom and Angkor Wat still stand, showing both the **sophistication of Southeast Asian culture** and the **powerful influence of Indian culture** on the region.
 

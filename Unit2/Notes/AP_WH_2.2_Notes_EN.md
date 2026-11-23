@@ -12,18 +12,17 @@
 
 | Code | Learning Objective |
 |---|---|
-| 2.2 LO-A | Explain the process of state building and decline in Eurasia over time. |
-| 2.2 LO-B | Explain how the expansion of empires influenced trade and communication over time. |
-| 2.2 LO-C | Explain the significance of the Mongol Empire in larger patterns of continuity and change. |
+| 2.2 LO-B (GOV) | Explain the process of state building and decline in Eurasia over time. |
+| 2.2 LO-C (ECN) | Explain how the expansion of empires influenced trade and communication over time. |
+| 2.2 LO-D (CDI) | Explain the significance of the Mongol Empire in larger patterns of continuity and change. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | LO | Covered in |
 |---|---|---|---|
-| HD1 | Empires collapsed in different regions of the world and in some areas were replaced by new imperial states, including the Mongol khanates. | A | §2, §4, §5 |
-| HD2 | The Mongols created the largest contiguous land-based empire in history. | A | §2, §6 |
-| HD3 | The Mongol Empire made Eurasian trade and communication easier, as new peoples were drawn into the conquerors' economies and trade networks. | B | §3, §4, §6 |
-| HD4 | Interregional contacts and conflicts between states and empires, including the Mongols, encouraged significant technological and cultural transfers. Examples: the transfer of Greco-Islamic medical knowledge to Western Europe and the adoption of the Uyghur script. | C | §3, §6 |
+| HD1 | KC-3.2.I.B.iii: Empires collapsed in different regions of the world and in some areas were replaced by new imperial states, including the Mongol khanates. | B | §2, §4, §5 |
+| HD2 | KC-3.1.I.E.i: The expansion of empires—including the Mongols—facilitated Afro-Eurasian trade and communication as new people were drawn into their conquerors’ economies and trade networks. | C | §3, §4, §6 |
+| HD3 | KC-3.2.II.A.ii: Interregional contacts and conflicts between states and empires, including the Mongols, encouraged significant technological and cultural transfers. Illustrative examples — *Technological and cultural transfers:* Transfer of Greco–Islamic medical knowledge to western Europe; Transfer of numbering systems to Europe; Adoption of Uyghur script. | D | §2 (Uyghur alphabet), §3, §6 (Greco-Islamic medicine, Arabic numerals, Uyghur alphabet) |
 
 ---
 
@@ -102,7 +101,7 @@ flowchart LR
 ## §3. Effects on Trade, Communication, and Culture
 
 - The **Pax Mongolica** ("Mongolian peace," c. 1250–1350) brought **new trade channels** between Asia, the Middle East, Africa, and Europe.
-- With each conquest, **new peoples were absorbed** into the Mongol economy and networks of exchange (CED HD3).
+- With each conquest, **new peoples were absorbed** into the Mongol economy and networks of exchange (CED HD2).
 - Survivors of the conquests benefited from **revived trade routes** that had not been heavily used since the Roman and Han empires.
 - Roads were built, maintained, and guarded.
 - **Mongol women** led **more independent lives** than women in other societies. They tended flocks, rode horses, wore the same leather trousers as men, could **remarry** after being widowed, and could **start a divorce**.
@@ -307,5 +306,5 @@ gantt
 | Culture | Uyghur alphabet | Adapted to write Mongolian; still used in Mongolia |
 | Society | White Lotus Society | A secret society that organized against the Yuan (1350s) |
 | Society | Bubonic plague | The Black Death, spread along Mongol trade and military routes |
-| CED | Largest contiguous land-based empire | The Mongol Empire's place in history |
+| Government | Largest contiguous land-based empire | The Mongol Empire's place in history |
 | CED | Greco-Islamic medical knowledge | Medical knowledge transferred to Western Europe through Mongol contact |
