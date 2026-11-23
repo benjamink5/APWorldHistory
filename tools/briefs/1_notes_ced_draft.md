@@ -34,10 +34,14 @@ Title `... · Flashcards` / `... · 플래시카드`, then the source line, then
 (KR uses `▶ 정답`.) The Comparison & AP Writing section has comparison cards, at least two SAQ-style cards, and one LEQ-thesis card, written Claim → Evidence → Reasoning (KR 주장 → 근거 → 설명) on separate lines ending in `<br/>`. The pie counts must equal the real number of cards in each section.
 
 ## Topic <X.Y> content (College Board CED)
+<Paste the output of `python3 -I .claude/skills/unit-builder/scripts/ced_topic.py <X.Y>` here. It has this shape:>
 Title: **<X.Y> <CED title>** (KR: <Korean title>)
+Suggested skill: <code> <skill> — <description>
 Learning Objectives and Historical Developments (use this wording):
 - **LO A (<theme>):** <...>
-  - <KC code>: <HD text>. Illustrative examples: <...>
+  - <KC code>: <HD text>
+  - Illustrative examples — *<Category>:* <item>; <item>   (or "none in the CED for this LO")
+KR wording: for the KR LO and HD tables, copy the Korean translations from `Unit<N>/Notes/AP_WH_Unit<N>_CED_KR.md` (Topic <X.Y>) instead of translating again, and reuse its Korean terms.
 <Content to cover: key states, people, dates, comparisons, map ideas. Keep it to standard AP-level scholarship.>
 
 ## Final check (before reporting)
