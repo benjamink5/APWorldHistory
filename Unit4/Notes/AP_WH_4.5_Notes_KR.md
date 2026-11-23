@@ -82,7 +82,7 @@ flowchart TD
     end
     
     Goods -->|제1구간: 무기·공산품 수출| 아프리카
-    Slaves -->|제2구간: 중간 항로 (Middle Passage)| 아메리카
+    Slaves -->|"제2구간: 중간 항로 (Middle Passage)"| 아메리카
     Crops -->|제3구간: 원자재·사치품 수송| 유럽
 ```
 

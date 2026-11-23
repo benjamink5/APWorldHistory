@@ -9,7 +9,7 @@ Bilingual (English / Korean) study materials for **AP World History: Modern**, w
 | [Unit 1](Unit1/) | The Global Tapestry, c. 1200–1450 | 1.1–1.7 | Complete, textbook incorporated |
 | [Unit 2](Unit2/) | Networks of Exchange, c. 1200–1450 | 2.1–2.7 | Complete, textbook incorporated |
 | [Unit 3](Unit3/) | Land-Based Empires, c. 1450–1750 | 3.1–3.4 | Imported; different format |
-| [Unit 4](Unit4/) | Transoceanic Interconnections, c. 1450–1750 | 4.1–4.8 | Imported; different format, no 4.1 EN notes |
+| [Unit 4](Unit4/) | Transoceanic Interconnections, c. 1450–1750 | 4.1–4.8 | Imported; different format |
 | [Unit 5](Unit5/) | Revolutions, c. 1750–1900 | 5.1–5.10 | Imported; different format |
 
 Units 3–5 were made separately and copied in, so their layout and test formats differ from Units 1–2.

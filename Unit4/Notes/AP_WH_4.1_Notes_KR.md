@@ -63,7 +63,7 @@ flowchart TD
     subgraph 글로벌_결과["전 지구적 파급 효과"]
         G --> I[대양 횡단 항로 개척 및 인도양 직항 무역망 구축]
         H --> I
-        I --> J[해양 제국(Maritime Empires)의 출현]
+        I --> J["해양 제국(Maritime Empires)의 출현"]
     end
 ```
 

@@ -77,12 +77,12 @@ flowchart LR
         AfPeople["Human Labor: Enslaved Africans (Diaspora)"]
     end
 
-    AmCrops -->|Population explosion & dietary diversification| AfroEurasia
-    AmMetals -->|Global monetization & inflation (Price Rev)| AfroEurasia
-    EuDiseases -->|Demographic collapse: 50-90% mortality| Americas
-    EuAnimals -->|Overgrazing & Plains horse culture| Americas
-    EuCrops -->|Deforestation & plantation cash crops| Americas
-    AfPeople -->|Coerced plantation labor & cultural syncretism| Americas
+    AmCrops -->|"Population explosion & dietary diversification"| AfroEurasia
+    AmMetals -->|"Global monetization & inflation (Price Rev)"| AfroEurasia
+    EuDiseases -->|"Demographic collapse: 50-90% mortality"| Americas
+    EuAnimals -->|"Overgrazing & Plains horse culture"| Americas
+    EuCrops -->|"Deforestation & plantation cash crops"| Americas
+    AfPeople -->|"Coerced plantation labor & cultural syncretism"| Americas
 ```
 
 ### Demographic Divergence Timeline
