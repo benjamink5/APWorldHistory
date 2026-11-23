@@ -11,6 +11,12 @@ Bilingual (English / Korean) study materials for **AP World History: Modern**, w
 | [Unit 3](Unit3/) | Land-Based Empires, c. 1450–1750 | 3.1–3.4 | Imported; different format |
 | [Unit 4](Unit4/) | Transoceanic Interconnections, c. 1450–1750 | 4.1–4.8 | Imported; different format |
 | [Unit 5](Unit5/) | Revolutions, c. 1750–1900 | 5.1–5.10 | Imported; different format |
+| [Unit 6](Unit6/) | Consequences of Industrialization, c. 1750–1900 | 6.1–6.8 | CED reference only |
+| [Unit 7](Unit7/) | Global Conflict, c. 1900–present | 7.1–7.9 | CED reference only |
+| [Unit 8](Unit8/) | Cold War and Decolonization, c. 1900–present | 8.1–8.9 | CED reference only |
+| [Unit 9](Unit9/) | Globalization, c. 1900–present | 9.1–9.9 | CED reference only |
+
+Every unit has a CED reference file (`Unit<N>/Notes/AP_WH_Unit<N>_CED_{EN,KR}.md`) with the College Board's learning objectives, historical developments, and illustrative examples, verbatim. [`Course/`](Course/) has the exam format, skills, themes, and scoring rubrics.
 
 Units 3–5 were made separately and copied in, so their layout and test formats differ from Units 1–2.
 
@@ -19,9 +25,11 @@ Units 3–5 were made separately and copied in, so their layout and test formats
 ```
 Unit<N>/
 ├── Notes/        AP_WH_<topic>_Notes_{EN,KR}.md         topic notes with tables and Mermaid diagrams
+│                 AP_WH_Unit<N>_CED_{EN,KR}.md           the unit's CED learning objectives and historical developments
 ├── Flashcards/   AP_WH_<topic>_Flashcards_{EN,KR}.md    20–40 cards per topic, answers in <details>
 ├── Mindmaps/     AP_WH_Unit<N>_MindMap_{EN,KR}.opml     region → people / events / institutions
 └── Tests/        AP_WH_Unit<N>_MCQ_…                    stimulus-based MCQs and answer keys (Unit 3 also has DBQs)
+Course/           exam format, skills, themes, and rubrics from the CED
 tools/            generators and agent briefs used to build the materials
 Output/           generated PDFs and other exports (gitignored)
 ```
@@ -45,6 +53,6 @@ To change those files, edit the data and regenerate. Everything else is edited d
 
 ## Sources and caveats
 
-- CED wording was written from memory, because the CED PDF could not be downloaded. Check it against the official CED where exact wording matters.
+- CED wording comes from the College Board's *AP World History: Modern Course and Exam Description*, effective Fall 2026. The Unit 1–2 notes' LO/HD tables were checked against it. The PDF is not included in this repo.
 - Textbook content comes from OCR'd text, so a few facts are marked "check against the printed textbook".
 - Where the textbook disagrees with standard scholarship, the files give the textbook version first and flag the other view with ⚠️.

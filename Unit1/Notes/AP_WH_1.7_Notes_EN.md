@@ -12,19 +12,24 @@
 
 | Code | Learning Objective |
 |---|---|
-| 1.7 LO (GOV) | Explain the similarities and differences in the processes of state formation from c. 1200 to c. 1450. |
+| 1.7 LO-N | Explain the similarities and differences in the processes of state formation from c. 1200 to c. 1450. |
 
-> Note: The title above is the textbook's title for 1.7, and it matches the CED topic title as we understand it. Earlier versions of these notes used the informal title "Comparison in State Building." If your class materials use a different title, follow them.
+> Note: The title above is the textbook's title for 1.7, and it matches the CED topic title. Earlier versions of these notes used the informal title "Comparison in State Building." If your class materials use a different title, follow them.
 
 ## Historical Developments (CED)
 
-> 1.7 is a comparison topic. It asks you to **compare the states of Topics 1.1–1.6** (East Asia, Dar al-Islam, South and Southeast Asia, the Americas, Africa, and Europe) using the skill of **Comparison**.
+> 1.7 is a comparison topic. It asks you to **compare the states of Topics 1.1–1.6** (East Asia, Dar al-Islam, South and Southeast Asia, the Americas, Africa, and Europe) using the reasoning process of **Comparison** (the CED's suggested skill is 6.A, making a historically defensible claim).
 
 | # | Historical Development | Covered in |
 |---|---|---|
-| HD1 (KC-3.2.I) | Empires and states in Afro-Eurasia and the Americas demonstrated continuity, innovation, and diversity in the 13th century. | §1, §2, §3, §4, §5, §6, §7, §8, §9 |
+| HD1 (KC-3.2) | State formation and development demonstrated continuity, innovation, and diversity in various regions. | §1, §2, §3, §4, §5, §6, §7, §8, §9 |
+| HD2 (KC-3.2.I) | As the Abbasid Caliphate fragmented, new Islamic political entities emerged, most of which were dominated by Turkic peoples. These states demonstrated continuity, innovation, and diversity. | §2, §3, §4, §7 |
+| HD3 (KC-3.2.I.A) | Empires and states in Afro-Eurasia and the Americas demonstrated continuity, innovation, and diversity in the 13th century. This included the Song Dynasty of China, which utilized traditional methods of Confucianism and an imperial bureaucracy to maintain and justify its rule. | §1, §2, §3, §4, §6 |
+| HD4 (KC-3.2.I.B.i) | State formation and development demonstrated continuity, innovation, and diversity, including the new Hindu and Buddhist states that emerged in South and Southeast Asia. | §2, §3, §4, §5 |
+| HD5 (KC-3.2.I.D.i) | In the Americas, as in Afro-Eurasia, state systems demonstrated continuity, innovation, and diversity, and expanded in scope and reach. | §1, §2, §3, §4, §5 |
+| HD6 (KC-3.2.I.D.ii) | In Africa, as in Eurasia and the Americas, state systems demonstrated continuity, innovation, and diversity, and expanded in scope and reach. | §2, §3, §4, §5 |
 
-> ⚠️ Needs verification: The KC-3.2.I wording above is close to, but may not match, the official CED text word for word.
+> Note: In the CED, 1.7 has no historical developments of its own. Under "Review: Unit 1 Key Concepts" it lists the six key concepts above, and it prints no thematic focus, so the LO code carries no theme tag.
 
 ---
 

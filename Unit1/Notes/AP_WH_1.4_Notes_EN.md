@@ -12,19 +12,21 @@
 
 | Code | Learning Objective |
 |---|---|
-| 1.4 LO (GOV) | Explain how and why states in the Americas developed and changed over time. |
+| 1.4 LO-I (GOV) | Explain how and why states in the Americas developed and changed over time. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | Covered in |
 |---|---|---|
-| HD1 | KC-3.2.I.D: In the Americas, as in Afro-Eurasia, state systems demonstrated continuity, innovation, and diversity, and expanded in scope and reach. | §1–§6 |
+| HD1 | KC-3.2.I.D.i: In the Americas, as in Afro-Eurasia, state systems demonstrated continuity, innovation, and diversity, and expanded in scope and reach. | §1–§6 |
 | HD1 · Ex. 1 | Illustrative example: Maya city-states | §1, §2 |
 | HD1 · Ex. 2 | Illustrative example: Mexica | §3 |
 | HD1 · Ex. 3 | Illustrative example: Inca | §4 |
-| Textbook | North American societies covered in the textbook reading: the Mississippian culture and Cahokia; Chaco and Mesa Verde (Ancestral Puebloans) | §5 |
+| HD1 · Ex. 4 | Illustrative example: Chaco | §5 |
+| HD1 · Ex. 5 | Illustrative example: Mesa Verde | §5 |
+| HD1 · Ex. 6 | Illustrative example: Cahokia | §5 |
 
-> **Note:** The CED's illustrative examples for 1.4 are the Maya city-states, the Mexica, and the Inca. The textbook reading also gives the Mississippian culture (Cahokia) and Chaco and Mesa Verde their own sections, and its key terms include *Mississippian*, *matrilineal society*, *mound-building*, and *Cahokia*. For your class, treat §5 as part of the required reading, not just background.
+> **Note:** The CED's illustrative examples for 1.4 are the Maya city-states, the Mexica, the Inca, Chaco, Mesa Verde, and Cahokia. The textbook reading gives the Mississippian culture (Cahokia) and Chaco and Mesa Verde their own sections, and its key terms include *Mississippian*, *matrilineal society*, *mound-building*, and *Cahokia*. Treat §5 as required content, not just background.
 
 ---
 
@@ -46,7 +48,7 @@ flowchart LR
     B --> B2["Mexica<br/>tribute empire, 1428"]
     C --> C1["Inca<br/>centralized empire, c. 1438"]
     D --> D1["Mississippian Cahokia, Chaco, Mesa Verde<br/>declined by about 1450"]
-    B1 --> E["KC-3.2.I.D<br/>continuity, innovation, diversity,<br/>expanded scope and reach"]
+    B1 --> E["KC-3.2.I.D.i<br/>continuity, innovation, diversity,<br/>expanded scope and reach"]
     B2 --> E
     C1 --> E
     D1 --> E

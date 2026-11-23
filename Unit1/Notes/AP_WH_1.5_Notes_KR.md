@@ -12,17 +12,16 @@
 
 | 코드 | 학습 목표 |
 |---|---|
-| 1.5 LO (GOV) | 아프리카의 국가들이 어떻게, 그리고 왜 발전하고 변화했는지 설명하라. |
+| 1.5 LO-J (GOV) | 아프리카의 국가들이 어떻게, 그리고 왜 발전하고 변화했는지 설명하라. |
 
 ## 역사적 개념 (Historical Developments, CED)
 
 | # | 역사적 개념 | 다루는 곳 |
 |---|---|---|
-| HD1 (KC-3.2.I.D) | 유라시아와 아메리카처럼 아프리카에서도 13세기의 국가 체제는 연속성 (Continuity), 혁신 (Innovation), 다양성 (Diversity)을 보여 주었다. | §1–§9 |
-| HD1-a | 예시: **말리 (Mali)** | §2 |
-| HD1-b | 예시: **하우사 왕국 (Hausa kingdoms)** | §3 |
-| HD1-c | 예시: **에티오피아 (Ethiopia)** | §4 |
-| HD1-d | 예시: **그레이트 짐바브웨 (Great Zimbabwe)** | §5 |
+| HD1 (KC-3.2.I.D.ii) | 유라시아와 아메리카에서처럼 아프리카에서도 국가 체제는 연속성 (Continuity), 혁신 (Innovation), 다양성 (Diversity)을 보였고, 그 범위와 영향력이 확대되었다 (Expanded in scope and reach). | §1–§9 |
+| HD1-a | 예시: **그레이트 짐바브웨 (Great Zimbabwe)** | §5 |
+| HD1-b | 예시: **에티오피아 (Ethiopia)** | §4 |
+| HD1-c | 예시: **하우사 왕국 (Hausa kingdoms)** | §3 |
 
 ---
 

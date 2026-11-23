@@ -62,6 +62,16 @@ function CodeBlock(cb)
   end
 end
 
+-- Pandoc fixes column widths from the length of the |---| separator, which gives a short
+-- code column (KC, Topic) the same width as a long text column. Drop the fixed widths so
+-- the browser sizes columns to their content.
+function Table(t)
+  for i, cs in ipairs(t.colspecs) do
+    t.colspecs[i] = {cs[1], pandoc.ColWidthDefault}
+  end
+  return t
+end
+
 local function is_question(b)
   if b.t ~= "Para" and b.t ~= "Plain" then return false end
   local first = b.content[1]
@@ -106,7 +116,7 @@ local function wrap_h3(blocks)
 end
 
 function Pandoc(doc)
-  doc = doc:walk({CodeBlock = CodeBlock})
+  doc = doc:walk({CodeBlock = CodeBlock, Table = Table})
   local blocks = wrap_questions(doc.blocks)
   if doc.meta.keep_h3 then blocks = wrap_h3(blocks) end
   doc.blocks = blocks

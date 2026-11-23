@@ -20,21 +20,22 @@
 
 | # | Historical Development | LO | Covered in |
 |---|---|---|---|
-| HD1 | KC-3.2.I.A.i: Empires and states in Afro-Eurasia and the Americas demonstrated continuity, innovation, and diversity in the 13th century. This included the Song Dynasty of China, which utilized traditional methods of Confucianism and an imperial bureaucracy to maintain and justify its rule. | A | §1, §2, §7 |
+| HD1 | KC-3.2.I.A: Empires and states in Afro-Eurasia and the Americas demonstrated continuity, innovation, and diversity in the 13th century. This included the Song Dynasty of China, which utilized traditional methods of Confucianism and an imperial bureaucracy to maintain and justify its rule. | A | §1, §2, §7 |
 | HD2 | KC-3.1.III.D.i: Chinese cultural traditions continued, and they influenced neighboring regions. | B | §3, §5 |
-| HD2a | Illustrative example: filial piety in East Asia | B | §3, §5 |
-| HD2b | Illustrative example: influence of Neo-Confucianism and Buddhism in East Asia | B | §3, §4, §5 |
-| HD2c | Illustrative example: Confucian traditions of both respect for and expectation of benevolence from authority figures | B | §2, §3 |
-| HD2d | Illustrative example: Chinese influence on surrounding states and their cultures (Heian Japan, Korea, Vietnam) | B | §5 |
+| HD2a | Illustrative example (Cultural traditions): Filial piety in East Asia | B | §3, §5 |
+| HD2b | Illustrative example (Cultural traditions): Influence of Neo-Confucianism and Buddhism in East Asia | B | §3, §4, §5 |
+| HD2c | Illustrative example (Cultural traditions): Confucian traditions of both respect for and expected deference from women | B | §3 |
+| HD2d | Illustrative example (Cultural traditions): Chinese literary and scholarly traditions and their spread to Heian Japan and Korea | B | §3, §5 |
 | HD3 | KC-3.1.III.D.ii: Buddhism and its core beliefs continued to shape societies in Asia and included a variety of branches, schools, and practices. | B | §4 |
-| HD3a | Illustrative example: Theravada Buddhism | B | §4 |
-| HD3b | Illustrative example: Mahayana Buddhism | B | §4, §5 |
-| HD3c | Illustrative example: Tibetan Buddhism | B | §4, §7 |
-| HD4 | KC-3.3.I.A: The economy of Song China flourished as a result of increased productive capacity, expanding trade networks, and innovations in agriculture and manufacturing. | C | §6 |
-| HD4a | Illustrative example: Champa rice | C | §6 |
-| HD4b | Illustrative example: transportation innovations such as the expansion of the Grand Canal | C | §6 |
-| HD4c | Illustrative example: steel and iron production | C | §6 |
-| HD4d | Illustrative example: textiles and porcelains for export | C | §6 |
+| HD3a | Illustrative example (Branches of Buddhism): Theravada | B | §4 |
+| HD3b | Illustrative example (Branches of Buddhism): Mahayana | B | §4, §5 |
+| HD3c | Illustrative example (Branches of Buddhism): Tibetan | B | §4, §7 |
+| HD4 | KC-3.3.III.A.i: The economy of Song China became increasingly commercialized while continuing to depend on free peasant and artisanal labor. | C | §3, §6 |
+| HD5 | KC-3.1.I.D: The economy of Song China flourished as a result of increased productive capacity, expanding trade networks, and innovations in agriculture and manufacturing. | C | §6 |
+| HD5a | Illustrative example (Technological innovations): Champa rice | C | §6 |
+| HD5b | Illustrative example (Technological innovations): Transportation innovations, like the Grand Canal expansion | C | §6 |
+| HD5c | Illustrative example (Technological innovations): Steel and iron production | C | §6 |
+| HD5d | Illustrative example (Technological innovations): Textiles and porcelains for export | C | §6 |
 
 ---
 
@@ -290,6 +291,7 @@ flowchart TB
 
 - **Productive capacity:** more food (Champa rice, irrigation, iron tools) and more manufacturing (iron, silk, porcelain) meant more goods to sell.
 - **Expanding trade networks:** the Grand Canal for internal trade, and **junks** with the **magnetic compass** for sea trade to Southeast Asia, India, and East Africa. The Chinese redesigned ships to carry **more cargo**, and **printed paper navigation charts** let sailors cross open water out of sight of land. Naval technology let China **control trade in the South China Sea**, and Tang and Song military power protected traders from **bandits**.
+- **Free labor:** even as the economy commercialized, it still rested on the work of **free peasant** households, which grew rice and made silk and other goods for sale, and of **artisans** in workshops and kilns. Unlike Europe's serfs (Topic 1.6), most Song peasants were not legally bound to a lord's land, although many farmed as tenants of large landowners.
 
 > ⚠️ The textbook says the Grand Canal extended over **30,000 miles**. Many accounts give about **1,100 miles** (about 1,800 km) for the Grand Canal itself; a larger figure may count China's whole network of connected waterways. Check this against the printed textbook.
 

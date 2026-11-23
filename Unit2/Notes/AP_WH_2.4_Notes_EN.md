@@ -12,18 +12,16 @@
 
 | Code | Learning Objective |
 |---|---|
-| 2.4 LO-A | Explain the causes and effects of the growth of trans-Saharan trade. |
-| 2.4 LO-B | Explain how the expansion of empires influenced trade and communication over time. |
-
-> ⚠️ The earlier version had one LO about "environmental factors," marked as uncertain. These two LOs are rebuilt from the textbook's Essential Question and the CED Historical Developments below. Check the exact wording against the official CED PDF.
+| 2.4 LO-H (TEC) | Explain the causes and effects of the growth of trans-Saharan trade. |
+| 2.4 LO-I (GOV) | Explain how the expansion of empires influenced trade and communication over time. |
 
 ## Historical Developments (CED)
 
 | # | Historical Development | LO | Covered in |
 |---|---|---|---|
-| HD1 | Improved commercial practices led to an increased volume of trade and expanded the geographical range of existing and newly active trade networks. | A | §1, §4 |
-| HD2 | Innovations in transportation, including the use of the camel saddle, encouraged the growth of interregional trade. | A | §2, §3 |
-| HD3 | The expansion of empires, including Mali in West Africa, facilitated trans-Saharan trade. | B | §4, §5 |
+| HD1 | KC-3.1.II.A.ii: The growth of interregional trade was encouraged by innovations in existing transportation technologies. Illustrative examples — *Technologies encouraging interregional trade:* Camel saddle; Caravans. | H | §1 (caravans), §2, §3 (camel saddle) |
+| HD2 | KC-3.1.I.A.iv: Improved transportation technologies and commercial practices led to an increased volume of trade and expanded the geographical range of existing trade routes, including the trans-Saharan trade network. | H | §1, §3, §4 |
+| HD3 | KC-3.1.I.E.ii: The expansion of empires—including Mali in West Africa–facilitated Afro-Eurasian trade and communication as new people were drawn into the economies and trade networks. | I | §4, §5 |
 
 ---
 
