@@ -1,2 +1,5 @@
 __pycache__/
 .enchante-tool-results/
+Inbox/
+.DS_Store
+Output/
