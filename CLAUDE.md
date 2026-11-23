@@ -81,9 +81,10 @@ xmllint --noout AP_WH_Unit1_MindMap_EN.opml AP_WH_Unit1_MindMap_KR.opml
 
 For notes, compare the EN and KR files: count headings (`^#+ `), table rows (`^\|`), `` ```mermaid `` blocks, and `⚠️`. Also grep for `�`; Korean writes have occasionally produced broken characters.
 
+Don't count Korean strings with `sort | uniq -c`. Under the macOS UTF-8 locale, it merges different Hangul strings: it once reported a nonexistent Unit 2 tag error by folding `(인과관계)` into `(비교)`. Count with Python (`collections.Counter`) or with one `grep -c` per string.
+
 ## Known open issues
 
-- `AP_WH_Unit2_MCQ_Answers_KR.md` labels 13 causation questions `기술 5: 연결하기 (비교)`; the EN file correctly says Causation.
 - The textbook contradicts itself on Srivijaya and Majapahit. The 1.3 reading (which agrees with scholarship) calls Srivijaya Buddhist and Majapahit Hindu; the 2.5 reading says the reverse. The 2.5 notes follow the 2.5 reading.
 - Korean spellings vary between topic notes: 레콘키스타 / 레콩키스타, 칭기즈 칸 / 칭기스 칸, 말라카 / 믈라카, 아인잘루트 / 아인 잘루트. The Unit 1 mind map uses the first form of each pair.
 - About 60 reign and life dates in the Unit 1 mind map come from standard references, not from the notes or the textbook.
