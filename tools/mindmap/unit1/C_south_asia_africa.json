@@ -1,0 +1,799 @@
+[
+ {
+  "order": 10,
+  "name_en": "Delhi Sultanate",
+  "name_kr": "델리 술탄국",
+  "people": [
+   {
+    "sort": 1206,
+    "en": "Qutb al-Din Aibak (r. 1206–1210) — Turkic former slave general who founded the Delhi Sultanate in 1206 [1.2, 1.3]",
+    "kr": "쿠트브 알딘 아이바크 (Qutb al-Din Aibak) (재위 1206–1210) — 1206년 델리 술탄국을 세운 튀르크계 노예 출신 장군 [1.2, 1.3]"
+   },
+   {
+    "sort": 1236,
+    "en": "Moinuddin Chishti (1143–1236) — Chishti Sufi who settled at Ajmer; his shrine drew both Muslims and Hindus [1.3]",
+    "kr": "모이누딘 치슈티 (Moinuddin Chishti) (1143–1236) — 아지메르에 정착한 치슈티 교단의 수피, 그의 성묘에 무슬림과 힌두교도가 함께 찾아옴 [1.3]"
+   },
+   {
+    "sort": 1236,
+    "en": "Razia Sultana (r. 1236–1240) — female ruler of the Delhi Sultanate, one of the few women to rule in the Islamic world [1.2, 1.3]",
+    "kr": "라지아 술타나 (Razia Sultana) (재위 1236–1240) — 이슬람 세계에서 드물게 통치자가 된 델리 술탄국의 여성 통치자 [1.2, 1.3]"
+   },
+   {
+    "sort": 1297,
+    "en": "Alauddin Khalji (r. 1296–1316) — defeated several Mongol invasions (c. 1297–1306) and captured the Rajput fortress of Chittor in 1303 [1.2, 1.3]",
+    "kr": "알라우딘 할지 (Alauddin Khalji) (재위 1296–1316) — 몽골의 침입을 여러 번 물리치고(c. 1297–1306) 1303년 라지푸트의 요새 치토르를 함락함 [1.2, 1.3]"
+   },
+   {
+    "sort": 1320,
+    "en": "Lal Ded (Mother Lalla) (1320–1392) — Hindu poet of Kashmir whose stress on personal experience appealed to many Muslims, especially Sufis [1.3]",
+    "kr": "랄 데드 (Lal Ded, Mother Lalla) (1320–1392) — 개인적 체험을 강조해 많은 무슬림, 특히 수피에게 호소력이 있었던 카슈미르의 힌두교 시인 [1.3]"
+   },
+   {
+    "sort": 1325,
+    "en": "Nizamuddin Auliya (1238–1325) — Chishti Sufi who taught in Delhi; his shrine drew both Muslims and Hindus [1.3]",
+    "kr": "니자무딘 아울리야 (Nizamuddin Auliya) (1238–1325) — 델리에서 가르친 치슈티 교단의 수피, 그의 성묘에 무슬림과 힌두교도가 함께 찾아옴 [1.3]"
+   },
+   {
+    "sort": 1400,
+    "en": "Kabir (c. 15th century) — weaver poet of Varanasi who blended Hindu and Muslim ideas and taught that God is one, whether called Rama or Allah [1.3]",
+    "kr": "카비르 (Kabir) (c. 15세기) — 힌두교와 이슬람의 생각을 섞고 라마든 알라든 신은 하나라고 가르친 바라나시의 직조공 시인 [1.3]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 700,
+    "en": "8th century — Islamic armies invade present-day Pakistan but change daily life little; Rajput princes limit their influence [1.3]",
+    "kr": "8세기 — 이슬람 군대가 오늘날의 파키스탄을 침입하지만 일상생활은 거의 바뀌지 않음, 라지푸트 군주들이 그 영향력을 제한함 [1.3]"
+   },
+   {
+    "sort": 1000,
+    "en": "11th century — Islamic forces plunder Hindu temples and Buddhist shrines and build mosques on their holy sites [1.3]",
+    "kr": "11세기 — 이슬람 군대가 힌두 사원과 불교 성소를 약탈하고 그 성지에 모스크를 세움 [1.3]"
+   },
+   {
+    "sort": 1190,
+    "en": "1190s — Muslim forces take Delhi [1.3]",
+    "kr": "1190년대 — 무슬림 군대가 델리를 점령함 [1.3]"
+   },
+   {
+    "sort": 1199,
+    "en": "c. 1199 — Qutb Minar begun in Delhi [1.3]",
+    "kr": "c. 1199 — 델리에서 쿠트브 미나르 건설이 시작됨 [1.3]"
+   },
+   {
+    "sort": 1206,
+    "en": "1206 — Qutb al-Din Aibak founds the Delhi Sultanate, which rules north India for about 300 years [1.2, 1.3, 1.7]",
+    "kr": "1206 — 쿠트브 알딘 아이바크가 델리 술탄국을 세우고, 술탄국은 약 300년 동안 북인도를 다스림 [1.2, 1.3, 1.7]"
+   },
+   {
+    "sort": 1297,
+    "en": "c. 1297–1306 — Alauddin Khalji turns back several Mongol invasions; the sultanate keeps the Mongols from conquering South Asia [1.2, 1.3, 1.7]",
+    "kr": "c. 1297–1306 — 알라우딘 할지가 몽골의 침입을 여러 번 물리치고, 술탄국은 몽골이 남아시아를 정복하지 못하게 막음 [1.2, 1.3, 1.7]"
+   },
+   {
+    "sort": 1398,
+    "en": "1398 — Timur (Tamerlane) sacks Delhi; the sultanate never fully recovers [1.2, 1.3]",
+    "kr": "1398 — 티무르가 델리를 약탈하고, 술탄국은 완전히 회복하지 못함 [1.2, 1.3]"
+   },
+   {
+    "sort": 1526,
+    "en": "1526 — Babur defeats the last Lodi sultan at Panipat and founds the Mughal Empire [1.2, 1.3]",
+    "kr": "1526 — 바부르가 파니파트에서 마지막 로디 술탄을 물리치고 무굴 제국을 세움 [1.2, 1.3]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Muslim minority rule — a small Muslim elite ruled a Hindu majority with Persian as the court language; the textbook's example of a synthesis of Islamic and Hindu traditions [1.2, 1.3, 1.7]",
+    "kr": "무슬림 소수 지배 — 소수의 무슬림 엘리트가 페르시아어를 궁정 언어로 쓰며 힌두교도 다수를 다스림, 교재가 드는 이슬람과 힌두 전통의 종합 사례 [1.2, 1.3, 1.7]"
+   },
+   {
+    "en": "Turkic military elite — first sultans were former slave soldiers; five dynasties (Mamluk, Khalji, Tughluq, Sayyid, Lodi); officers paid with iqta land grants [1.2, 1.3, 1.7]",
+    "kr": "튀르크계 군사 엘리트 — 첫 술탄들은 노예 병사 출신, 다섯 왕조(맘루크·할지·투글루크·사이이드·로디)가 차례로 다스림, 이크타 (Iqta) 토지 수여로 장교에게 보수를 줌 [1.2, 1.3, 1.7]"
+   },
+   {
+    "en": "Jizya — tax on non-Muslims, who were treated as protected people; the textbook says it added to Hindu resentment of Muslims [1.2, 1.3, 1.7]",
+    "kr": "지즈야 (Jizya) — 보호받는 사람으로 대우받은 비무슬림에게 걷은 세금, 교재는 이것이 무슬림에 대한 힌두교도의 원망을 키웠다고 봄 [1.2, 1.3, 1.7]"
+   },
+   {
+    "en": "Weak bureaucracy — the sultanate never built an efficient bureaucracy like China's, so local kingdoms kept a major role [1.3]",
+    "kr": "약한 관료제 — 술탄국은 중국식의 효율적인 관료제를 끝내 만들지 못해 지역 왕국들이 계속 큰 역할을 함 [1.3]"
+   },
+   {
+    "en": "Islamic legitimacy — sultans ruled as Muslims and sought recognition from the Abbasid caliph [1.2, 1.7]",
+    "kr": "이슬람에 의한 정당성 — 술탄들은 무슬림 통치자로서 아바스 칼리프의 인정을 구함 [1.2, 1.7]"
+   },
+   {
+    "en": "Land-based state — wealth came from taxes on a large farming population; the textbook calls it more land-based than the southern states [1.2, 1.3, 1.7]",
+    "kr": "육상 기반 국가 — 많은 농업 인구에게 거둔 세금이 부의 원천, 교재는 남인도 국가들보다 더 육지 기반이라고 씀 [1.2, 1.3, 1.7]"
+   },
+   {
+    "en": "Qutb Minar (textbook: Qutub Minar) — Indo-Islamic tower over a mosque built on a Hindu temple, a symbol of Islamic dominance of north India (⚠️ textbook calls it India's tallest structure; most sources say the world's tallest brick minaret) [1.2, 1.3, 1.7]",
+    "kr": "쿠트브 미나르 (Qutb Minar) (교재: Qutub Minar) — 힌두 사원 위에 세운 모스크 위로 솟은 인도-이슬람 탑, 북인도에 대한 이슬람 지배의 상징 (⚠️ 교재 기준 인도에서 가장 높은 구조물, 많은 자료는 세계에서 가장 높은 벽돌 미나레트로 봄) [1.2, 1.3, 1.7]"
+   },
+   {
+    "en": "Urdu — new language combining Hindi grammar with Arabic vocabulary and some Persian (Farsi) elements (⚠️ textbook; most sources say most borrowed words are Persian) [1.3]",
+    "kr": "우르두어 (Urdu) — 힌디어 문법에 아랍어 어휘와 일부 파르시어(페르시아어) 요소를 결합한 새 언어 (⚠️ 교재 기준, 많은 자료는 차용 어휘 대부분이 페르시아어라고 봄) [1.3]"
+   },
+   {
+    "en": "Sufism and the Chishti order — mystical Islam spread by Sufis through shrines, local languages, and qawwali songs that drew Muslims and Hindus [1.2, 1.3]",
+    "kr": "수피즘과 치슈티 교단 (Chishti order) — 수피들이 성묘, 지역 언어, 카왈리 노래로 퍼뜨린 신비주의 이슬람, 무슬림과 힌두교도를 함께 끌어들임 [1.2, 1.3]"
+   }
+  ]
+ },
+ {
+  "order": 11,
+  "name_en": "Hindu States of South Asia (Rajputs, Vijayanagara, Chola)",
+  "name_kr": "남아시아의 힌두 국가 (라지푸트·비자야나가르·촐라)",
+  "people": [
+   {
+    "sort": 1100,
+    "en": "Basava (12th century) — led the Lingayat Bhakti movement devoted to Shiva in Karnataka and rejected caste [1.3]",
+    "kr": "바사바 (Basava) (12세기) — 카르나타카에서 시바를 섬기는 링가야트 박티 운동을 이끌고 카스트를 거부함 [1.3]"
+   },
+   {
+    "sort": 1336,
+    "en": "Harihara and Bukka (Harihara I r. 1336–1356; Bukka I r. 1356–1377) — brothers sent south by Delhi who converted to Islam, returned to Hinduism, and founded Vijayanagara in 1336 (⚠️ textbook; many historians treat the conversion as a traditional story) [1.3]",
+    "kr": "하리하라와 부카 (Harihara and Bukka) (하리하라 1세 재위 1336–1356, 부카 1세 재위 1356–1377) — 델리가 남쪽으로 보낸 형제로, 이슬람으로 개종했다가 힌두교로 돌아와 1336년 비자야나가르를 세움 (⚠️ 교재 기준, 많은 학자는 개종 이야기를 전승으로 봄) [1.3]"
+   },
+   {
+    "sort": 1498,
+    "en": "Mira Bai (c. 1498–1547) — Rajput princess and famous female Bhakti poet devoted to Krishna (after this period) [1.3]",
+    "kr": "미라바이 (Mira Bai) (c. 1498–1547) — 크리슈나를 섬긴 라지푸트 공주이자 유명한 여성 박티 시인 (이 시기 이후) [1.3]"
+   },
+   {
+    "sort": 1509,
+    "en": "Krishnadevaraya (r. 1509–1529) — Vijayanagara reached its peak under his rule [1.3]",
+    "kr": "크리슈나데바라야 (Krishnadevaraya) (재위 1509–1529) — 그의 치세에 비자야나가르가 전성기를 맞음 [1.3]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 550,
+    "en": "After 550 — After the Gupta collapse, Rajput kingdoms gradually form in northern India and present-day Pakistan [1.3]",
+    "kr": "550년 이후 — 굽타 왕조가 무너진 뒤 북인도와 오늘날의 파키스탄에 라지푸트 왕국들이 점차 생겨남 [1.3]"
+   },
+   {
+    "sort": 850,
+    "en": "850–1267 — Chola Dynasty (Tamil, Hindu) rules south India for more than 400 years (⚠️ textbook; most sources say it ended in 1279) [1.3, 1.7]",
+    "kr": "850–1267 — 촐라 왕조(타밀, 힌두)가 400년 넘게 남인도를 다스림 (⚠️ 교재 기준, 많은 자료는 1279년에 끝났다고 봄) [1.3, 1.7]"
+   },
+   {
+    "sort": 1000,
+    "en": "11th century — The Cholas extend their rule to Ceylon (Sri Lanka) [1.3]",
+    "kr": "11세기 — 촐라가 실론(스리랑카)까지 지배를 넓힘 [1.3]"
+   },
+   {
+    "sort": 1025,
+    "en": "1025 — Chola navy raids Srivijaya [1.3, 1.7]",
+    "kr": "1025 — 촐라 해군이 스리위자야를 공격함 [1.3, 1.7]"
+   },
+   {
+    "sort": 1100,
+    "en": "12th century — Bhakti Movement begins in southern India and later spreads north (⚠️ textbook; most sources trace its roots to the Tamil Alvars and Nayanars, c. 6th–9th centuries) [1.3]",
+    "kr": "12세기 — 남인도에서 박티 운동이 시작되어 이후 북쪽으로 퍼짐 (⚠️ 교재 기준, 많은 자료는 그 뿌리를 c. 6–9세기 타밀의 알와르와 나야나르에서 찾음) [1.3]"
+   },
+   {
+    "sort": 1303,
+    "en": "1303 — Alauddin Khalji captures Chittor in Mewar, but the Rajput kingdoms survive and recover [1.3]",
+    "kr": "1303 — 알라우딘 할지가 메와르의 치토르를 함락하지만 라지푸트 왕국들은 살아남아 다시 일어섬 [1.3]"
+   },
+   {
+    "sort": 1336,
+    "en": "1336 — Harihara and Bukka found the Vijayanagara Empire in south India [1.3, 1.7]",
+    "kr": "1336 — 하리하라와 부카가 남인도에 비자야나가르 제국을 세움 [1.3, 1.7]"
+   },
+   {
+    "sort": 1347,
+    "en": "1347 — Bahmani Sultanate is founded on Vijayanagara's border [1.3]",
+    "kr": "1347 — 비자야나가르와 국경을 맞댄 바흐마니 술탄국이 세워짐 [1.3]"
+   },
+   {
+    "sort": 1443,
+    "en": "1443 — Persian envoy Abdur Razzaq describes Vijayanagara as one of the greatest cities he had seen [1.3]",
+    "kr": "1443 — 페르시아 사절 압두르 라자크가 비자야나가르를 자신이 본 가장 위대한 도시 중 하나로 묘사함 [1.3]"
+   },
+   {
+    "sort": 1565,
+    "en": "1565 — Vijayanagara loses the Battle of Talikota to the Deccan sultanates and continues in weakened form until 1646 [1.3]",
+    "kr": "1565 — 비자야나가르가 탈리코타 전투에서 데칸 술탄국들에 패하고 약해진 채 1646년까지 이어짐 [1.3]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Caste system — four varnas plus jati birth groups, justified by karma and dharma; the textbook calls it India's strongest historical continuity [1.3]",
+    "kr": "카스트 제도 — 네 바르나와 출생 집단인 자티로 이루어지고 카르마와 다르마로 정당화됨, 교재는 인도의 가장 강한 역사적 연속성이라고 부름 [1.3]"
+   },
+   {
+    "en": "Bhakti movement — intense devotion to one god (Vishnu, Krishna, or Shiva), open to all castes and women, spread through vernacular poetry and song [1.3]",
+    "kr": "박티 운동 (Bhakti movement) — 한 신(비슈누, 크리슈나, 시바)에 대한 강렬한 헌신, 모든 카스트와 여성에게 열려 있었고 토착어 시와 노래로 퍼짐 [1.3]"
+   },
+   {
+    "en": "Rajput kingdoms — Hindu warrior clans of Rajasthan claiming Kshatriya status, whose power rested on fortresses, clan loyalty, and warrior honor [1.3]",
+    "kr": "라지푸트 왕국 (Rajput kingdoms) — 크샤트리아 신분을 주장한 라자스탄의 힌두 전사 씨족, 요새·씨족의 충성·전사의 명예가 힘의 바탕 [1.3]"
+   },
+   {
+    "en": "Rajput regionalism — clan leaders often fought one another, so no central government arose and they were vulnerable to Muslim attacks [1.3]",
+    "kr": "라지푸트의 지역주의 — 씨족 지도자들이 서로 자주 싸워 중앙 정부가 생기지 않았고 무슬림의 공격에 취약했음 [1.3]"
+   },
+   {
+    "en": "Vijayanagara Hindu kingship — patron of temples at the capital Hampi; presented itself as defender of Hindu traditions against the sultanates [1.3, 1.7]",
+    "kr": "비자야나가르의 힌두 왕권 — 수도 함피 (Hampi)의 사원을 후원하고 술탄국들에 맞서 힌두 전통을 지키는 나라로 자신을 내세움 [1.3, 1.7]"
+   },
+   {
+    "en": "Vijayanagara power base — irrigated agriculture, a strong army with hired Muslim cavalry, nayaka governors, and land revenue [1.3, 1.7]",
+    "kr": "비자야나가르의 권력 기반 — 저수지·운하를 갖춘 농업, 무슬림 기병을 고용한 강한 군대, 나야카 (Nayaka) 총독, 토지 세입 [1.3, 1.7]"
+   },
+   {
+    "en": "Trade in South India — Vijayanagara exported cotton textiles, pepper, and gems and imported warhorses; the textbook says the Chola and Vijayanagar used trade to build strong states (⚠️ textbook; many sources classify Vijayanagara as land-based) [1.3, 1.7]",
+    "kr": "남인도의 교역 — 비자야나가르는 면직물·후추·보석을 수출하고 군마를 수입함, 교재는 촐라와 비자야나가르가 교역으로 강한 국가를 세웠다고 씀 (⚠️ 교재 기준, 많은 자료는 비자야나가르를 육지 기반 국가로 분류함) [1.3, 1.7]"
+   },
+   {
+    "en": "Chola naval power — Hindu kingdom with a strong navy and trade ports; built great temples such as the one at Thanjavur [1.3, 1.7]",
+    "kr": "촐라의 해군력 — 강한 해군과 교역 항구를 가진 힌두 왕국, 탄자부르 (Thanjavur) 사원 같은 거대한 사원을 지음 [1.3, 1.7]"
+   }
+  ]
+ },
+ {
+  "order": 12,
+  "name_en": "Sri Lanka (Sinhala Dynasties)",
+  "name_kr": "스리랑카 (싱할라 왕조)",
+  "people": [
+   {
+    "sort": 1153,
+    "en": "Parakramabahu I (r. 1153–1186) — expanded the irrigation tanks and canals at the capital Polonnaruwa [1.3]",
+    "kr": "파라크라마바후 1세 (Parakramabahu I) (재위 1153–1186) — 수도 폴론나루와에서 저수지와 운하를 크게 늘림 [1.3]"
+   },
+   {
+    "sort": 1412,
+    "en": "Parakramabahu VI (r. 1412–1467) — briefly reunited the island from Kotte [1.3]",
+    "kr": "파라크라마바후 6세 (Parakramabahu VI) (재위 1412–1467) — 코테에서 잠시 섬을 다시 통일함 [1.3]"
+   }
+  ],
+  "events": [
+   {
+    "sort": -300,
+    "en": "3rd century B.C.E. — Buddhists arrive among the Sinhala (descendants of early north Indian immigrants); the island becomes a center of Buddhist study [1.3]",
+    "kr": "기원전 3세기 — 북인도에서 온 초기 이주민의 후손인 싱할라 사회에 불교도가 들어오고, 섬이 불교 학문의 중심지가 됨 [1.3]"
+   },
+   {
+    "sort": 1000,
+    "en": "11th century — The Chola dynasty of south India extends its rule to Ceylon [1.3]",
+    "kr": "11세기 — 남인도의 촐라 왕조가 실론까지 지배를 넓힘 [1.3]"
+   },
+   {
+    "sort": 1100,
+    "en": "12th–14th centuries — Sri Lankan monks carry Theravada Buddhism to Burma, Thailand, and Cambodia [1.3]",
+    "kr": "12–14세기 — 스리랑카 승려들이 상좌부 불교를 버마, 태국, 캄보디아로 전함 [1.3]"
+   },
+   {
+    "sort": 1215,
+    "en": "1215 — After an invasion, the Sinhala capital moves southwest (Dambadeniya, later Kotte) and a Tamil Hindu kingdom forms in Jaffna [1.3]",
+    "kr": "1215 — 침입 이후 싱할라의 수도가 남서부(담바데니야, 이후 코테)로 옮겨 가고 북쪽 자프나에 타밀 힌두 왕국이 생김 [1.3]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Theravada Buddhist kingship — Sinhala kings saw protecting Buddhism as their main duty [1.3]",
+    "kr": "상좌부 불교 왕권 — 싱할라 왕들은 불교를 지키는 것을 가장 중요한 의무로 여김 [1.3]"
+   },
+   {
+    "en": "Buddhist monasticism — kings gave land to monasteries and nunneries, and Buddhist priests often advised the monarchs [1.3]",
+    "kr": "불교 수도원 제도 — 왕들이 수도원과 비구니 사찰에 땅을 주었고, 불교 승려가 자주 군주에게 조언함 [1.3]"
+   },
+   {
+    "en": "Tooth Relic — the Buddha's tooth was a symbol of royal power; whoever held it had the right to rule [1.3]",
+    "kr": "불치 사리 (Tooth Relic) — 왕권의 상징인 부처의 치아, 이것을 가진 사람이 다스릴 권리를 가짐 [1.3]"
+   },
+   {
+    "en": "Irrigation tanks — huge reservoirs and canals stored monsoon rain for rice farming; the textbook says they fueled economic growth [1.3]",
+    "kr": "관개 저수지 (Tank) — 몬순 비를 모아 벼농사에 쓴 거대한 저수지와 운하, 교재는 경제 성장에 이바지했다고 씀 [1.3]"
+   },
+   {
+    "en": "Land-based kingdom — the textbook groups the Sinhala dynasties with the Khmer as kingdoms that drew power from land and irrigation [1.3]",
+    "kr": "육상 기반 왕국 — 교재는 싱할라 왕조를 크메르와 함께 땅과 관개에서 힘을 얻은 왕국으로 묶음 [1.3]"
+   },
+   {
+    "en": "Weakening — attacks by invaders from India and conflicts between the monarchy and Buddhist priests weakened the kingdoms [1.3]",
+    "kr": "약화 요인 — 인도에서 온 침입자들의 공격과 왕실과 불교 승려 사이의 갈등이 왕국들을 약하게 함 [1.3]"
+   }
+  ]
+ },
+ {
+  "order": 13,
+  "name_en": "Srivijaya and Majapahit",
+  "name_kr": "스리위자야와 마자파힛",
+  "people": [
+   {
+    "sort": 1293,
+    "en": "Raden Wijaya (r. 1293–1309) — founded Majapahit in 1293 by using an invading Mongol (Yuan) army to defeat a rival, then drove the Mongols out [1.3]",
+    "kr": "라덴 위자야 (Raden Wijaya) (재위 1293–1309) — 침입한 몽골(원나라) 군대를 이용해 경쟁자를 물리친 뒤 몽골군을 몰아내고 1293년 마자파힛을 세움 [1.3]"
+   },
+   {
+    "sort": 1350,
+    "en": "Hayam Wuruk (r. 1350–1389) — king under whom Majapahit reached its peak [1.3]",
+    "kr": "하얌 우룩 (Hayam Wuruk) (재위 1350–1389) — 마자파힛의 전성기를 이끈 왕 [1.3]"
+   },
+   {
+    "sort": 1350,
+    "en": "Gajah Mada (d. c. 1364) — Hayam Wuruk's chief minister who vowed to unite the archipelago [1.3]",
+    "kr": "가자 마다 (Gajah Mada) (c. 1364년 사망) — 군도 통일을 맹세한 하얌 우룩의 재상 [1.3]"
+   }
+  ],
+  "events": [
+   {
+    "sort": -500,
+    "en": "500 B.C.E. — Indian merchants trade in Southeast Asia, and their voyages bring Hinduism and Buddhism to the region [1.3]",
+    "kr": "기원전 500 — 인도 상인들이 동남아시아와 교역하고, 그 항해를 통해 힌두교와 불교가 이 지역에 들어옴 [1.3]"
+   },
+   {
+    "sort": 670,
+    "en": "670–1025 — Srivijaya builds up its navy and prospers by charging fees on ships between India and China (⚠️ textbook; most sources say it survived, weakened, into the 13th century) [1.3, 1.7]",
+    "kr": "670–1025 — 스리위자야가 해군을 키우고 인도와 중국 사이를 오가는 배에 통행료를 걷어 번영함 (⚠️ 교재 기준, 많은 자료는 약해진 채 13세기까지 이어졌다고 봄) [1.3, 1.7]"
+   },
+   {
+    "sort": 671,
+    "en": "671 — Chinese monk Yijing studies in Srivijaya on his way to India [1.3]",
+    "kr": "671 — 중국 승려 의정 (Yijing)이 인도로 가는 길에 스리위자야에서 공부함 [1.3]"
+   },
+   {
+    "sort": 1025,
+    "en": "1025 — Chola navy from south India raids and weakens Srivijaya [1.3, 1.7]",
+    "kr": "1025 — 남인도 촐라 해군의 공격으로 스리위자야가 약해짐 [1.3, 1.7]"
+   },
+   {
+    "sort": 1293,
+    "en": "1293 — Raden Wijaya founds Majapahit on Java [1.3, 1.7]",
+    "kr": "1293 — 라덴 위자야가 자와에 마자파힛을 세움 [1.3, 1.7]"
+   },
+   {
+    "sort": 1365,
+    "en": "1365 — Court poem Nagarakretagama lists Majapahit's tributary lands; at its height it has 98 tributaries [1.3]",
+    "kr": "1365 — 궁정 시 나가라크르타가마 (Nagarakretagama)에 마자파힛의 조공국이 나옴, 전성기에 조공국은 98개 [1.3]"
+   },
+   {
+    "sort": 1370,
+    "en": "Late 14th century — Majapahit controls Srivijaya's former lands [1.3]",
+    "kr": "14세기 말 — 마자파힛이 스리위자야의 옛 영토를 장악함 [1.3]"
+   },
+   {
+    "sort": 1400,
+    "en": "15th century — Muslim port states such as Malacca and Demak grow richer as Islamic influence spreads [1.3]",
+    "kr": "15세기 — 이슬람의 영향력이 커지면서 말라카, 드막 같은 무슬림 항구 국가가 더 부유해짐 [1.3]"
+   },
+   {
+    "sort": 1520,
+    "en": "1520 — Majapahit ends after a slow decline following the deaths of key leaders (⚠️ textbook; other sources say c. 1478 or c. 1527) [1.3]",
+    "kr": "1520 — 핵심 지도자들이 죽은 뒤 서서히 쇠퇴한 마자파힛이 멸망함 (⚠️ 교재 기준, 다른 자료는 c. 1478년 또는 c. 1527년으로 봄) [1.3]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Sea-based state — Srivijaya (capital Palembang, Sumatra) controlled the Strait of Malacca, taxed ships waiting for the monsoon, and used its navy against pirates [1.3, 1.7]",
+    "kr": "해상 기반 국가 — 스리위자야(수도 수마트라의 팔렘방)는 말라카 해협을 장악하고 몬순을 기다리는 배에 세금을 걷었으며 해군으로 해적을 누름 [1.3, 1.7]"
+   },
+   {
+    "en": "Tribute and alliances — Srivijaya sent tribute missions to China for trade privileges and kept local rulers loyal with gifts, oaths, and shared profits [1.3]",
+    "kr": "조공과 동맹 — 스리위자야는 교역 특권을 얻으려 중국에 조공 사절을 보냈고, 선물·맹세·교역 이익의 분배로 지방 통치자의 충성을 유지함 [1.3]"
+   },
+   {
+    "en": "Religion and kingship — Srivijaya was primarily a Buddhist (mostly Mahayana) kingdom and religious center; Majapahit was a Hindu kingdom with strong Buddhist influences (⚠️ the 2.5 textbook reading says the reverse: Srivijaya Hindu, Majapahit Buddhist) [1.3, 1.7]",
+    "kr": "종교와 왕권 — 스리위자야는 주로 불교(대체로 대승 불교) 왕국이자 종교 중심지, 마자파힛은 불교의 영향이 강한 힌두 왕국 (⚠️ 2.5 교재는 반대로 스리위자야는 힌두교, 마자파힛은 불교라고 씀) [1.3, 1.7]"
+   },
+   {
+    "en": "Majapahit's land and sea power — Java's volcanic soil gave rice surpluses, while its navy controlled the spice trade and collected island tribute [1.3, 1.7]",
+    "kr": "마자파힛의 육상·해상 권력 — 자와의 화산토가 쌀을 넉넉히 생산했고, 해군이 향신료 교역을 장악하고 섬들에서 조공을 받음 [1.3, 1.7]"
+   }
+  ]
+ },
+ {
+  "order": 14,
+  "name_en": "Khmer Empire",
+  "name_kr": "크메르 제국",
+  "people": [
+   {
+    "sort": 802,
+    "en": "Jayavarman II (r. from 802) — founded the Khmer Empire at Angkor in 802 [1.3]",
+    "kr": "자야바르만 2세 (Jayavarman II) (802년 즉위) — 802년 앙코르에 크메르 제국을 세움 [1.3]"
+   },
+   {
+    "sort": 1113,
+    "en": "Suryavarman II (r. 1113–c. 1150) — built Angkor Wat, the world's largest religious monument, for the Hindu god Vishnu [1.3]",
+    "kr": "수리야바르만 2세 (Suryavarman II) (재위 1113–c. 1150) — 힌두교 신 비슈누에게 바친 세계 최대의 종교 건축물 앙코르 와트를 세움 [1.3]"
+   },
+   {
+    "sort": 1181,
+    "en": "Jayavarman VII (r. 1181–c. 1218) — Mahayana Buddhist king who built Angkor Thom, the Bayon temple, roads, rest houses, and hospitals [1.3]",
+    "kr": "자야바르만 7세 (Jayavarman VII) (재위 1181–c. 1218) — 앙코르 톰과 바욘 사원, 도로·숙소·병원을 세운 대승 불교도 왕 [1.3]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 802,
+    "en": "802 — Jayavarman II founds the Khmer Empire (Angkor Kingdom) near the Mekong River [1.3, 1.7]",
+    "kr": "802 — 자야바르만 2세가 메콩강 근처에 크메르 제국(앙코르 왕국)을 세움 [1.3, 1.7]"
+   },
+   {
+    "sort": 1100,
+    "en": "12th–13th centuries — Khmer rulers become Buddhist and add Buddhist art without destroying the Hindu artwork [1.3]",
+    "kr": "12–13세기 — 크메르 통치자들이 불교도가 되면서 힌두 예술품을 없애지 않고 불교 예술품을 더함 [1.3]"
+   },
+   {
+    "sort": 1181,
+    "en": "1181 — Jayavarman VII begins Buddhist rule at Angkor [1.3]",
+    "kr": "1181 — 자야바르만 7세가 앙코르에서 불교 통치를 시작함 [1.3]"
+   },
+   {
+    "sort": 1200,
+    "en": "13th–14th centuries — Most Khmer people follow Theravada Buddhism, and Angkor Wat becomes a Buddhist temple [1.3]",
+    "kr": "13–14세기 — 크메르 사람 대부분이 상좌부 불교를 믿게 되고 앙코르 와트가 불교 사원이 됨 [1.3]"
+   },
+   {
+    "sort": 1296,
+    "en": "1296–1297 — Chinese envoy Zhou Daguan visits Angkor and describes its wealth [1.3]",
+    "kr": "1296–1297 — 중국 사절 주달관 (Zhou Daguan)이 앙코르를 방문해 그 부유함을 기록함 [1.3]"
+   },
+   {
+    "sort": 1351,
+    "en": "1351 — The Thai kingdom of Ayutthaya is founded and begins wars with the Khmer [1.3]",
+    "kr": "1351 — 태국 왕국 아유타야가 세워지고 크메르와 전쟁을 벌이기 시작함 [1.3]"
+   },
+   {
+    "sort": 1431,
+    "en": "1431 — Thais of the Sukhothai Kingdom invade and force the Khmers out of Angkor; the capital moves south (⚠️ textbook; most sources say Ayutthaya sacked Angkor c. 1431) [1.3, 1.7]",
+    "kr": "1431 — 수코타이 왕국의 타이인이 침입해 크메르인을 앙코르에서 몰아내고 수도가 남쪽으로 옮겨 감 (⚠️ 교재 기준, 많은 자료는 c. 1431년 아유타야가 앙코르를 약탈했다고 봄) [1.3, 1.7]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Devaraja (god-king) — kings presented themselves as connected to the Hindu gods and built temples to show legitimacy [1.3, 1.7]",
+    "kr": "데바라자 (Devaraja, 신왕) — 왕은 자신을 힌두 신과 연결된 존재로 내세우고 정당성을 보여 주려고 사원을 지음 [1.3, 1.7]"
+   },
+   {
+    "en": "Land-based state — unlike Srivijaya and Majapahit, the Khmer did not depend on sea power and taxed irrigated rice farming [1.3, 1.7]",
+    "kr": "육상 기반 국가 — 스리위자야·마자파힛과 달리 바다의 힘에 의존하지 않고 관개 벼농사에 세금을 매김 [1.3, 1.7]"
+   },
+   {
+    "en": "Barays (reservoirs) and canals — let farmers harvest rice several times a year, while drainage reduced monsoon damage, making the Khmer one of the most prosperous kingdoms [1.3, 1.7]",
+    "kr": "바라이 (Baray, 저수지)와 운하 — 1년에 여러 번 벼를 수확하게 했고 배수 시설이 몬순 피해를 줄여 크메르를 가장 부유한 왕국 중 하나로 만듦 [1.3, 1.7]"
+   },
+   {
+    "en": "Control of labor and taxes — kings controlled labor for temples and waterworks and collected rice as taxes [1.3]",
+    "kr": "노동력과 세금의 통제 — 왕은 사원과 수리 시설을 위한 노동력을 통제하고 쌀을 세금으로 거둠 [1.3]"
+   },
+   {
+    "en": "Angkor Thom — the capital, whose temples show Indian cultural influence with Hindu art and later Buddhist additions [1.3]",
+    "kr": "앙코르 톰 (Angkor Thom) — 힌두 예술과 나중에 더해진 불교 예술로 인도 문화의 영향을 보여 주는 수도 [1.3]"
+   },
+   {
+    "en": "Angkor Wat — ornate Buddhist temple complex near Angkor Thom, a symbol of royal power (⚠️ textbook; most sources say it was built earlier as a Hindu temple to Vishnu and became Buddhist later) [1.3, 1.7]",
+    "kr": "앙코르 와트 (Angkor Wat) — 앙코르 톰 근처의 화려한 불교 사원 단지이자 왕권의 상징 (⚠️ 교재 기준, 많은 자료는 더 일찍 비슈누에게 바친 힌두 사원으로 지어져 나중에 불교 사원이 되었다고 봄) [1.3, 1.7]"
+   }
+  ]
+ },
+ {
+  "order": 23,
+  "name_en": "Ghana and Mali",
+  "name_kr": "가나와 말리",
+  "people": [
+   {
+    "sort": 1235,
+    "en": "Sundiata Keita (r. c. 1235–c. 1255) — Malinke prince who defeated the Sosso at Kirina and founded Mali; most scholars believe he was a Muslim (⚠️ textbook; many sources say his Islam was nominal at most) [1.5, 1.7]",
+    "kr": "순디아타 케이타 (Sundiata Keita) (재위 c. 1235–c. 1255) — 키리나에서 소소를 물리치고 말리를 세운 말링케족 왕자, 대부분의 학자는 그를 무슬림으로 봄 (⚠️ 교재 기준, 많은 자료는 그의 이슬람 신앙이 기껏해야 명목상이었다고 봄) [1.5, 1.7]"
+   },
+   {
+    "sort": 1312,
+    "en": "Mansa Musa (r. c. 1312–1337) — Sundiata's nephew who ruled at Mali's height and made the 1324 hajj (⚠️ textbook; most sources say grand-nephew) [1.2, 1.5, 1.7]",
+    "kr": "만사 무사 (Mansa Musa) (재위 c. 1312–1337) — 말리의 전성기를 다스리고 1324년 하즈를 떠난 순디아타의 조카 (⚠️ 교재 기준, 많은 자료는 종손으로 봄) [1.2, 1.5, 1.7]"
+   },
+   {
+    "sort": 1324,
+    "en": "Abu Ishaq al-Sahili (d. 1346) — architect Mansa Musa brought back, credited with designing the Djinguereber Mosque in Timbuktu [1.5]",
+    "kr": "아부 이스하크 알사힐리 (Abu Ishaq al-Sahili) (1346년 사망) — 만사 무사가 데려온 건축가, 팀북투의 징게레베르 모스크를 설계한 인물로 알려짐 [1.5]"
+   },
+   {
+    "sort": 1337,
+    "en": "Mansa Sulayman (r. c. 1341–1360) — Mansa Musa's brother, after whom Mali faced weak rulers and succession disputes [1.5]",
+    "kr": "만사 술라이만 (Mansa Sulayman) (재위 c. 1341–1360) — 만사 무사의 형제, 그 뒤로 말리에 약한 통치자와 왕위 계승 분쟁이 이어짐 [1.5]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 400,
+    "en": "5th century — Ghana (Wagadu of the Soninke) is founded, at least two centuries before Muhammad [1.5]",
+    "kr": "5세기 — 무함마드보다 적어도 두 세기 앞서 가나(소닌케족의 와가두)가 세워짐 [1.5]"
+   },
+   {
+    "sort": 700,
+    "en": "8th–11th centuries — Ghana is at its peak, growing rich by taxing gold and salt [1.5]",
+    "kr": "8–11세기 — 금과 소금에 세금을 매겨 부유해진 가나가 전성기를 맞음 [1.5]"
+   },
+   {
+    "sort": 1100,
+    "en": "12th century — Wars with neighboring societies permanently weaken Ghana [1.5]",
+    "kr": "12세기 — 이웃 사회와의 전쟁이 가나를 영구히 약하게 만듦 [1.5]"
+   },
+   {
+    "sort": 1200,
+    "en": "Early 1200s — The Sosso kingdom controls much of the region as new trading societies arise [1.5]",
+    "kr": "1200년대 초 — 여러 새 교역 사회가 생겨나는 가운데 소소 왕국이 이 지역의 많은 부분을 장악함 [1.5]"
+   },
+   {
+    "sort": 1235,
+    "en": "c. 1235 — Sundiata defeats Sumanguru of the Sosso at the Battle of Kirina and founds the Mali Empire [1.5, 1.7]",
+    "kr": "c. 1235 — 순디아타가 키리나 전투에서 소소의 수망구루를 물리치고 말리 제국을 세움 [1.5, 1.7]"
+   },
+   {
+    "sort": 1324,
+    "en": "1324 — Mansa Musa's hajj to Mecca; his gold spending in Cairo lowers gold's value there for years [1.2, 1.5, 1.7]",
+    "kr": "1324 — 만사 무사의 메카 하즈, 카이로에서 금을 많이 써서 그곳의 금값이 몇 년 동안 떨어짐 [1.2, 1.5, 1.7]"
+   },
+   {
+    "sort": 1327,
+    "en": "c. 1327 — Djinguereber Mosque is built in Timbuktu [1.5]",
+    "kr": "c. 1327 — 팀북투에 징게레베르 모스크가 세워짐 [1.5]"
+   },
+   {
+    "sort": 1352,
+    "en": "1352–1353 — Ibn Battuta visits Mali and praises its safety and justice [1.5]",
+    "kr": "1352–1353 — 이븐 바투타가 말리를 방문해 그 안전과 정의를 칭찬함 [1.5]"
+   },
+   {
+    "sort": 1375,
+    "en": "1375 — The Catalan Atlas shows Mansa Musa holding a gold nugget [1.5]",
+    "kr": "1375 — 카탈루냐 지도에 금덩이를 든 만사 무사가 그려짐 [1.5]"
+   },
+   {
+    "sort": 1433,
+    "en": "1433 — Tuareg raiders take Timbuktu [1.5]",
+    "kr": "1433 — 투아레그족이 팀북투를 빼앗음 [1.5]"
+   },
+   {
+    "sort": 1468,
+    "en": "1468 — Sunni Ali of Songhai takes Timbuktu; Mali shrinks to its Mande heartland [1.5]",
+    "kr": "1468 — 송가이의 순니 알리가 팀북투를 차지하고, 말리는 만데족의 본거지로 줄어듦 [1.5]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Gold-salt trade — Ghana and Mali taxed West African gold (Bambuk, Bure) traded for Saharan salt (Taghaza); Ghana's king kept the nuggets, traders used gold dust [1.5, 1.7]",
+    "kr": "금-소금 교역 (Gold-salt trade) — 가나와 말리는 서아프리카의 금(밤부크·부레)과 사하라의 소금(타가자)의 교역에 세금을 매김, 가나 왕은 금덩이를 갖고 상인은 사금만 씀 [1.5, 1.7]"
+   },
+   {
+    "en": "Koumbi Saleh — Ghana's capital with two towns, one for Muslim merchants and one for the king, who kept traditional religion [1.5]",
+    "kr": "쿰비 살레 (Koumbi Saleh) — 무슬림 상인의 도시와 토착 종교를 지킨 왕의 도시, 두 개의 도시로 이루어진 가나의 수도 [1.5]"
+   },
+   {
+    "en": "Ghana's centralized government — the king ruled with nobles and an army armed with iron weapons [1.5]",
+    "kr": "가나의 중앙 집권 정부 — 왕이 귀족과 철제 무기를 갖춘 군대의 도움을 받아 다스림 [1.5]"
+   },
+   {
+    "en": "Mansa and governors — the mansa ruled from the capital, governors ran provinces, and conquered rulers kept power by paying tribute; bigger and more centrally administered than Ghana (textbook) [1.5, 1.7]",
+    "kr": "만사와 총독 — 만사가 수도에서 다스리고 총독이 지방을 맡았으며, 정복된 통치자는 공물을 바치면 권력을 유지함, 교재는 가나보다 더 크고 중앙 집권적이라고 씀 [1.5, 1.7]"
+   },
+   {
+    "en": "Revival of a former empire — the textbook's example: Mali rebuilt on Ghana's foundation and trade routes [1.7]",
+    "kr": "이전 제국의 부흥 (Revival of Former Empires) — 교재가 드는 사례로, 말리는 가나의 기반과 교역로 위에 다시 세워짐 [1.7]"
+   },
+   {
+    "en": "Islam and syncretism — rulers, court, and merchants converted to Islam while rural subjects kept traditional beliefs and the court kept pre-Islamic rituals [1.2, 1.5, 1.7]",
+    "kr": "이슬람과 혼합주의 (Syncretism) — 통치자·궁정·상인은 이슬람으로 개종했지만 농촌 백성은 토착 신앙을 지켰고 궁정은 이슬람 이전의 의례를 유지함 [1.2, 1.5, 1.7]"
+   },
+   {
+    "en": "Timbuktu — center of Islamic scholarship where mosques such as Djinguereber and Sankore taught law, theology, astronomy, and math [1.2, 1.5, 1.7]",
+    "kr": "팀북투 (Timbuktu) — 징게레베르와 산코레 같은 모스크에서 이슬람법·신학·천문학·수학을 가르친 이슬람 학문의 중심지 [1.2, 1.5, 1.7]"
+   },
+   {
+    "en": "Griots — hereditary storytellers and historians who kept oral history such as the Epic of Sundiata and advised kings [1.5]",
+    "kr": "그리오 (Griot) — 순디아타 서사시 같은 구전 역사를 전하고 왕에게 조언한 세습 이야기꾼이자 역사가 [1.5]"
+   }
+  ]
+ },
+ {
+  "order": 24,
+  "name_en": "Hausa Kingdoms",
+  "name_kr": "하우사 왕국",
+  "people": [
+   {
+    "sort": 1349,
+    "en": "Sarki Yaji (r. c. 1349–1385) — ruler of Kano under whom Islam came to Kano with Wangara merchants from Mali, according to the Kano Chronicle [1.5]",
+    "kr": "사르키 야지 (Sarki Yaji) (재위 c. 1349–1385) — 카노 연대기에 따르면 그의 치세에 말리에서 온 왕가라 상인들이 카노에 이슬람을 전함 [1.5]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 1000,
+    "en": "Before 1000 — The Hausa people form seven states, said in legend to come from the sons and grandsons of the hero Bayajidda [1.5]",
+    "kr": "1000년 이전 — 하우사족이 일곱 나라를 세움, 전설에서는 영웅 바야지다의 아들과 손자들이 세웠다고 함 [1.5]"
+   },
+   {
+    "sort": 1300,
+    "en": "14th century — Hausa rulers and merchants adopt Islam, brought by missionaries (⚠️ textbook; the Kano Chronicle names Wangara Muslim merchants and clerics) [1.5]",
+    "kr": "14세기 — 하우사의 통치자와 상인이 선교사가 전한 이슬람을 받아들임 (⚠️ 교재 기준, 카노 연대기는 왕가라 무슬림 상인과 성직자를 듦) [1.5]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "City-states — Kano, Katsina, Zaria, and others, each ruled by a king (sarki), loosely tied by kinship with no central authority [1.5]",
+    "kr": "도시 국가 — 카노, 카치나, 자리아 등 각각 왕(사르키 (Sarki))이 다스리고 친족 관계로 느슨하게만 연결되어 중앙 권력이 없었음 [1.5]"
+   },
+   {
+    "en": "Walled cities (birni) — large cities with farmland inside the walls so people could survive a siege [1.5]",
+    "kr": "성벽 도시 (Birni, 비르니) — 포위되어도 버틸 수 있도록 성벽 안에 농지를 둔 큰 도시 [1.5]"
+   },
+   {
+    "en": "Specialized economies — cotton cloth, indigo dyeing, leather goods, and trade in kola nuts and enslaved people, linked to trans-Saharan routes [1.5]",
+    "kr": "도시마다 다른 특산 경제 — 면직물, 쪽빛 염색, 가죽 제품, 콜라 열매와 노예 교역, 사하라 횡단 교역로와 연결됨 [1.5]"
+   },
+   {
+    "en": "Shared defense — one state on the western edge specialized in military matters and defended the others (⚠️ textbook; Hausa tradition names Gobir in the north) [1.5]",
+    "kr": "공동 방어 — 서쪽 끝의 한 나라가 군사를 맡아 다른 나라들을 지킴 (⚠️ 교재 기준, 하우사 전통에서는 북쪽의 고비르를 군사 담당으로 봄) [1.5]"
+   },
+   {
+    "en": "Disunity — the city-states competed for trade and land, were often dominated by outsiders, and later paid tribute to Kanem-Bornu and Songhai [1.5]",
+    "kr": "분열 — 도시 국가들은 교역과 땅을 두고 경쟁했고 외부 세력의 지배를 자주 받았으며, 훗날 카넴-보르누와 송가이에 공물을 바침 [1.5]"
+   }
+  ]
+ },
+ {
+  "order": 25,
+  "name_en": "Ethiopia",
+  "name_kr": "에티오피아",
+  "people": [
+   {
+    "sort": 300,
+    "en": "Ezana (r. 4th century) — king of Aksum (textbook: Axum) who converted to Christianity in the 4th century [1.5]",
+    "kr": "에자나 (Ezana) (4세기 재위) — 4세기에 기독교로 개종한 악숨(교재 표기 Axum)의 왕 [1.5]"
+   },
+   {
+    "sort": 1181,
+    "en": "King Lalibela (r. c. 1181–1221) — Zagwe king credited with the rock-hewn churches, meant as a “New Jerusalem” for pilgrims [1.5, 1.7]",
+    "kr": "랄리벨라 왕 (King Lalibela) (재위 c. 1181–1221) — 순례자를 위한 “새 예루살렘”으로 암반 교회를 만든 것으로 알려진 자그웨 왕 [1.5, 1.7]"
+   },
+   {
+    "sort": 1270,
+    "en": "Yekuno Amlak (r. 1270–1285) — overthrew the Zagwe in 1270 and founded the Solomonic dynasty [1.5]",
+    "kr": "예쿠노 암라크 (Yekuno Amlak) (재위 1270–1285) — 1270년 자그웨 왕조를 무너뜨리고 솔로몬 왕조를 세움 [1.5]"
+   },
+   {
+    "sort": 1314,
+    "en": "Amda Seyon (r. 1314–1344) — expanded the kingdom by fighting nearby Muslim sultanates such as Ifat [1.5]",
+    "kr": "암다 시온 (Amda Seyon) (재위 1314–1344) — 이팟 같은 주변 이슬람 술탄국과 싸워 영토를 넓힘 [1.5]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 600,
+    "en": "7th century — The spread of Islam makes the Horn of Africa more religiously diverse [1.5]",
+    "kr": "7세기 — 이슬람이 퍼지면서 아프리카의 뿔 지역의 종교가 더 다양해짐 [1.5]"
+   },
+   {
+    "sort": 1100,
+    "en": "12th century — A new Christian-led kingdom, the Zagwe dynasty, emerges in the highlands [1.5, 1.7]",
+    "kr": "12세기 — 고원 지대에 새로운 기독교 왕국인 자그웨 왕조가 나타남 [1.5, 1.7]"
+   },
+   {
+    "sort": 1200,
+    "en": "c. 1200 — Eleven rock-hewn churches are carved down into solid rock at Lalibela [1.5, 1.7]",
+    "kr": "c. 1200 — 랄리벨라에서 11개의 암반 교회를 단단한 바위를 아래로 파 내려가며 깎아 만듦 [1.5, 1.7]"
+   },
+   {
+    "sort": 1270,
+    "en": "1270 — Yekuno Amlak founds the Solomonic dynasty, which rules (with breaks) until 1974 [1.5, 1.7]",
+    "kr": "1270 — 예쿠노 암라크가 솔로몬 왕조를 세우고, 이 왕조는 중간에 끊긴 때도 있었지만 1974년까지 다스림 [1.5, 1.7]"
+   },
+   {
+    "sort": 1300,
+    "en": "Early 14th century — The Kebra Nagast is compiled in Ge'ez to legitimize Solomonic rule [1.5]",
+    "kr": "14세기 초 — 솔로몬 왕조의 통치를 정당화하는 케브라 나가스트가 게에즈어로 편찬됨 [1.5]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Solomonic legitimacy — kings claimed descent from King Solomon and the Queen of Sheba through Menelik I, as told in the Kebra Nagast [1.5, 1.7]",
+    "kr": "솔로몬 혈통에 의한 정당성 — 왕들은 메넬리크 1세를 통해 솔로몬 왕과 시바 여왕의 후손이라고 주장했고, 케브라 나가스트 (Kebra Nagast)가 이를 전함 [1.5, 1.7]"
+   },
+   {
+    "en": "Island of Christianity — from the 12th to the 16th centuries, Ethiopian Christianity developed independently of Europe's churches (⚠️ textbook; most sources stress its link to Egypt's Coptic Church, which sent its head bishop) [1.5]",
+    "kr": "기독교의 섬 (Island of Christianity) — 12–16세기 에티오피아 기독교는 유럽의 교회들과 떨어져 독자적으로 발전함 (⚠️ 교재 기준, 많은 자료는 최고 주교를 보낸 이집트 콥트 교회와의 연결을 강조함) [1.5]"
+   },
+   {
+    "en": "Church and state — kings gave land to churches and monasteries, and the Church supported the king's right to rule [1.5, 1.7]",
+    "kr": "교회와 국가 — 왕은 교회와 수도원에 땅을 주었고, 교회는 왕의 통치권을 지지함 [1.5, 1.7]"
+   },
+   {
+    "en": "Blended faith — people combined ancestor veneration and belief in spirits with Christianity [1.5]",
+    "kr": "신앙의 혼합 — 사람들은 조상 숭배와 정령 신앙을 기독교와 결합함 [1.5]"
+   },
+   {
+    "en": "Rock-hewn churches of Lalibela — monumental churches such as the cross-shaped Church of St. George that displayed Zagwe power [1.5, 1.7]",
+    "kr": "랄리벨라의 암반 교회 (Rock-hewn churches) — 십자가 모양의 성 게오르기우스 교회 같은 기념비적 교회로 자그웨 왕조의 권력을 보여 줌 [1.5, 1.7]"
+   },
+   {
+    "en": "Moving royal camps — Solomonic kings often ruled from mobile camps instead of a fixed capital [1.5]",
+    "kr": "이동하는 왕실 진영 — 솔로몬 왕조의 왕들은 고정된 수도 대신 이동하는 진영에서 다스리는 경우가 많았음 [1.5]"
+   },
+   {
+    "en": "Red Sea trade — gold, ivory, and enslaved people traded through Red Sea ports, often with Muslim merchants [1.5, 1.7]",
+    "kr": "홍해 교역 — 주로 무슬림 상인을 상대로 홍해 항구를 통해 금, 상아, 노예를 교역함 [1.5, 1.7]"
+   }
+  ]
+ },
+ {
+  "order": 26,
+  "name_en": "Great Zimbabwe and the Swahili Coast",
+  "name_kr": "그레이트 짐바브웨와 스와힐리 해안",
+  "people": [],
+  "events": [
+   {
+    "sort": 800,
+    "en": "9th century — Chiefs begin building their zimbabwes in stone instead of wood [1.5]",
+    "kr": "9세기 — 족장들이 짐바브웨를 나무 대신 돌로 짓기 시작함 [1.5]"
+   },
+   {
+    "sort": 1000,
+    "en": "By 1000 — Bantu migrations have spread farming, iron working, and Bantu languages, later spoken by the Shona and Swahili peoples [1.5]",
+    "kr": "1000년까지 — 반투족 이주로 농경, 철기 제작, 반투어가 퍼지고, 쇼나족과 스와힐리 해안 사람들도 반투어를 씀 [1.5]"
+   },
+   {
+    "sort": 1075,
+    "en": "c. 1075–1220 — Mapungubwe shows that gold trade and stone-walled elite centers already exist in the region [1.5]",
+    "kr": "c. 1075–1220 — 마푼구브웨가 이 지역에 이미 금 교역과 석벽을 두른 엘리트 중심지가 있었음을 보여 줌 [1.5]"
+   },
+   {
+    "sort": 1100,
+    "en": "12th–15th centuries — Zimbabwe is one of the most powerful kingdoms of the region [1.5]",
+    "kr": "12–15세기 — 짐바브웨가 이 지역에서 가장 강한 왕국 가운데 하나가 됨 [1.5]"
+   },
+   {
+    "sort": 1270,
+    "en": "Late 13th century — A massive wall 30 feet tall and 15 feet thick surrounds the capital (⚠️ textbook; most sources say the Great Enclosure wall reaches about 11 m and encloses a royal compound) [1.5]",
+    "kr": "13세기 말 — 높이 30피트, 두께 15피트의 거대한 석벽이 수도를 둘러쌈 (⚠️ 교재 기준, 많은 자료는 그레이트 인클로저의 벽이 약 11미터이며 왕실 구역을 둘러쌌다고 봄) [1.5]"
+   },
+   {
+    "sort": 1331,
+    "en": "1331 — Ibn Battuta visits Kilwa [1.5]",
+    "kr": "1331 — 이븐 바투타가 킬와를 방문함 [1.5]"
+   },
+   {
+    "sort": 1450,
+    "en": "By the end of the 1400s — The capital is abandoned, mainly because of overgrazing (⚠️ textbook; most sources say c. 1450, also citing a shift of the gold trade north to Mutapa) [1.5, 1.7]",
+    "kr": "1400년대 말까지 — 주로 과도한 방목 때문에 수도가 버려짐 (⚠️ 교재 기준, 많은 자료는 c. 1450년으로 보며 금 교역이 북쪽 무타파로 옮겨 간 것도 원인으로 듦) [1.5, 1.7]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Dry-stone architecture — granite walls built without mortar, including the Great Enclosure and the older Hill Complex; “zimbabwe” means “dwellings” (⚠️ textbook; most sources say “houses of stone”) [1.5, 1.7]",
+    "kr": "건식 석벽 (Dry-stone walls) — 그레이트 인클로저와 더 오래된 언덕 유적을 포함해 모르타르 없이 쌓은 화강암 벽, “짐바브웨”는 “거처”라는 뜻 (⚠️ 교재 기준, 많은 자료는 “돌로 된 집”으로 봄) [1.5, 1.7]"
+   },
+   {
+    "en": "Shona society — the king and elites lived inside the stone walls and ordinary people in mud houses outside; nearly 20,000 people (textbook) [1.5]",
+    "kr": "쇼나 (Shona) 사회 — 왕과 엘리트는 석벽 안에, 보통 사람들은 벽 밖의 흙집에 삶, 교재 기준 인구 거의 2만 명 [1.5]"
+   },
+   {
+    "en": "Gold and cattle economy — wealth from farming, cattle grazing, and taxes on transporting gold and ivory to the Swahili coast [1.5, 1.7]",
+    "kr": "금과 소의 경제 — 농업, 소 목축, 스와힐리 해안으로 가는 금과 상아의 운송에 매긴 세금에서 부가 나옴 [1.5, 1.7]"
+   },
+   {
+    "en": "Indian Ocean link — Chinese porcelain, Persian pottery, and glass beads found at the site show long-distance sea trade [1.5]",
+    "kr": "인도양과의 연결 — 유적에서 발견된 중국 도자기, 페르시아 도기, 유리구슬이 먼 바닷길 교역을 보여 줌 [1.5]"
+   },
+   {
+    "en": "Soapstone birds — carved birds from Great Zimbabwe; the Zimbabwe Bird is now a national symbol [1.5]",
+    "kr": "동석 (Soapstone) 새 — 그레이트 짐바브웨에서 조각한 새, 짐바브웨 새는 지금 국가 상징 [1.5]"
+   },
+   {
+    "en": "Swahili city-states — independent Muslim-ruled ports (Kilwa, Mombasa, Malindi, Zanzibar, Mogadishu) that used monsoon winds and each taxed its own port trade [1.2, 1.5, 1.7]",
+    "kr": "스와힐리 도시 국가 (Swahili city-states) — 몬순을 이용하고 각자 자기 항구의 교역에 과세한, 무슬림이 다스린 독립 항구(킬와, 몸바사, 말린디, 잔지바르, 모가디슈) [1.2, 1.5, 1.7]"
+   },
+   {
+    "en": "Kilwa and Sofala gold — Kilwa grew rich by controlling the gold trade from Sofala, which came from the Great Zimbabwe region [1.5]",
+    "kr": "킬와와 소팔라의 금 — 킬와는 그레이트 짐바브웨 지역에서 나온 소팔라의 금 교역을 장악해 부유해짐 [1.5]"
+   },
+   {
+    "en": "Swahili language — a Bantu language blended with Arabic words by East African traders, still spoken today [1.2, 1.5]",
+    "kr": "스와힐리어 (Swahili) — 동아프리카 상인들이 반투어에 아랍어 단어를 섞어 만든 언어, 지금도 쓰임 [1.2, 1.5]"
+   }
+  ]
+ }
+]

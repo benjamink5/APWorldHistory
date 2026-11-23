@@ -1,0 +1,447 @@
+[
+ {
+  "order": 6,
+  "name_en": "Abbasid Caliphate and Islamic Scholarship",
+  "name_kr": "아바스 칼리프조와 이슬람 학문",
+  "people": [
+   {
+    "sort": 632,
+    "en": "Muhammad (c. 570–632) — prophet of Islam and former merchant who forbade female infanticide and gave dowries to the bride [1.2]",
+    "kr": "무함마드 (Muhammad) (c. 570–632) — 상인 출신의 이슬람 예언자로, 여아 살해를 금지하고 지참금을 신부에게 주도록 함 [1.2]"
+   },
+   {
+    "sort": 780,
+    "en": "al-Khwarizmi (c. 780–c. 850) — Baghdad mathematician whose book gave us “algebra” and who spread Hindu-Arabic numerals [1.2]",
+    "kr": "알 콰리즈미 (al-Khwarizmi) (c. 780–c. 850) — 바그다드의 수학자로, 그의 책에서 “대수학”이라는 말이 나왔고 인도-아라비아 숫자를 퍼뜨림 [1.2]"
+   },
+   {
+    "sort": 813,
+    "en": "al-Ma'mun (r. 813–833) — Abbasid caliph under whom the House of Wisdom reached its height [1.2]",
+    "kr": "알마문 (al-Ma'mun) (재위 813–833) — 지혜의 집이 가장 번성한 때의 아바스 칼리프 [1.2]"
+   },
+   {
+    "sort": 980,
+    "en": "Ibn Sina (Avicenna) (980–1037) — Persian philosopher and physician whose Canon of Medicine was used in European universities for centuries [1.2, 1.7]",
+    "kr": "이븐 시나 (Ibn Sina/Avicenna) (980–1037) — 페르시아의 철학자이자 의사로, 『의학 정전』이 수백 년 동안 유럽 대학의 교과서로 쓰임 [1.2, 1.7]"
+   },
+   {
+    "sort": 1048,
+    "en": "Omar Khayyam (1048–1131) — Seljuk Persian who solved cubic equations, improved the calendar, and wrote the Rubaiyat [1.2]",
+    "kr": "오마르 하이얌 (Omar Khayyam) (1048–1131) — 셀주크 페르시아에서 3차 방정식을 풀고 달력을 개선했으며 『루바이야트』를 쓴 시인 [1.2]"
+   },
+   {
+    "sort": 1201,
+    "en": "Nasir al-Din al-Tusi (1201–1274) — directed the Maragha observatory, created the “Tusi couple,” and laid the groundwork for trigonometry (⚠️ textbook places him in Baghdad's golden age; most sources say he worked at Maragha after 1258) [1.2]",
+    "kr": "나시르 알딘 알투시 (Nasir al-Din al-Tusi) (1201–1274) — 마라게 천문대를 이끌고 “투시 커플”을 고안했으며 삼각법의 바탕을 놓음 (⚠️ 교재 기준, 많은 자료는 그가 1258년 이후 바그다드가 아닌 마라게에서 활동했다고 봄) [1.2]"
+   },
+   {
+    "sort": 1207,
+    "en": "Rumi (1207–1273) — Persian Sufi poet in Seljuk Konya whose Masnavi expresses the soul's love for God; his followers founded the Mevlevi order [1.2]",
+    "kr": "루미 (Rumi) (1207–1273) — 셀주크 코니아의 페르시아 수피 시인으로 『마스나비』에서 신을 향한 영혼의 사랑을 노래했고, 제자들이 메블레비 교단을 세움 [1.2]"
+   },
+   {
+    "sort": 1332,
+    "en": "Ibn Khaldun (1332–1406) — North African historian whose Muqaddimah explained the rise and fall of dynasties; a founder of historiography and sociology [1.2]",
+    "kr": "이븐 할둔 (Ibn Khaldun) (1332–1406) — 『무캇디마』에서 왕조의 흥망을 설명한 북아프리카의 역사가로, 역사학 방법론과 사회학의 창시자 가운데 한 명 [1.2]"
+   },
+   {
+    "sort": 1460,
+    "en": "'A'ishah al-Ba'uniyyah (1460–1507) — Sufi poet of Damascus, possibly the most prolific female Muslim writer before the 20th century (⚠️ textbook; most sources say she died in 1517) [1.2]",
+    "kr": "아이샤 알바우니야 ('A'ishah al-Ba'uniyyah) (1460–1507) — 다마스쿠스의 수피 시인으로, 20세기 이전 가장 많은 작품을 남긴 무슬림 여성 작가였을 수 있음 (⚠️ 교재 기준, 많은 자료는 1517년 사망으로 봄) [1.2]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 632,
+    "en": "632 — Muhammad dies; Sunni and Shia split over who should lead, and Islam spreads out of Arabia [1.2]",
+    "kr": "632 — 무함마드가 죽은 뒤 지도자 문제로 수니파와 시아파가 갈라지고, 이슬람이 아라비아 밖으로 퍼짐 [1.2]"
+   },
+   {
+    "sort": 750,
+    "en": "750 — The Abbasids overthrow the Umayyads and found the Abbasid Caliphate (750–1258) [1.2]",
+    "kr": "750 — 아바스 왕조가 우마이야 왕조를 무너뜨리고 아바스 칼리프조 (750–1258)를 세움 [1.2]"
+   },
+   {
+    "sort": 762,
+    "en": "762 — Baghdad is built as the Abbasid capital; its golden age lasts through the 8th–10th centuries [1.2]",
+    "kr": "762 — 아바스 왕조의 수도 바그다드가 세워지고, 8–10세기에 황금기를 맞음 [1.2]"
+   },
+   {
+    "sort": 800,
+    "en": "9th century — The House of Wisdom is founded in Baghdad and reaches its height under al-Ma'mun (c. 830) [1.2, 1.7]",
+    "kr": "9세기 — 바그다드에 지혜의 집이 세워지고 알마문 때 (c. 830) 가장 번성함 [1.2, 1.7]"
+   },
+   {
+    "sort": 1100,
+    "en": "12th–13th centuries — Mamluks, Seljuk Turks, Crusaders, and Mongols challenge the weakened Abbasids as trade shifts away from Baghdad [1.2, 1.7]",
+    "kr": "12–13세기 — 교역로가 바그다드에서 멀어지는 가운데 맘루크, 셀주크 튀르크, 십자군, 몽골이 약해진 아바스 왕조에 도전함 [1.2, 1.7]"
+   },
+   {
+    "sort": 1258,
+    "en": "1258 — Hulagu's Mongols sack Baghdad, execute the last Abbasid caliph, and destroy the House of Wisdom [1.2, 1.7]",
+    "kr": "1258 — 훌레구의 몽골군이 바그다드를 약탈하고 마지막 아바스 칼리프를 처형하며 지혜의 집을 파괴함 [1.2, 1.7]"
+   },
+   {
+    "sort": 1259,
+    "en": "1259 — The Maragha observatory is founded under Hulagu and directed by al-Tusi [1.2]",
+    "kr": "1259 — 훌레구 아래에서 마라게 천문대가 세워지고 알투시가 이끎 [1.2]"
+   },
+   {
+    "sort": 1295,
+    "en": "1295 — Rulers of the Mongol Ilkhanate (Persia and Iraq) convert to Islam, so Islamic learning survives the Mongols [1.2]",
+    "kr": "1295 — 몽골 일 칸국 (페르시아·이라크)의 통치자들이 이슬람으로 개종해 이슬람 학문이 몽골의 침입 뒤에도 이어짐 [1.2]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Caliph — religious and political successor of Muhammad; after 1055 mostly a religious figurehead [1.2]",
+    "kr": "칼리프 (Caliph) — 무함마드의 종교적·정치적 후계자. 1055년 이후에는 주로 명목상의 종교 지도자 [1.2]"
+   },
+   {
+    "en": "Five Pillars — declaration of faith, prayer, charity (zakat), fasting, and hajj, shared across Dar al-Islam [1.2]",
+    "kr": "다섯 기둥 (Five Pillars) — 신앙 고백, 기도, 자선 (자카트), 금식, 하지. 다르 알 이슬람 전역의 공통 실천 [1.2]"
+   },
+   {
+    "en": "Sharia, ulama & qadis — Islamic law from the Qur'an and hadith, taught in madrasas and applied by judges, giving a common legal culture [1.2]",
+    "kr": "샤리아·울라마·카디 (Sharia, ulama & qadis) — 쿠란과 하디스에 바탕을 둔 이슬람 법. 마드라사에서 가르치고 재판관이 적용해 공통의 법 문화를 만듦 [1.2]"
+   },
+   {
+    "en": "Sunni and Shia — split over leadership after 632; Sunni majority (Abbasids, Seljuks, Mamluks), Shia minority (Fatimids) [1.2]",
+    "kr": "수니파와 시아파 (Sunni and Shia) — 632년 이후 지도자 문제로 갈라짐. 수니파가 다수 (아바스, 셀주크, 맘루크), 시아파가 소수 (파티마) [1.2]"
+   },
+   {
+    "en": "Sufism — mystical Islam seeking personal closeness to God; its orders (Mevlevi, Chishti) were very effective missionaries [1.2, 1.3]",
+    "kr": "수피즘 (Sufism) — 신과의 개인적인 가까움을 추구한 이슬람 신비주의. 메블레비·치슈티 같은 교단이 매우 효과적인 선교사 역할을 함 [1.2, 1.3]"
+   },
+   {
+    "en": "Dhimmi & jizya — Jews and Christians as protected “People of the Book” who paid a special tax [1.2]",
+    "kr": "딤미와 지즈야 (Dhimmi & jizya) — 유대인과 기독교인을 보호받는 “경전의 백성”으로 대하고 특별세를 걷음 [1.2]"
+   },
+   {
+    "en": "Women under sharia — rights to inherit, own property, consent to marriage, and divorce, within a patriarchal society (hijab, harem) [1.2]",
+    "kr": "샤리아 아래의 여성 (Women under sharia) — 상속, 재산 소유, 결혼 동의, 이혼의 권리가 있었지만 사회는 가부장적이었음 (히잡, 하렘) [1.2]"
+   },
+   {
+    "en": "House of Wisdom (Bayt al-Hikma) — Baghdad library and translation center that put Greek, Persian, and Indian works into Arabic [1.2, 1.7]",
+    "kr": "지혜의 집 (House of Wisdom, Bayt al-Hikma) — 그리스, 페르시아, 인도의 저작을 아랍어로 번역한 바그다드의 도서관이자 학문 중심지 [1.2, 1.7]"
+   },
+   {
+    "en": "Knowledge transfer — algebra, Hindu-Arabic numerals with zero, and Chinese papermaking passed through Dar al-Islam to Europe [1.2, 1.7]",
+    "kr": "지식의 전파 (Knowledge transfer) — 대수학, 0을 포함한 인도-아라비아 숫자, 중국의 제지술이 다르 알 이슬람을 거쳐 유럽에 전해짐 [1.2, 1.7]"
+   }
+  ]
+ },
+ {
+  "order": 7,
+  "name_en": "Seljuk Turks and Early Ottomans",
+  "name_kr": "셀주크 튀르크와 초기 오스만",
+  "people": [
+   {
+    "sort": 1055,
+    "en": "Tughril Beg (r. 1037–1063) — led the Seljuk Turks into Baghdad in 1055 and called himself sultan (⚠️ textbook; most sources say the caliph granted the title) [1.2]",
+    "kr": "투그릴 베그 (Tughril Beg) (재위 1037–1063) — 1055년 셀주크 튀르크를 이끌고 바그다드에 들어가 스스로 술탄이라 칭함 (⚠️ 교재 기준, 많은 자료는 칼리프가 칭호를 주었다고 봄) [1.2]"
+   },
+   {
+    "sort": 1055,
+    "en": "Nizam al-Mulk (1018–1092) — Seljuk vizier who organized the bureaucracy and founded Nizamiyya madrasas to train Sunni ulama [1.2]",
+    "kr": "니잠 알물크 (Nizam al-Mulk) (1018–1092) — 관료제를 정비하고 수니파 울라마를 기르는 니자미야 마드라사를 세운 셀주크의 재상 [1.2]"
+   },
+   {
+    "sort": 1299,
+    "en": "Osman (r. c. 1299–1324) — founded the Ottoman state in Anatolia c. 1299 [1.7]",
+    "kr": "오스만 1세 (Osman) (재위 c. 1299–1324) — c. 1299년 아나톨리아에 오스만 국가를 세움 [1.7]"
+   },
+   {
+    "sort": 1453,
+    "en": "Mehmed II (r. 1451–1481) — led the Ottoman Turks in capturing Constantinople in 1453 [1.6]",
+    "kr": "메흐메트 2세 (Mehmed II) (재위 1451–1481) — 1453년 오스만 튀르크를 이끌고 콘스탄티노폴리스를 점령함 [1.6]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 1037,
+    "en": "1037–1194 — The Great Seljuk Empire rules Persia, Iraq, and Syria (⚠️ textbook lists it as a new state of this era; most sources say it peaked in the 11th–12th centuries) [1.2, 1.7]",
+    "kr": "1037–1194 — 대셀주크 제국이 페르시아, 이라크, 시리아를 다스림 (⚠️ 교재 기준, 많은 자료는 전성기를 1200년 이전인 11–12세기로 봄) [1.2, 1.7]"
+   },
+   {
+    "sort": 1055,
+    "en": "1055 — Seljuk Turks under Tughril Beg enter Baghdad; the sultan holds power and the caliph becomes a religious figurehead [1.2]",
+    "kr": "1055 — 투그릴 베그가 이끄는 셀주크 튀르크가 바그다드에 들어가고, 술탄이 권력을 잡고 칼리프는 명목상의 종교 지도자가 됨 [1.2]"
+   },
+   {
+    "sort": 1071,
+    "en": "1071 — Seljuks defeat the Byzantines at Manzikert, opening Anatolia to Turkic settlement [1.2]",
+    "kr": "1071 — 셀주크가 만지케르트 전투에서 비잔티움을 이겨 튀르크인의 아나톨리아 정착 길이 열림 [1.2]"
+   },
+   {
+    "sort": 1077,
+    "en": "1077–1308 — The Seljuk Sultanate of Rum rules Anatolia from its capital at Konya [1.2, 1.7]",
+    "kr": "1077–1308 — 셀주크의 룸 술탄국이 코니아를 수도로 아나톨리아를 다스림 [1.2, 1.7]"
+   },
+   {
+    "sort": 1095,
+    "en": "1095 — The Byzantines ask Pope Urban II for help against the Seljuks, and the First Crusade is called (⚠️ textbook blames Seljuk limits on Christian pilgrims; most sources stress the Byzantine appeal after Manzikert) [1.2, 1.6]",
+    "kr": "1095 — 비잔티움이 셀주크에 맞서 교황 우르바노 2세에게 도움을 청하고 제1차 십자군이 시작됨 (⚠️ 교재 기준, 많은 자료는 순례 제한보다 만지케르트 이후 비잔티움의 지원 요청을 강조함) [1.2, 1.6]"
+   },
+   {
+    "sort": 1200,
+    "en": "13th century — The Ottomans expand into the Balkans, where Albania, Kosovo, and Bosnia gain large Muslim populations (⚠️ textbook; most sources say the mid-1300s) [1.6]",
+    "kr": "13세기 — 오스만이 발칸반도로 진출해 알바니아, 코소보, 보스니아에 무슬림 인구가 많아짐 (⚠️ 교재 기준, 많은 자료는 1300년대 중반으로 봄) [1.6]"
+   },
+   {
+    "sort": 1243,
+    "en": "1243 — The Sultanate of Rum becomes a Mongol vassal [1.2]",
+    "kr": "1243 — 룸 술탄국이 몽골의 속국이 됨 [1.2]"
+   },
+   {
+    "sort": 1258,
+    "en": "1258 — The Mongol conquest of Baghdad ends Seljuk rule (⚠️ textbook; most sources say the Great Seljuks ended in 1194 and Rum lasted until 1308) [1.2]",
+    "kr": "1258 — 몽골의 바그다드 정복으로 셀주크의 지배가 끝남 (⚠️ 교재 기준, 많은 자료는 대셀주크는 1194년에 끝났고 룸은 1308년까지 이어졌다고 봄) [1.2]"
+   },
+   {
+    "sort": 1299,
+    "en": "c. 1299 — Osman founds the Ottoman state in Anatolia [1.2, 1.7]",
+    "kr": "c. 1299 — 오스만 1세가 아나톨리아에 오스만 국가를 세움 [1.2, 1.7]"
+   },
+   {
+    "sort": 1453,
+    "en": "1453 — The Ottoman Turks under Mehmed II capture Constantinople, ending the Byzantine Empire [1.6]",
+    "kr": "1453 — 메흐메트 2세가 이끄는 오스만 튀르크가 콘스탄티노폴리스를 점령해 비잔티움 제국이 멸망함 [1.6]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Sultan — political and military ruler separate from the caliph, a Seljuk innovation [1.2, 1.7]",
+    "kr": "술탄 (Sultan) — 칼리프와 분리된 정치·군사 통치자. 셀주크의 혁신 [1.2, 1.7]"
+   },
+   {
+    "en": "Iqta — grants of the right to collect land revenue in return for military service [1.2, 1.7]",
+    "kr": "이크타 (Iqta) — 군역의 대가로 토지 세금을 거둘 권리를 준 제도 [1.2, 1.7]"
+   },
+   {
+    "en": "Persian bureaucracy & Nizamiyya madrasas — Turkic rulers governed with Persian officials and state-funded schools for Sunni ulama [1.2]",
+    "kr": "페르시아식 관료제와 니자미야 마드라사 (Persian bureaucracy & Nizamiyya madrasas) — 튀르크계 통치자가 페르시아인 관리와 국가가 세운 수니파 학교로 다스림 [1.2]"
+   },
+   {
+    "en": "Diverse empire — Turkic rulers, Persian officials, and Arab and Greek Christian subjects [1.2]",
+    "kr": "다양한 제국 (Diverse empire) — 튀르크계 통치자, 페르시아인 관리, 아랍인과 그리스 기독교인 신민 [1.2]"
+   },
+   {
+    "en": "Warriors for the faith — Islam and the title of sultan legitimized Turkic cavalry conquest in Anatolia [1.7]",
+    "kr": "신앙을 위한 전사 (Warriors for the faith) — 이슬람과 술탄 칭호가 아나톨리아에서의 튀르크 기병 정복을 정당화함 [1.7]"
+   },
+   {
+    "en": "Janissaries — Ottoman slave soldiers used from the late 1300s [1.7]",
+    "kr": "예니체리 (Janissaries) — 1300년대 후반부터 쓰인 오스만의 노예 병사 [1.7]"
+   },
+   {
+    "en": "Separate Turkic empires — unlike the Mongols' one coordinated empire, Seljuks and Ottomans built their own states that lasted past 1450 [1.7]",
+    "kr": "각각의 튀르크 제국 (Separate Turkic empires) — 하나의 조직적인 제국을 세운 몽골과 달리 셀주크와 오스만은 따로 국가를 세웠고 1450년 이후까지 이어짐 [1.7]"
+   }
+  ]
+ },
+ {
+  "order": 8,
+  "name_en": "Mamluk Sultanate (Egypt)",
+  "name_kr": "맘루크 술탄국 (이집트)",
+  "people": [
+   {
+    "sort": 1187,
+    "en": "Saladin (r. 1174–1193) — founder of the Ayyubid dynasty who retook Jerusalem in 1187 [1.2, 1.6]",
+    "kr": "살라딘 (Saladin) (재위 1174–1193) — 아이유브 왕조를 세우고 1187년 예루살렘을 되찾음 [1.2, 1.6]"
+   },
+   {
+    "sort": 1213,
+    "en": "Ibn al-Nafis (1213–1288) — Mamluk Cairo physician who described pulmonary circulation between the heart and lungs [1.2]",
+    "kr": "이븐 알나피스 (Ibn al-Nafis) (1213–1288) — 심장과 폐 사이의 폐순환을 설명한 맘루크 카이로의 의사 [1.2]"
+   },
+   {
+    "sort": 1250,
+    "en": "Shajar al-Durr (r. 1250) — briefly ruled Egypt in 1250 as the Mamluks rose [1.2]",
+    "kr": "샤자르 알두르 (Shajar al-Durr) (재위 1250) — 맘루크가 일어서던 1250년에 이집트를 잠시 다스림 [1.2]"
+   },
+   {
+    "sort": 1260,
+    "en": "Qutuz (r. 1259–1260) — Mamluk commander who defeated the Mongols at Ain Jalut in 1260 [1.2]",
+    "kr": "쿠투즈 (Qutuz) (재위 1259–1260) — 1260년 아인잘루트 전투에서 몽골군을 물리친 맘루크 지휘관 [1.2]"
+   },
+   {
+    "sort": 1260,
+    "en": "Baybars (r. 1260–1277) — Ain Jalut commander who set up an Abbasid “shadow caliph” in Cairo in 1261 [1.2]",
+    "kr": "바이바르스 (Baybars) (재위 1260–1277) — 아인잘루트의 지휘관으로 1261년 카이로에 아바스 “그림자 칼리프”를 세움 [1.2]"
+   },
+   {
+    "sort": 1284,
+    "en": "Qalawun (r. 1279–1290) — Mamluk sultan who built a great hospital in Cairo in 1284 [1.2]",
+    "kr": "칼라운 (Qalawun) (재위 1279–1290) — 1284년 카이로에 큰 병원을 세운 맘루크 술탄 [1.2]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 909,
+    "en": "909–1171 — The Shia Fatimid Caliphate rules Egypt from Cairo as a rival to the Abbasids [1.2]",
+    "kr": "909–1171 — 시아파 파티마 칼리프조가 카이로에서 이집트를 다스리며 아바스 왕조와 경쟁함 [1.2]"
+   },
+   {
+    "sort": 1187,
+    "en": "1187 — Saladin, founder of the Ayyubid dynasty, retakes Jerusalem from the Crusaders [1.2, 1.6]",
+    "kr": "1187 — 아이유브 왕조를 세운 살라딘이 십자군에게서 예루살렘을 되찾음 [1.2, 1.6]"
+   },
+   {
+    "sort": 1250,
+    "en": "1250 — Mamluk officers seize power in Egypt, founding the Mamluk Sultanate (1250–1517) on former Abbasid land (⚠️ textbook; most sources say they took Egypt from the Ayyubids) [1.2, 1.7]",
+    "kr": "1250 — 맘루크 장교들이 이집트에서 권력을 잡고 이전 아바스 영토에 맘루크 술탄국 (1250–1517)을 세움 (⚠️ 교재 기준, 많은 자료는 아이유브 왕조에게서 빼앗았다고 봄) [1.2, 1.7]"
+   },
+   {
+    "sort": 1260,
+    "en": "1260 — Qutuz and Baybars defeat the Mongols at Ain Jalut, stopping them in Egypt (⚠️ textbook; most sources say the battle was in Palestine) [1.2, 1.7]",
+    "kr": "1260 — 쿠투즈와 바이바르스가 아인잘루트 전투에서 몽골군을 물리쳐 이집트에서 저지함 (⚠️ 교재 기준, 많은 자료는 전투가 팔레스타인에서 벌어졌다고 봄) [1.2, 1.7]"
+   },
+   {
+    "sort": 1261,
+    "en": "1261 — Baybars brings an Abbasid survivor to Cairo as a “shadow caliph” for religious legitimacy [1.2, 1.7]",
+    "kr": "1261 — 바이바르스가 종교적 정당성을 얻으려고 살아남은 아바스 왕족을 카이로의 “그림자 칼리프”로 세움 [1.2, 1.7]"
+   },
+   {
+    "sort": 1284,
+    "en": "1284 — Sultan Qalawun builds a great hospital in Cairo [1.2]",
+    "kr": "1284 — 술탄 칼라운이 카이로에 큰 병원을 세움 [1.2]"
+   },
+   {
+    "sort": 1291,
+    "en": "1291 — The Mamluks capture Acre, the last major Crusader city, ending the crusader states [1.2, 1.6]",
+    "kr": "1291 — 맘루크가 마지막 주요 십자군 도시 아크레를 함락해 십자군 국가가 끝남 [1.2, 1.6]"
+   },
+   {
+    "sort": 1500,
+    "en": "c. 1500 — Portuguese and other European sea routes bypass Egypt, and Mamluk power declines [1.2]",
+    "kr": "c. 1500 — 포르투갈 등 유럽인의 새 바닷길이 이집트를 우회하면서 맘루크의 힘이 약해짐 [1.2]"
+   },
+   {
+    "sort": 1517,
+    "en": "1517 — The Ottomans conquer the Mamluk Sultanate [1.2, 1.7]",
+    "kr": "1517 — 오스만이 맘루크 술탄국을 정복함 [1.2, 1.7]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Mamluks (slave-soldiers) — mostly Turkic boys bought, converted to Islam, and trained as elite cavalry and later bureaucrats [1.2, 1.7]",
+    "kr": "맘루크 (Mamluks) — 주로 튀르크계 소년을 사들여 이슬람으로 개종시키고 정예 기병, 뒤에는 관료로 쓴 노예 군인 [1.2, 1.7]"
+   },
+   {
+    "en": "Non-hereditary rule — power rarely passed from father to son; new slave-soldiers rose to become sultans [1.2]",
+    "kr": "세습되지 않는 통치 (Non-hereditary rule) — 권력이 아버지에서 아들로 잘 이어지지 않고 새 노예 군인이 술탄이 됨 [1.2]"
+   },
+   {
+    "en": "Shadow caliph & defenders of Islam — Abbasid caliphs kept in Cairo after 1261; guardians of Mecca and Medina [1.2, 1.7]",
+    "kr": "그림자 칼리프와 이슬람의 수호자 (Shadow caliph & defenders of Islam) — 1261년 이후 카이로에 아바스 칼리프를 모시고 메카와 메디나를 지킴 [1.2, 1.7]"
+   },
+   {
+    "en": "Iqta — land grants whose tax revenue paid military officers [1.7]",
+    "kr": "이크타 (Iqta) — 그 땅의 세금으로 군 장교에게 보수를 준 토지 수여 제도 [1.7]"
+   },
+   {
+    "en": "Trade economy — Nile farming, Red Sea spice trade, and cotton and sugar trade with Europe [1.2, 1.7]",
+    "kr": "교역 경제 (Trade economy) — 나일강 농업, 홍해 향신료 교역, 유럽과의 면화·설탕 교역 [1.2, 1.7]"
+   },
+   {
+    "en": "Cairo as a center of learning — hospitals, and licensing examinations for doctors and pharmacists [1.2]",
+    "kr": "학문의 중심지 카이로 (Cairo as a center of learning) — 병원, 그리고 의사와 약사의 면허 시험 [1.2]"
+   },
+   {
+    "en": "Diverse society — Turkic (later Circassian) rulers over Arab Egyptians, Coptic Christians, and Jews [1.2]",
+    "kr": "다양한 사회 (Diverse society) — 튀르크계 (뒤에는 체르케스계) 통치자가 아랍계 이집트인, 콥트 기독교인, 유대인을 다스림 [1.2]"
+   }
+  ]
+ },
+ {
+  "order": 9,
+  "name_en": "al-Andalus (Muslim Spain)",
+  "name_kr": "알안달루스 (이슬람 스페인)",
+  "people": [
+   {
+    "sort": 1126,
+    "en": "Ibn Rushd (Averroes) (1126–1198) — Córdoba qadi and philosopher whose commentaries on Aristotle earned him the name “the Commentator” in Latin Europe [1.2, 1.6]",
+    "kr": "이븐 루시드 (Ibn Rushd/Averroes) (1126–1198) — 코르도바의 카디이자 철학자로, 아리스토텔레스 주석 때문에 라틴 유럽에서 “주석가”로 불림 [1.2, 1.6]"
+   },
+   {
+    "sort": 1135,
+    "en": "Maimonides (c. 1135–c. 1204) — Córdoba-born Jewish philosopher and Cairo physician who wrote the Guide for the Perplexed and influenced Thomas Aquinas (⚠️ textbook dates; most sources say 1138–1204) [1.2, 1.6]",
+    "kr": "마이모니데스 (Maimonides) (c. 1135–c. 1204) — 코르도바에서 태어나 카이로에서 의사로 일한 유대인 철학자로, 『방황하는 자들을 위한 안내서』를 쓰고 토마스 아퀴나스에게 영향을 줌 (⚠️ 교재 기준, 많은 자료는 1138–1204로 봄) [1.2, 1.6]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 711,
+    "en": "711 — Umayyad Muslim forces invade Spain from the south and make Córdoba their capital [1.2, 1.6]",
+    "kr": "711 — 우마이야 왕조의 무슬림 군대가 남쪽에서 스페인을 침공하고 코르도바를 수도로 삼음 [1.2, 1.6]"
+   },
+   {
+    "sort": 732,
+    "en": "732 — Franks defeat a Muslim army at the Battle of Tours, the limit of rapid Islamic expansion into Western Europe [1.2]",
+    "kr": "732 — 투르 전투에서 프랑크 군대가 무슬림 군대를 물리쳐 서유럽으로의 빠른 이슬람 팽창이 멈춤 [1.2]"
+   },
+   {
+    "sort": 929,
+    "en": "929–1031 — The Umayyad Caliphate of Córdoba makes Córdoba one of Europe's largest and richest cities [1.2]",
+    "kr": "929–1031 — 우마이야 왕조의 코르도바 칼리프조 시기에 코르도바가 유럽에서 손꼽히게 크고 부유한 도시가 됨 [1.2]"
+   },
+   {
+    "sort": 1031,
+    "en": "1031 — al-Andalus splits into small kingdoms [1.2]",
+    "kr": "1031 — 알안달루스가 작은 왕국들로 쪼개짐 [1.2]"
+   },
+   {
+    "sort": 1085,
+    "en": "1085 — Castile captures Toledo, which becomes a center for translating Arabic works into Latin [1.2, 1.6]",
+    "kr": "1085 — 카스티야가 톨레도를 점령하고, 톨레도는 아랍어 저작을 라틴어로 옮기는 번역의 중심지가 됨 [1.2, 1.6]"
+   },
+   {
+    "sort": 1212,
+    "en": "1212 — Defeat at Las Navas de Tolosa breaks Muslim power in Iberia [1.6]",
+    "kr": "1212 — 라스나바스데톨로사 전투의 패배로 이베리아의 무슬림 세력이 꺾임 [1.6]"
+   },
+   {
+    "sort": 1232,
+    "en": "1232–1492 — The Nasrid Emirate of Granada is the last Muslim state in Iberia [1.2, 1.6]",
+    "kr": "1232–1492 — 나스르 왕조의 그라나다가 이베리아에 남은 마지막 무슬림 국가가 됨 [1.2, 1.6]"
+   },
+   {
+    "sort": 1236,
+    "en": "1236 / 1248 — Córdoba and Seville fall to Castile [1.6]",
+    "kr": "1236 / 1248 — 코르도바와 세비야가 카스티야에 함락됨 [1.6]"
+   },
+   {
+    "sort": 1492,
+    "en": "1492 — Granada falls, ending the Reconquista, and Muslims who would not convert are expelled (⚠️ textbook; most sources say Muslims were forced to convert or leave in 1502) [1.2, 1.6]",
+    "kr": "1492 — 그라나다가 함락되어 레콘키스타가 끝나고 개종하지 않은 무슬림이 추방됨 (⚠️ 교재 기준, 많은 자료는 무슬림 추방·강제 개종을 1502년으로 봄) [1.2, 1.6]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Coexistence of the People of the Book — Muslims, Jews, and Christians lived side by side and influenced one another (⚠️ textbook says peaceful; most historians say real but often unequal) [1.2]",
+    "kr": "경전의 백성의 공존 (Coexistence of the People of the Book) — 무슬림, 유대인, 기독교인이 함께 살며 서로 영향을 주고받음 (⚠️ 교재 기준, 많은 역사학자는 실제였지만 불평등한 경우가 많았다고 봄) [1.2]"
+   },
+   {
+    "en": "Córdoba as a center of learning — a great mosque and, the textbook says, the largest library in the world [1.2, 1.6]",
+    "kr": "학문의 중심지 코르도바 (Córdoba as a center of learning) — 큰 모스크와, 교재에 따르면 당시 세계에서 가장 큰 도서관 [1.2, 1.6]"
+   },
+   {
+    "en": "Toledo translations — 12th–13th-century scholars put Arabic works into Latin (e.g., Gerard of Cremona's Almagest and Canon) [1.2, 1.6]",
+    "kr": "톨레도 번역 (Toledo translations) — 12–13세기 학자들이 아랍어 저작을 라틴어로 옮김 (예: 크레모나의 제라르도의 『알마게스트』와 『의학 정전』) [1.2, 1.6]"
+   },
+   {
+    "en": "Chain of influence — Ibn Rushd shaped Maimonides, who shaped Thomas Aquinas and European scholasticism [1.2, 1.6]",
+    "kr": "영향의 사슬 (Chain of influence) — 이븐 루시드가 마이모니데스에게, 마이모니데스가 토마스 아퀴나스와 유럽 스콜라 철학에 영향을 줌 [1.2, 1.6]"
+   },
+   {
+    "en": "Toleration and trade — Umayyad rulers promoted trade that brought Chinese and Southeast Asian goods into Europe [1.2]",
+    "kr": "관용과 교역 (Toleration and trade) — 우마이야 통치자들이 교역을 장려해 중국과 동남아시아의 상품이 유럽으로 들어옴 [1.2]"
+   },
+   {
+    "en": "Dhow — long, thin-hulled cargo ship that carried many goods (⚠️ textbook says first developed in India or China; most sources link it to Arab and Indian sailors) [1.2]",
+    "kr": "다우선 (Dhow) — 길고 가는 선체로 많은 상품을 실어 나른 화물선 (⚠️ 교재 기준, 많은 자료는 아랍·인도 뱃사람과 연결함) [1.2]"
+   }
+  ]
+ }
+]

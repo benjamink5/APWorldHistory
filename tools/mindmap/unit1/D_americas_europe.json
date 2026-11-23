@@ -1,0 +1,954 @@
+[
+ {
+  "order": 19,
+  "name_en": "Maya City-States",
+  "name_kr": "마야 도시국가",
+  "people": [],
+  "events": [
+   {
+    "sort": 250,
+    "en": "c. 250–900 — Height of Maya civilization: about 40 cities across southern Mexico, Belize, Honduras, and Guatemala (⚠️ textbook says up to 2 million people; most sources say several million or more) [1.4]",
+    "kr": "c. 250–900 — 마야 문명의 전성기: 멕시코 남부, 벨리즈, 온두라스, 과테말라에 걸친 약 40개 도시 (⚠️ 교재 기준 최대 200만 명, 많은 자료는 수백만 명 이상으로 봄) [1.4]"
+   },
+   {
+    "sort": 800,
+    "en": "c. 800–900 — Classic Maya collapse: southern lowland cities such as Tikal and Copán are abandoned (causes debated: drought, overpopulation, deforestation, warfare) [1.4]",
+    "kr": "c. 800–900 — 고전기 마야의 붕괴: 티칼, 코판 같은 남부 저지대 도시들이 버려짐 (원인 논쟁: 가뭄, 인구 과잉, 삼림 파괴, 전쟁) [1.4]"
+   },
+   {
+    "sort": 900,
+    "en": "c. 900 — Power shifts north to Postclassic city-states on the Yucatán Peninsula; Chichén Itzá rises (c. 900–1100s; its peak and decline dates are debated) [1.4]",
+    "kr": "c. 900 — 권력이 유카탄반도의 후고전기 도시국가로 옮겨 가고 치첸이트사가 떠오름 (c. 900–1100년대, 전성기와 쇠퇴 시기는 논쟁 중) [1.4]"
+   },
+   {
+    "sort": 1220,
+    "en": "c. 1220 — Mayapán becomes the leading Maya city and heads a league of Yucatán city-states [1.4]",
+    "kr": "c. 1220 — 마야판이 마야의 중심 도시가 되어 유카탄 도시국가 연맹을 이끎 [1.4]"
+   },
+   {
+    "sort": 1441,
+    "en": "c. 1441 — Mayapán collapses after a revolt, and the Yucatán splits into many small states (some sources say up to c. 1461) [1.4]",
+    "kr": "c. 1441 — 반란으로 마야판이 무너지고 유카탄이 여러 작은 나라로 갈라짐 (c. 1461까지 늦춰 보는 자료도 있음) [1.4]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Competing city-states — never united into one empire; one strong city often dominated its neighbors, but shifting alliances kept any city from holding power long [1.4]",
+    "kr": "경쟁하는 도시국가 (City-states) — 끝내 하나의 제국으로 통일되지 않음. 한 강한 도시가 이웃을 지배하는 경우가 많았지만, 동맹이 자주 바뀌어 어느 도시도 오래 패권을 쥐지 못함 [1.4]"
+   },
+   {
+    "en": "Holy kings (k'uhul ajaw) — kings claimed descent from a god and held political and religious power; rule usually passed father to son, and women ruled when no male heir was ready [1.4]",
+    "kr": "신성한 왕 (k'uhul ajaw, 쿠훌 아하우) — 신의 후손을 자처하며 정치·종교 권위를 함께 가짐. 왕위는 보통 아버지에서 아들로 이어졌고, 남자 후계자가 없거나 어리면 여성이 다스림 [1.4]"
+   },
+   {
+    "en": "Warfare for captives and tribute — wars for captives, tribute, and prestige rather than territory; with no standing armies, citizens owed military service [1.4]",
+    "kr": "포로와 공물을 위한 전쟁 (Warfare for captives and tribute) — 영토보다 포로·공물·위신을 위해 싸움. 상비군이 없어 시민이 병역을 짐 [1.4]"
+   },
+   {
+    "en": "Maya calendar — 260-day ritual and 365-day solar calendars formed a 52-year cycle, plus the Long Count; priests used observatories atop pyramids such as at Chichén Itzá [1.4]",
+    "kr": "마야 역법 (Maya calendar) — 260일 의례력과 365일 태양력이 52년 주기를 이루고 장기력 (Long Count)도 씀. 사제들은 치첸이트사 같은 피라미드 위의 관측소를 이용함 [1.4]"
+   },
+   {
+    "en": "Hieroglyphic writing — the most complete writing system of the pre-Columbian Americas, carved on monuments and painted in bark-paper codices [1.4]",
+    "kr": "상형 문자 (Hieroglyphic writing) — 콜럼버스 이전 아메리카에서 가장 완전한 문자 체계. 돌 기념비에 새기고 나무껍질 종이 코덱스에 그림 [1.4]"
+   },
+   {
+    "en": "Mathematics and science — base-20 numbers with a concept of zero, tracking of the sun, moon, and Venus, and rubber made from rubber plants [1.4]",
+    "kr": "수학과 과학 (Mathematics and science) — 0의 개념이 있는 20진법, 해·달·금성 관측, 고무나무 액체로 만든 고무 [1.4]"
+   },
+   {
+    "en": "Religion — male and female priests honored gods of the sun, rain, and corn; war captives were sometimes sacrificed [1.4]",
+    "kr": "종교 (Religion) — 남녀 사제가 해·비·옥수수의 신을 섬김. 전쟁 포로를 제물로 바치기도 함 [1.4]"
+   },
+   {
+    "en": "Mayapán league — walled city dominated by the Cocom family; leaders of subject towns had to live in Mayapán, which helped control them [1.4]",
+    "kr": "마야판 연맹 (Mayapán league) — 코콤 가문이 지배한 성벽 도시. 복속 도시의 지도자는 마야판에 살아야 했고, 이것이 통제 수단이 됨 [1.4]"
+   }
+  ]
+ },
+ {
+  "order": 20,
+  "name_en": "Mexica (Aztec) Empire",
+  "name_kr": "메시카 (아즈텍) 제국",
+  "people": [
+   {
+    "sort": 1402,
+    "en": "Nezahualcoyotl (1402–1472) — Aztec poet and ruler of Texcoco, one of the three Triple Alliance cities [1.4]",
+    "kr": "네사우알코요틀 (Nezahualcoyotl) (1402–1472) — 삼각 동맹 세 도시 가운데 하나인 텍스코코의 통치자이자 아즈텍 시인 [1.4]"
+   },
+   {
+    "sort": 1428,
+    "en": "Itzcoatl (r. 1427–1440) — Mexica ruler under whom the Triple Alliance defeated Azcapotzalco in 1428 [1.4]",
+    "kr": "이츠코아틀 (Itzcoatl) (재위 1427–1440) — 1428년 삼각 동맹이 아스카포찰코를 물리칠 때의 메시카 통치자 [1.4]"
+   },
+   {
+    "sort": 1440,
+    "en": "Moctezuma I (r. 1440–1469) — expanded the empire from the Gulf of Mexico to the Pacific [1.4]",
+    "kr": "목테수마 1세 (Moctezuma I) (재위 1440–1469) — 제국을 멕시코만에서 태평양까지 넓힘 [1.4]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 1200,
+    "en": "13th century — Nahuatl-speaking Mexica migrate from legendary Aztlán into the Valley of Mexico and first serve as mercenaries for Azcapotzalco [1.4]",
+    "kr": "13세기 — 나우아틀어를 쓰는 메시카가 전설 속 아스틀란에서 멕시코 분지로 이주해 처음에는 아스카포찰코의 용병으로 일함 [1.4]"
+   },
+   {
+    "sort": 1325,
+    "en": "c. 1325 — Mexica found Tenochtitlan on an island in Lake Texcoco, linked to the shore by causeways and fed by aqueducts [1.4, 1.7]",
+    "kr": "c. 1325 — 메시카가 텍스코코 호수의 섬에 테노치티틀란을 세움. 둑길로 호숫가와 잇고 수로로 물을 받음 [1.4, 1.7]"
+   },
+   {
+    "sort": 1428,
+    "en": "1428 — Tenochtitlan, Texcoco, and Tlacopan form the Triple Alliance and defeat Azcapotzalco; Tenochtitlan soon dominates [1.4, 1.7]",
+    "kr": "1428 — 테노치티틀란·텍스코코·틀라코판이 삼각 동맹을 맺고 아스카포찰코를 물리침. 곧 테노치티틀란이 주도함 [1.4, 1.7]"
+   },
+   {
+    "sort": 1475,
+    "en": "Late 15th century — The empire weakens from low technology, overexpansion, and subjects' resentment (⚠️ textbook; most sources say it was still expanding under Ahuitzotl and Moctezuma II) [1.4]",
+    "kr": "15세기 후반 — 낮은 기술 수준, 과도한 팽창, 복속민의 분노로 제국이 약해짐 (⚠️ 교재 기준, 많은 자료는 아위초틀과 목테수마 2세 아래에서 계속 팽창했다고 봄) [1.4]"
+   },
+   {
+    "sort": 1519,
+    "en": "1519–1521 — Hernán Cortés, aided by tens of thousands of indigenous allies (especially Tlaxcalans) and smallpox, defeats the Mexica (Unit 4 context) [1.4]",
+    "kr": "1519–1521 — 에르난 코르테스가 수만 명의 원주민 동맹군(특히 틀락스칼라인)과 천연두의 도움으로 메시카를 무너뜨림 (Unit 4 배경) [1.4]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Chinampas — raised fields (“floating gardens”) built in Lake Texcoco that gave several harvests a year and fed Tenochtitlan [1.4, 1.7]",
+    "kr": "치남파 (Chinampa) — 텍스코코 호수에 만든 돋운 밭(“떠 있는 정원”). 1년에 여러 번 수확해 테노치티틀란을 먹여 살림 [1.4, 1.7]"
+   },
+   {
+    "en": "Tribute empire — conquered peoples paid tribute (maize, cotton cloth, cacao, feathers), gave up land, and served in the army; the textbook calls it a tributary empire relying on a strong military [1.4, 1.7]",
+    "kr": "공납 제국 (Tribute empire) — 정복민이 공물(옥수수, 면직물, 카카오, 깃털)을 바치고 땅을 내놓고 병역을 짐. 교재는 강한 군대에 의지한 공납 제국이라 부름 [1.4, 1.7]"
+   },
+   {
+    "en": "Local rulers kept — local rulers stayed on as tribute collectors and kept their gods; provinces had an Aztec official and resettled warriors, but no large bureaucracy [1.4, 1.7]",
+    "kr": "지역 통치자 유지 (Local rulers kept) — 지역 통치자가 공물 징수인으로 남고 신과 관습도 유지함. 지방마다 아즈텍 관리와 옮겨 온 전사를 두었지만 큰 관료제는 없음 [1.4, 1.7]"
+   },
+   {
+    "en": "Huey tlatoani and theocracy — the “Great Speaker,” chosen by a council of nobles, was political ruler, military leader, and divine representative of the gods [1.4]",
+    "kr": "우에이 틀라토아니 (Huey tlatoani)와 신정 (Theocracy) — 귀족 회의가 뽑은 “위대한 연설자”가 정치적 통치자·군사 지도자·신들의 신성한 대리자를 겸함 [1.4]"
+   },
+   {
+    "en": "Huitzilopochtli and human sacrifice — the sun and war god was thought to need human blood; priests sacrificed mostly war captives at the Templo Mayor (Spanish sources may exaggerate the numbers) [1.4, 1.7]",
+    "kr": "우이칠로포치틀리 (Huitzilopochtli)와 인신 공양 (Human sacrifice) — 태양과 전쟁의 신에게 사람의 피가 필요하다고 믿음. 사제들이 템플로 마요르에서 주로 전쟁 포로를 바침 (스페인 사료는 그 수를 과장했을 수 있음) [1.4, 1.7]"
+   },
+   {
+    "en": "Warrior class — eagle and jaguar warriors led conquest and rose in rank by taking captives, so even commoners could gain status [1.4]",
+    "kr": "전사 계급 (Warrior class) — 독수리 전사와 재규어 전사가 정복을 이끌었고, 포로를 잡아 지위가 올라 평민도 신분을 높일 수 있었음 [1.4]"
+   },
+   {
+    "en": "Social hierarchy — emperor, landowning nobles (pipiltin), scribes and healers, craftspeople and traders (including luxury-trading pochteca), commoners in calpulli, and enslaved people [1.4]",
+    "kr": "사회 계층 (Social hierarchy) — 황제, 땅을 가진 귀족(피필틴), 서기와 치료사, 장인과 상인(사치품을 거래한 포치테카 포함), 칼풀리에 속한 평민, 노예 [1.4]"
+   },
+   {
+    "en": "Role of women — women wove the cloth demanded as tribute; some became priestesses, midwives, healers, merchants, or scribes [1.4]",
+    "kr": "여성의 역할 (Role of women) — 여성은 공물로 요구된 옷감을 짬. 일부는 여사제, 산파, 치료사, 상인, 서기가 됨 [1.4]"
+   }
+  ]
+ },
+ {
+  "order": 21,
+  "name_en": "Inca Empire",
+  "name_kr": "잉카 제국",
+  "people": [
+   {
+    "sort": 1438,
+    "en": "Pachacuti (r. c. 1438–1471) — “transformer of the earth” who defeated the Chanka, began rapid expansion, and rebuilt Cuzco as an imperial capital [1.4, 1.7]",
+    "kr": "파차쿠티 (Pachacuti) (재위 c. 1438–1471) — “대지를 바꾸는 자”. 찬카를 물리치고 빠른 팽창을 시작했으며 쿠스코를 제국의 수도로 다시 지음 [1.4, 1.7]"
+   },
+   {
+    "sort": 1470,
+    "en": "Topa Inca (r. 1471–1493) — Pachacuti's son; conquered the coastal Chimú kingdom (c. 1470) and pushed the empire south [1.4]",
+    "kr": "토파 잉카 (Topa Inca) (재위 1471–1493) — 파차쿠티의 아들. 해안의 치무 왕국을 정복하고(c. 1470) 제국을 남쪽으로 넓힘 [1.4]"
+   },
+   {
+    "sort": 1493,
+    "en": "Huayna Capac (r. 1493–1527) — Pachacuti's grandson who consolidated the conquered lands; his death led to a civil war of succession [1.4]",
+    "kr": "우아이나 카팍 (Huayna Capac) (재위 1493–1527) — 정복지를 다지고 관리한 파차쿠티의 손자. 그의 죽음이 왕위 계승 내전으로 이어짐 [1.4]"
+   },
+   {
+    "sort": 1532,
+    "en": "Huáscar and Atahualpa (Huáscar r. 1527–1532; Atahualpa r. 1532–1533) — Huayna Capac's sons, whose civil war weakened the empire before Pizarro arrived in 1532 [1.4]",
+    "kr": "우아스카르와 아타우알파 (Huáscar and Atahualpa) (우아스카르 재위 1527–1532, 아타우알파 재위 1532–1533) — 우아이나 카팍의 아들들. 이들의 내전이 1532년 피사로가 오기 전에 제국을 약하게 만듦 [1.4]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 1200,
+    "en": "c. 1200 — The Inca kingdom forms around Cuzco (date from Inca oral tradition) [1.4]",
+    "kr": "c. 1200 — 쿠스코 주변에 잉카 왕국이 생김 (잉카 구전에 따른 연도) [1.4]"
+   },
+   {
+    "sort": 1438,
+    "en": "1438 — Pachacuti takes power and begins Inca expansion (firm date in the textbook; based on oral tradition, so approximate) [1.4, 1.7]",
+    "kr": "1438 — 파차쿠티가 권력을 잡고 잉카의 팽창을 시작함 (교재는 확정된 연도로 쓰지만 구전에 바탕을 두어 대략적임) [1.4, 1.7]"
+   },
+   {
+    "sort": 1500,
+    "en": "Early 1500s — Tawantinsuyu (“Land of the Four Quarters”) stretches about 2,500 miles along the Andes from Ecuador to central Chile [1.4]",
+    "kr": "1500년대 초 — 타완틴수유(“네 지방의 땅”)가 안데스를 따라 에콰도르에서 칠레 중부까지 약 2,500마일에 걸침 [1.4]"
+   },
+   {
+    "sort": 1532,
+    "en": "1532 — Francisco Pizarro arrives during the civil war between Huáscar and Atahualpa; disease and the war aid the Spanish (Unit 4 context) [1.4]",
+    "kr": "1532 — 우아스카르와 아타우알파의 내전 중에 프란시스코 피사로가 도착함. 질병과 내전이 스페인에 유리하게 작용함 (Unit 4 배경) [1.4]"
+   },
+   {
+    "sort": 1533,
+    "en": "1533 — The Spanish conquer the core of the empire; Inca outposts hold out until 1572 [1.4]",
+    "kr": "1533 — 스페인이 제국의 중심부를 정복함. 잉카의 외곽 거점은 1572년까지 버팀 [1.4]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Sapa Inca — emperor believed to be the son and earthly representative of the sun god Inti; in theory he owned all land [1.4, 1.7]",
+    "kr": "사파 잉카 (Sapa Inca) — 태양신 인티의 아들이자 지상의 대리자로 여겨진 황제. 이론상 모든 땅의 주인 [1.4, 1.7]"
+   },
+   {
+    "en": "Centralized bureaucracy — four provinces with governors, households counted in units of 10 to 10,000, supervised local lords (kurakas), mitma resettlement, and elite hostages in Cuzco [1.4, 1.7]",
+    "kr": "중앙집권적 관료제 (Centralized bureaucracy) — 총독을 둔 네 지방, 10–10,000 단위로 센 가구, 감독받는 지역 영주(쿠라카), 미트마 강제 이주, 쿠스코에 데려온 지배층 인질 [1.4, 1.7]"
+   },
+   {
+    "en": "Mit'a — labor tax (mandatory public service) by men aged 15–50 on roads, terraces, temples, state lands, and in the army, instead of tribute in goods; ayllu kin groups organized the turns and the state repaid with food, chicha, and cloth [1.4, 1.7]",
+    "kr": "미타 (Mit'a) — 물품 공물 대신 15–50세 남성이 도로, 계단식 밭, 신전, 국가 땅, 군대에서 일한 노동세(의무적인 공공 봉사). 혈연 공동체 아이유가 차례를 정했고, 국가는 음식, 치차, 옷감으로 보답함 [1.4, 1.7]"
+   },
+   {
+    "en": "Road network (Qhapaq Ñan) — about 25,000 miles with rope bridges, waystations, and chasqui runners, used mainly by the government and army (⚠️ textbook says built with captive labor; most sources say mainly by mit'a workers) [1.4, 1.7]",
+    "kr": "도로망 (Qhapaq Ñan, 카팍 냔) — 밧줄 현수교, 역참, 차스키 전령을 갖춘 약 25,000마일의 도로. 주로 정부와 군대가 이용함 (⚠️ 교재 기준 포로 노동으로 건설, 많은 자료는 주로 미타 노동자가 지었다고 봄) [1.4, 1.7]"
+   },
+   {
+    "en": "Quipu and Quechua — knotted cords recorded census, labor, goods, and messages without a writing system; Quechua was imposed as the language of government [1.4, 1.7]",
+    "kr": "키푸 (Quipu)와 케추아어 (Quechua) — 문자 없이 매듭 끈으로 인구, 노동, 물품, 소식을 기록함. 케추아어를 통치의 공용어로 강제함 [1.4, 1.7]"
+   },
+   {
+    "en": "Terraces, waru waru, and storehouses — terraces stopped erosion for potatoes, maize, and quinoa; surpluses filled state storehouses (⚠️ textbook ties waru waru raised beds to Inca terraces; most sources say it is an older raised-field technique near Lake Titicaca) [1.4, 1.7]",
+    "kr": "계단식 밭, 와루와루, 창고 (Terraces, waru waru, and storehouses) — 계단식 밭이 흙이 쓸려 가는 것을 막아 감자·옥수수·퀴노아를 기름. 잉여는 국가 창고에 쌓임 (⚠️ 교재 기준 와루와루는 잉카 계단식 밭의 기술, 많은 자료는 티티카카 호수 주변의 더 오래된 돋운 밭 기술로 봄) [1.4, 1.7]"
+   },
+   {
+    "en": "State religion — Inti and the gold-covered Coricancha (Temple of the Sun) in Cuzco, ancestor worship, and sacred huaca; human sacrifice was far rarer than among the Mexica [1.4, 1.7]",
+    "kr": "국가 종교 (State religion) — 인티와 쿠스코의 금으로 덮인 코리칸차(태양의 신전), 조상 숭배, 신성한 와카. 인신 공양은 메시카보다 훨씬 드물었음 [1.4, 1.7]"
+   },
+   {
+    "en": "Split inheritance — mummified rulers kept their servants and property, so each new ruler needed new conquests, a partial motive for expansion [1.4]",
+    "kr": "분할 상속 (Split inheritance) — 미라가 된 통치자가 하인과 재산을 계속 소유해 새 통치자는 새 정복이 필요했음. 팽창의 동기 가운데 하나 [1.4]"
+   }
+  ]
+ },
+ {
+  "order": 22,
+  "name_en": "North America (Mississippian, Ancestral Puebloans)",
+  "name_kr": "북아메리카 (미시시피 문화·고대 푸에블로인)",
+  "people": [],
+  "events": [
+   {
+    "sort": 700,
+    "en": "8th–9th centuries — The Mississippian culture emerges in the Mississippi River Valley, the first large-scale civilization in North America [1.4]",
+    "kr": "8–9세기 — 미시시피강 유역에서 북아메리카 최초의 큰 규모 문명인 미시시피 문화가 생겨남 [1.4]"
+   },
+   {
+    "sort": 850,
+    "en": "c. 850–1150 — Chaco Canyon in New Mexico flourishes as a ceremonial and trade center [1.4]",
+    "kr": "c. 850–1150 — 뉴멕시코주의 차코 캐니언이 의례와 교역의 중심지로 번성함 [1.4]"
+   },
+   {
+    "sort": 1050,
+    "en": "c. 1050–1200 — Cahokia, near present-day St. Louis, is at its peak as the largest city north of Mexico [1.4]",
+    "kr": "c. 1050–1200 — 지금의 세인트루이스 근처 카호키아가 멕시코 북쪽에서 가장 큰 도시로 전성기를 누림 [1.4]"
+   },
+   {
+    "sort": 1190,
+    "en": "c. 1190–1300 — Mesa Verde cliff dwellings are built and lived in [1.4]",
+    "kr": "c. 1190–1300 — 메사 버드의 절벽 주거지가 지어지고 쓰임 [1.4]"
+   },
+   {
+    "sort": 1275,
+    "en": "Late 13th century — Chaco and Mesa Verde decline as the climate grows drier (⚠️ textbook; most sources say Chaco declined c. 1150 and Mesa Verde was abandoned c. 1300) [1.4]",
+    "kr": "13세기 후반 — 기후가 더 건조해지면서 차코와 메사 버드가 쇠퇴함 (⚠️ 교재 기준, 많은 자료는 차코는 c. 1150에 쇠퇴하고 메사 버드는 c. 1300에 버려졌다고 봄) [1.4]"
+   },
+   {
+    "sort": 1450,
+    "en": "c. 1450 — Cahokia is abandoned (⚠️ textbook; most sources say it was largely abandoned by c. 1350–1400) [1.4]",
+    "kr": "c. 1450 — 카호키아가 버려짐 (⚠️ 교재 기준, 많은 자료는 c. 1350–1400까지 거의 버려졌다고 봄) [1.4]"
+   },
+   {
+    "sort": 1600,
+    "en": "By 1600 — Other large Mississippian cities are abandoned (causes debated: flooding or weather extremes, drought, deforestation, conflict, European diseases) [1.4]",
+    "kr": "1600년까지 — 다른 큰 미시시피 도시들이 버려짐 (원인 논쟁: 홍수나 이상 기후, 가뭄, 삼림 파괴, 분쟁, 유럽인의 질병) [1.4]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Mound-building — enormous earthen mounds instead of stone buildings; Monks Mound at Cahokia is about 100 feet tall (⚠️ textbook calls the largest mound Cahokia; most sources say Cahokia was the city and Monks Mound its largest mound) [1.4]",
+    "kr": "마운드 건설 (Mound-building) — 돌 건물 대신 거대한 흙 마운드를 쌓음. 카호키아의 몽크스 마운드는 높이 약 100피트 (⚠️ 교재 기준 가장 큰 마운드가 카호키아, 많은 자료는 카호키아는 도시이고 가장 큰 마운드는 몽크스 마운드라고 봄) [1.4]"
+   },
+   {
+    "en": "Great Sun and rigid classes — a chief ruled each large town above priests and nobles, commoners, and enslaved prisoners of war (⚠️ textbook; most sources say the title comes from later French records of the Natchez) [1.4]",
+    "kr": "위대한 태양 (Great Sun)과 엄격한 계급 — 큰 마을마다 족장이 사제·귀족, 평민, 노예가 된 전쟁 포로 위에서 다스림 (⚠️ 교재 기준, 많은 자료는 이 칭호가 뒤의 나체즈에 관한 프랑스 기록에서 나왔다고 봄) [1.4]"
+   },
+   {
+    "en": "Matrilineal society — status came from the mother's side, so the Great Sun's title passed to his sister's son; women generally farmed and men hunted [1.4]",
+    "kr": "모계 사회 (Matrilineal society) — 지위가 어머니 쪽에서 정해져 위대한 태양의 칭호가 누이의 아들에게 넘어감. 대체로 여성은 농사를, 남성은 사냥을 함 [1.4]"
+   },
+   {
+    "en": "Great houses and kivas (Chaco) — multistory stone-and-clay buildings such as Pueblo Bonito with hundreds of rooms, round ceremonial kivas, straight roads, and turquoise trade [1.4]",
+    "kr": "대형 주거지와 키바 (Great houses and kivas, 차코) — 방이 수백 개인 푸에블로 보니토 같은 돌과 진흙의 여러 층 건물, 둥근 의례용 방 키바, 곧은 도로, 터키석 교역 [1.4]"
+   },
+   {
+    "en": "Cliff dwellings (Mesa Verde) — multistory sandstone homes such as Cliff Palace built into canyon walls for shelter and defense [1.4]",
+    "kr": "절벽 주거지 (Cliff dwellings, 메사 버드) — 클리프 팰리스처럼 협곡 벽에 사암으로 지은 피난·방어용 여러 층의 집 [1.4]"
+   },
+   {
+    "en": "Water management — in the dry Southwest, with little wood for building, people collected, transported, and stored water efficiently [1.4]",
+    "kr": "물 관리 (Water management) — 목재가 거의 없는 건조한 남서부에서 사람들이 물을 효율적으로 모으고 나르고 저장함 [1.4]"
+   },
+   {
+    "en": "Chiefdoms, not empires — ceremonial centers without writing; outside the Aztec and Inca empires, most of the Americas lacked centralized states [1.4, 1.7]",
+    "kr": "제국이 아닌 족장 사회 (Chiefdoms) — 문자 없는 의례 중심지. 아스테카와 잉카 제국 밖의 아메리카 대부분에는 중앙 집권 국가가 없었음 [1.4, 1.7]"
+   }
+  ]
+ },
+ {
+  "order": 27,
+  "name_en": "Catholic Church and Crusades",
+  "name_kr": "가톨릭교회와 십자군",
+  "people": [
+   {
+    "sort": 1079,
+    "en": "Peter Abelard (1079–1142) — scholar who studied Aristotle and sometimes criticized the Church but stayed faithful all his life [1.6]",
+    "kr": "피에르 아벨라르 (Peter Abelard) (1079–1142) — 아리스토텔레스를 공부하고 때로 교회를 비판했지만 평생 신앙을 지킨 학자 [1.6]"
+   },
+   {
+    "sort": 1095,
+    "en": "Pope Urban II (pope 1088–1099) — called the First Crusade at the Council of Clermont in 1095 [1.2, 1.6]",
+    "kr": "교황 우르바노 2세 (Pope Urban II) (교황 재위 1088–1099) — 1095년 클레르몽 공의회에서 제1차 십자군을 호소함 [1.2, 1.6]"
+   },
+   {
+    "sort": 1208,
+    "en": "Pope Innocent III (pope 1198–1216) — placed England under interdict (1208–1214) in a dispute with King John [1.6]",
+    "kr": "교황 인노첸시오 3세 (Pope Innocent III) (교황 재위 1198–1216) — 존 왕과의 분쟁으로 잉글랜드에 성무 금지령을 내림 (1208–1214) [1.6]"
+   },
+   {
+    "sort": 1225,
+    "en": "Thomas Aquinas (1225–1274) — Dominican friar whose Summa Theologica argued that faith and reason do not conflict, drawing on Aristotle and Ibn Rushd [1.2, 1.6]",
+    "kr": "토마스 아퀴나스 (Thomas Aquinas) (1225–1274) — 아리스토텔레스와 이븐 루시드를 바탕으로 신앙과 이성이 충돌하지 않는다고 주장한 『신학대전』의 도미니코회 수도사 [1.2, 1.6]"
+   },
+   {
+    "sort": 1296,
+    "en": "Pope Boniface VIII (pope 1294–1303) — clashed with France's Philip IV over taxing the clergy (c. 1296–1303) [1.6]",
+    "kr": "교황 보니파시오 8세 (Pope Boniface VIII) (교황 재위 1294–1303) — 성직자 과세 문제로 프랑스의 필리프 4세와 맞섬 (c. 1296–1303) [1.6]"
+   },
+   {
+    "sort": 1349,
+    "en": "Pope Clement VI (pope 1342–1352) — declared that Jews were not to blame for the Black Death [1.6]",
+    "kr": "교황 클레멘스 6세 (Pope Clement VI) (교황 재위 1342–1352) — 유대인에게 흑사병의 책임이 없다고 선언함 [1.6]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 1095,
+    "en": "1095 — At the Council of Clermont, Pope Urban II calls the First Crusade to take the Holy Land from Muslim rule [1.2, 1.6]",
+    "kr": "1095 — 클레르몽 공의회에서 교황 우르바노 2세가 성지를 무슬림 지배에서 되찾자며 제1차 십자군을 호소함 [1.2, 1.6]"
+   },
+   {
+    "sort": 1096,
+    "en": "1096 — Crusaders attack Jewish communities in the Rhineland [1.6]",
+    "kr": "1096 — 십자군이 라인란트의 유대인 공동체를 공격함 [1.6]"
+   },
+   {
+    "sort": 1096,
+    "en": "1096–1099 — First Crusade captures Jerusalem (1099) and sets up crusader states, the textbook's only clear victory for Christendom [1.2, 1.6, 1.7]",
+    "kr": "1096–1099 — 제1차 십자군이 예루살렘을 점령하고(1099) 십자군 국가를 세움. 교재는 기독교 세계의 유일한 분명한 승리로 봄 [1.2, 1.6, 1.7]"
+   },
+   {
+    "sort": 1187,
+    "en": "1187 — Saladin retakes Jerusalem [1.2, 1.6]",
+    "kr": "1187 — 살라딘이 예루살렘을 되찾음 [1.2, 1.6]"
+   },
+   {
+    "sort": 1189,
+    "en": "1189–1192 — Third Crusade fails to retake Jerusalem; a truce lets Christian pilgrims visit [1.6]",
+    "kr": "1189–1192 — 제3차 십자군이 예루살렘 탈환에 실패함. 휴전으로 기독교 순례자의 방문은 허용됨 [1.6]"
+   },
+   {
+    "sort": 1202,
+    "en": "1202–1204 — Fourth Crusade, owing Venice for its ships, sacks Zara and is diverted to Constantinople, never reaching the Holy Land (⚠️ textbook calls Zara an Italian city; most sources place it on the Dalmatian coast under the king of Hungary) [1.6]",
+    "kr": "1202–1204 — 베네치아에 뱃삯을 다 치르지 못한 제4차 십자군이 자라를 약탈하고 콘스탄티노폴리스로 방향을 돌려 끝내 성지에 가지 못함 (⚠️ 교재 기준 자라는 이탈리아 도시, 많은 자료는 헝가리 왕이 다스린 달마티아 해안의 도시로 봄) [1.6]"
+   },
+   {
+    "sort": 1209,
+    "en": "1209–1229 — Albigensian Crusade against the Cathars of southern France; the Church sets up the Inquisition to try heretics [1.6]",
+    "kr": "1209–1229 — 남프랑스의 카타리파를 친 알비 십자군. 교회는 이단을 재판하는 종교 재판을 만듦 [1.6]"
+   },
+   {
+    "sort": 1215,
+    "en": "1215 — Fourth Lateran Council requires Jews and Muslims in Christian lands to wear distinctive clothing or badges [1.6]",
+    "kr": "1215 — 제4차 라테라노 공의회가 기독교 지역의 유대인과 무슬림에게 구별되는 옷이나 표식을 달게 함 [1.6]"
+   },
+   {
+    "sort": 1291,
+    "en": "1291 — Mamluks take Acre, ending the crusader states (⚠️ textbook counts four major Crusades, ending with the Fourth; most sources number more, up to 1272) [1.2, 1.6]",
+    "kr": "1291 — 맘루크가 아크레를 점령해 십자군 국가가 끝남 (⚠️ 교재 기준 주요 십자군은 제4차까지 네 차례, 많은 자료는 1272년까지 더 많이 셈) [1.2, 1.6]"
+   },
+   {
+    "sort": 1309,
+    "en": "1309–1377 — Avignon Papacy: popes live in Avignon under strong French influence [1.6]",
+    "kr": "1309–1377 — 아비뇽 교황청: 교황들이 프랑스의 강한 영향 아래 아비뇽에 머묾 [1.6]"
+   },
+   {
+    "sort": 1349,
+    "en": "1349 — Jews falsely blamed for the Black Death are massacred in Strasbourg and other towns [1.6]",
+    "kr": "1349 — 흑사병의 누명을 쓴 유대인이 스트라스부르 등 여러 도시에서 학살됨 [1.6]"
+   },
+   {
+    "sort": 1378,
+    "en": "1378–1417 — Western Schism: two, then three rival popes damage the Church's prestige [1.6]",
+    "kr": "1378–1417 — 서방 교회 대분열: 두 명, 나중에는 세 명의 교황이 맞서 교회의 위신이 떨어짐 [1.6]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Church hierarchy — the pope led archbishops, bishops, and parish priests, giving a fragmented Europe one chain of authority and its most unifying institution [1.6]",
+    "kr": "교회 위계 (Church hierarchy) — 교황이 대주교, 주교, 본당 사제를 이끎. 분열된 유럽에 하나의 권위 체계를 준 가장 강력한 통합 기관 [1.6]"
+   },
+   {
+    "en": "Sacraments and tithe — seven rituals believed necessary for salvation; a one-tenth tax made the Church rich and one of the largest landowners [1.6]",
+    "kr": "성사 (Sacraments)와 십일조 (Tithe) — 구원에 꼭 필요하다고 여긴 일곱 의식. 10분의 1 세금으로 교회가 부유해지고 가장 큰 토지 소유자 가운데 하나가 됨 [1.6]"
+   },
+   {
+    "en": "Excommunication and interdict — cutting a person or a whole region off from the sacraments gave popes power over kings and lords [1.6]",
+    "kr": "파문 (Excommunication)과 성무 금지령 (Interdict) — 한 사람이나 한 지역 전체를 성사에서 끊어 내는 처벌로 교황이 왕과 영주를 누를 힘을 가짐 [1.6]"
+   },
+   {
+    "en": "Monasteries and convents — communities under the Rule of St. Benedict copied manuscripts, ran schools and hospitals, and gave nuns learning and leadership [1.6, 1.7]",
+    "kr": "수도원 (Monastery)과 수녀원 (Convent) — 성 베네딕트 규칙을 따른 공동체가 필사본을 베끼고 학교와 병원을 운영했으며, 수녀에게 학문과 지도력의 기회를 줌 [1.6, 1.7]"
+   },
+   {
+    "en": "Mendicant orders — Franciscans and Dominicans (early 1200s) lived in poverty and preached in towns; Dominicans also fought heresy [1.6]",
+    "kr": "탁발 수도회 (Mendicant orders) — 프란치스코회와 도미니코회(1200년대 초)가 가난하게 살며 도시에서 설교함. 도미니코회는 이단과도 싸움 [1.6]"
+   },
+   {
+    "en": "Gothic cathedrals — pointed arches, flying buttresses, and stained glass (Chartres, Notre-Dame de Paris) showed Church wealth and taught Bible stories to people who could not read [1.6]",
+    "kr": "고딕 대성당 (Gothic cathedrals) — 뾰족한 아치, 공중 부벽, 스테인드글라스(샤르트르, 파리 노트르담)로 교회의 부를 보이고 글 모르는 사람에게 성경 이야기를 가르침 [1.6]"
+   },
+   {
+    "en": "Universities and scholasticism — Church-founded universities (Bologna, Paris, Oxford by c. 1200) used reason and logic, drawing on Aristotle through Arabic texts, to explain faith [1.2, 1.6]",
+    "kr": "대학 (University)과 스콜라 철학 (Scholasticism) — 교회가 세운 대학(볼로냐, 파리, 옥스퍼드, c. 1200년까지)이 아랍어 문헌을 거친 아리스토텔레스를 바탕으로 이성과 논리로 신앙을 설명함 [1.2, 1.6]"
+   },
+   {
+    "en": "Church and state — kings were crowned and anointed by the Church, but the Church was also an alternative structure and at times a rival as France and the Holy Roman Empire grew stronger [1.7]",
+    "kr": "교회와 국가 (Church and state) — 교회가 왕에게 대관과 도유를 했지만, 또 하나의 사회 조직 구조였고 프랑스와 신성 로마 제국이 강해지자 때때로 경쟁 세력이 됨 [1.7]"
+   },
+   {
+    "en": "Jews in Christian Europe — barred from land and most guilds and not bound by the usury ban, many became moneylenders; they faced antisemitism, blood libel, and expulsions, and many moved east to Poland and Lithuania [1.6]",
+    "kr": "기독교 유럽의 유대인 (Jews in Christian Europe) — 땅 소유와 대부분의 길드에서 배제되고 고리대금 금지에 묶이지 않아 많은 유대인이 대금업자가 됨. 반유대주의, 피의 비방, 추방에 시달렸고 많은 이가 동쪽의 폴란드와 리투아니아로 옮겨 감 [1.6]"
+   }
+  ]
+ },
+ {
+  "order": 28,
+  "name_en": "England",
+  "name_kr": "잉글랜드",
+  "people": [
+   {
+    "sort": 1066,
+    "en": "William the Conqueror (r. 1066–1087) — duke of Normandy who conquered England in 1066 and ran a tightly organized feudal system through royal sheriffs [1.6]",
+    "kr": "정복왕 윌리엄 (William the Conqueror) (재위 1066–1087) — 1066년 잉글랜드를 정복하고 국왕 직속 행정관을 통해 잘 조직된 봉건 제도를 운영한 노르망디 공작 [1.6]"
+   },
+   {
+    "sort": 1208,
+    "en": "King John (r. 1199–1216) — submitted to the pope in 1213 after an interdict and was forced by his barons to sign Magna Carta in 1215 [1.6]",
+    "kr": "존 왕 (King John) (재위 1199–1216) — 성무 금지령 뒤 1213년 교황에게 굴복했고, 1215년 귀족들의 압박으로 마그나 카르타에 서명함 [1.6]"
+   },
+   {
+    "sort": 1265,
+    "en": "Simon de Montfort (c. 1208–1265) — called the Parliament of 1265 [1.6]",
+    "kr": "시몽 드 몽포르 (Simon de Montfort) (c. 1208–1265) — 1265년 의회를 소집함 [1.6]"
+   },
+   {
+    "sort": 1290,
+    "en": "Edward I (r. 1272–1307) — expelled England's Jews in 1290 and called the Model Parliament in 1295 [1.6]",
+    "kr": "에드워드 1세 (Edward I) (재위 1272–1307) — 1290년 잉글랜드의 유대인을 추방하고 1295년 모범 의회를 소집함 [1.6]"
+   },
+   {
+    "sort": 1328,
+    "en": "Edward III (r. 1327–1377) — claimed the French throne after the Capetian line ended in 1328, a cause of the Hundred Years' War [1.6]",
+    "kr": "에드워드 3세 (Edward III) (재위 1327–1377) — 1328년 카페 왕조의 직계가 끊기자 프랑스 왕위를 주장해 백년 전쟁의 원인이 됨 [1.6]"
+   },
+   {
+    "sort": 1343,
+    "en": "Geoffrey Chaucer (c. 1343–1400) — wrote The Canterbury Tales in Middle English, satirizing Church figures (⚠️ textbook places him in the Northern Renaissance; most sources call him a late medieval writer) [1.6]",
+    "kr": "제프리 초서 (Geoffrey Chaucer) (c. 1343–1400) — 중세 영어로 『캔터베리 이야기』를 써 교회 인물을 풍자함 (⚠️ 교재 기준 북부 르네상스 작가, 많은 자료는 중세 후기 작가로 봄) [1.6]"
+   },
+   {
+    "sort": 1381,
+    "en": "Wat Tyler and John Ball (both d. 1381) — rebel leader and preacher who led the English Peasants' Revolt of 1381 [1.6]",
+    "kr": "와트 타일러와 존 볼 (Wat Tyler and John Ball) (두 사람 모두 1381년 사망) — 1381년 잉글랜드 농민 반란을 이끈 반란 지도자와 설교자 [1.6]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 1066,
+    "en": "1066 — Norman Conquest: William of Normandy wins England, gaining lands on both sides of the English Channel [1.6]",
+    "kr": "1066 — 노르만 정복: 노르망디의 윌리엄이 잉글랜드를 차지해 영국 해협 양쪽에 땅을 갖게 됨 [1.6]"
+   },
+   {
+    "sort": 1208,
+    "en": "1208–1214 — Pope Innocent III places England under interdict; King John submits in 1213 [1.6]",
+    "kr": "1208–1214 — 교황 인노첸시오 3세가 잉글랜드에 성무 금지령을 내림. 존 왕은 1213년에 굴복함 [1.6]"
+   },
+   {
+    "sort": 1215,
+    "en": "1215 — Barons force King John to sign Magna Carta, putting the king under the law (⚠️ textbook says it guaranteed a jury trial; most sources say it promised only the lawful judgment of equals or the law of the land) [1.6, 1.7]",
+    "kr": "1215 — 귀족들이 존 왕에게 마그나 카르타에 서명하게 해 왕도 법 아래 놓임 (⚠️ 교재 기준 배심 재판을 보장, 많은 자료는 동등한 사람들의 적법한 판결이나 국법만 약속했다고 봄) [1.6, 1.7]"
+   },
+   {
+    "sort": 1265,
+    "en": "1265 — Simon de Montfort's Parliament, the textbook's first English Parliament (⚠️ textbook says it already had a House of Lords and a House of Commons; most sources say Parliament split into two houses in the 14th century) [1.6]",
+    "kr": "1265 — 교재가 잉글랜드 최초의 의회로 보는 시몽 드 몽포르의 의회 (⚠️ 교재 기준 이미 상원과 하원이 있었음, 많은 자료는 두 원으로 나뉜 것은 14세기라고 봄) [1.6]"
+   },
+   {
+    "sort": 1290,
+    "en": "1290 — Edward I expels England's Jews [1.6]",
+    "kr": "1290 — 에드워드 1세가 잉글랜드의 유대인을 추방함 [1.6]"
+   },
+   {
+    "sort": 1295,
+    "en": "1295 — Edward I's Model Parliament, often called the first representative one [1.6]",
+    "kr": "1295 — 흔히 최초의 대표 의회로 불리는 에드워드 1세의 모범 의회 [1.6]"
+   },
+   {
+    "sort": 1346,
+    "en": "1346–1415 — English longbow victories at Crécy (1346), Poitiers (1356), and Agincourt (1415) [1.6]",
+    "kr": "1346–1415 — 장궁을 앞세운 잉글랜드가 크레시(1346), 푸아티에(1356), 아쟁쿠르(1415)에서 승리함 [1.6]"
+   },
+   {
+    "sort": 1347,
+    "en": "1347–1351 — Black Death, brought by Italian ships from Caffa to Sicily in 1347, kills about a third of Europe's people [1.6]",
+    "kr": "1347–1351 — 1347년 카파에서 온 이탈리아 상선을 통해 시칠리아에 들어온 흑사병이 유럽 인구의 약 3분의 1을 죽임 [1.6]"
+   },
+   {
+    "sort": 1349,
+    "en": "1349–1351 — The Ordinance (1349) and Statute of Labourers (1351) try to freeze wages at pre-plague levels [1.6]",
+    "kr": "1349–1351 — 노동자 칙령(1349)과 노동자 조례(1351)가 임금을 흑사병 이전 수준으로 묶으려 함 [1.6]"
+   },
+   {
+    "sort": 1381,
+    "en": "1381 — English Peasants' Revolt against the poll tax marches on London and meets Richard II; it is crushed, but the poll tax is dropped [1.6]",
+    "kr": "1381 — 인두세에 맞선 잉글랜드 농민 반란군이 런던으로 진군해 리처드 2세를 만남. 반란은 진압되었지만 인두세는 폐지됨 [1.6]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Hereditary monarchy — Norman kings from 1066, then Plantagenets; slowly centralizing as feudal ties declined [1.6, 1.7]",
+    "kr": "세습 군주정 (Hereditary monarchy) — 1066년부터 노르만 왕조, 이후 플랜태저넷 왕조. 봉건 관계가 약해지며 서서히 중앙집권화됨 [1.6, 1.7]"
+   },
+   {
+    "en": "Royal sheriffs — officials through whom William the Conqueror ran a tightly organized feudal kingdom [1.6]",
+    "kr": "국왕 직속 행정관 (Sheriff) — 정복왕 윌리엄이 잘 조직된 봉건 왕국을 운영한 관리 [1.6]"
+   },
+   {
+    "en": "Parliament — grew from royal councils to include knights and townspeople, later gained the right to approve taxes, and became stronger than similar bodies on the continent [1.6]",
+    "kr": "의회 (Parliament) — 왕의 자문 회의에서 발전해 기사와 도시민을 포함하게 되었고, 뒤에 세금 승인권을 얻어 대륙의 비슷한 기구보다 강해짐 [1.6]"
+   },
+   {
+    "en": "Scutage — a knight's payment instead of military service; nobles won the right to be consulted on it [1.6]",
+    "kr": "군역 면제세 (Scutage) — 기사가 군사 봉사 대신 낸 돈. 귀족들은 이에 대해 의견을 들을 권리를 얻음 [1.6]"
+   },
+   {
+    "en": "Manorialism — self-sufficient manors with a manor house, village, fields, mill, and church, where serfs worked the lord's demesne and paid fees [1.6, 1.7]",
+    "kr": "장원제 (Manorialism) — 영주 저택, 마을, 경작지, 방앗간, 교회를 갖춘 자급자족 장원. 농노가 영주의 직영지에서 일하고 사용료를 냄 [1.6, 1.7]"
+   },
+   {
+    "en": "Serfdom — coerced labor bound to the land; after the Black Death, lords turned duties into money rents and serfdom faded in England (the textbook says serfdom held back European state-building) [1.6, 1.7]",
+    "kr": "농노제 (Serfdom) — 땅에 묶인 강제 노동. 흑사병 뒤 영주들이 노동 의무를 화폐 지대로 바꾸었고 잉글랜드에서 농노제가 사라져 감 (교재는 농노제가 유럽의 국가 형성을 늦췄다고 봄) [1.6, 1.7]"
+   },
+   {
+    "en": "Longbow — six-foot English bow that, with later cannons, made armored knights less useful and weakened feudalism [1.6]",
+    "kr": "장궁 (Longbow) — 길이 약 6피트의 잉글랜드 활. 뒤의 대포와 함께 갑옷 입은 기사의 쓸모를 줄여 봉건제를 약하게 함 [1.6]"
+   },
+   {
+    "en": "National identity — the Hundred Years' War led people to call themselves English, and English replaced French as the language of government and courts [1.6]",
+    "kr": "국민 의식 (National identity) — 백년 전쟁으로 사람들이 스스로를 잉글랜드인이라 부르기 시작했고, 정부와 법정의 언어가 프랑스어에서 영어로 바뀜 [1.6]"
+   }
+  ]
+ },
+ {
+  "order": 29,
+  "name_en": "France",
+  "name_kr": "프랑스",
+  "people": [
+   {
+    "sort": 1180,
+    "en": "Philip II (r. 1180–1223) — built the first real royal bureaucracy and took Normandy from England in 1204 [1.6]",
+    "kr": "필리프 2세 (Philip II) (재위 1180–1223) — 처음으로 제대로 된 왕실 관료제를 만들고 1204년 잉글랜드에게서 노르망디를 빼앗음 [1.6]"
+   },
+   {
+    "sort": 1285,
+    "en": "Philip IV (r. 1285–1314) — defied Pope Boniface VIII and called the Estates-General to win support against the pope [1.6]",
+    "kr": "필리프 4세 (Philip IV) (재위 1285–1314) — 교황 보니파시오 8세에 맞섰고 교황에 맞설 지지를 얻으려고 삼부회를 소집함 [1.6]"
+   },
+   {
+    "sort": 1405,
+    "en": "Christine de Pizan (1364–c. 1430) — writer who defended women's abilities in The Book of the City of Ladies (1405) [1.6]",
+    "kr": "크리스틴 드 피상 (Christine de Pizan) (1364–c. 1430) — 『여인들의 도시』(1405)에서 여성의 능력을 옹호한 작가 [1.6]"
+   },
+   {
+    "sort": 1429,
+    "en": "Joan of Arc (c. 1412–1431) — peasant girl who helped lift the siege of Orléans (1429) and was burned at the stake by the English in 1431 [1.6]",
+    "kr": "잔 다르크 (Joan of Arc) (c. 1412–1431) — 오를레앙 포위를 푸는 데 기여하고(1429) 1431년 잉글랜드에 의해 화형당한 농민 소녀 [1.6]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 987,
+    "en": "987–1328 — Capetian kings rule France, at first controlling only the area around Paris [1.6]",
+    "kr": "987–1328 — 카페 왕조가 프랑스를 다스림. 처음에는 파리 주변만 통제함 [1.6]"
+   },
+   {
+    "sort": 1204,
+    "en": "1204 — Philip II takes Normandy from England [1.6]",
+    "kr": "1204 — 필리프 2세가 잉글랜드에게서 노르망디를 빼앗음 [1.6]"
+   },
+   {
+    "sort": 1296,
+    "en": "c. 1296–1303 — Philip IV clashes with Pope Boniface VIII over taxing the clergy [1.6]",
+    "kr": "c. 1296–1303 — 필리프 4세가 성직자 과세 문제로 교황 보니파시오 8세와 맞섬 [1.6]"
+   },
+   {
+    "sort": 1300,
+    "en": "c. 1300 — The Little Ice Age begins, cooling Europe for about five centuries, cutting harvests, and fueling unrest and scapegoating [1.6]",
+    "kr": "c. 1300 — 소빙하기가 시작되어 약 다섯 세기 동안 유럽을 식히고 수확을 줄이며 사회 불안과 희생양 삼기를 부추김 [1.6]"
+   },
+   {
+    "sort": 1302,
+    "en": "1302 — The first Estates-General meets [1.6]",
+    "kr": "1302 — 첫 삼부회가 열림 [1.6]"
+   },
+   {
+    "sort": 1315,
+    "en": "1315–1317 — The Great Famine halts Europe's population growth [1.6]",
+    "kr": "1315–1317 — 대기근으로 유럽의 인구 증가가 멈춤 [1.6]"
+   },
+   {
+    "sort": 1328,
+    "en": "1328 — The Capetian line ends and the Valois dynasty begins [1.6]",
+    "kr": "1328 — 카페 왕조의 직계가 끊기고 발루아 왕조가 시작됨 [1.6]"
+   },
+   {
+    "sort": 1337,
+    "en": "1337–1453 — Hundred Years' War with England over Gascony, the French throne, and wool-trading Flanders [1.6, 1.7]",
+    "kr": "1337–1453 — 가스코뉴, 프랑스 왕위, 양모 교역 지역 플랑드르를 둘러싼 잉글랜드와의 백년 전쟁 [1.6, 1.7]"
+   },
+   {
+    "sort": 1358,
+    "en": "1358 — Jacquerie: a violent peasant uprising in northern France after the defeat at Poitiers, crushed within weeks [1.6]",
+    "kr": "1358 — 자크리의 난: 푸아티에 패배 뒤 북프랑스에서 일어난 격렬한 농민 봉기. 몇 주 만에 진압됨 [1.6]"
+   },
+   {
+    "sort": 1394,
+    "en": "1394 — France expels its Jews (⚠️ textbook date; most sources say Philip IV first expelled them in 1306 and 1394 was the final expulsion) [1.6]",
+    "kr": "1394 — 프랑스가 유대인을 추방함 (⚠️ 교재 기준 연도, 많은 자료는 필리프 4세가 1306년에 처음 추방했고 1394년이 최종 추방이라고 봄) [1.6]"
+   },
+   {
+    "sort": 1429,
+    "en": "1429 — Joan of Arc helps lift the siege of Orléans [1.6]",
+    "kr": "1429 — 잔 다르크가 오를레앙 포위를 푸는 데 기여함 [1.6]"
+   },
+   {
+    "sort": 1453,
+    "en": "1453 — France wins the Hundred Years' War; England keeps only Calais [1.6]",
+    "kr": "1453 — 프랑스가 백년 전쟁에서 이김. 잉글랜드는 칼레만 남김 [1.6]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Feudalism — decentralized exchange of land for loyalty and military service: kings granted fiefs to lords, lords to vassals and knights; overlapping loyalties limited central control [1.1, 1.6, 1.7]",
+    "kr": "봉건제 (Feudalism) — 땅과 충성·군사 봉사를 맞바꾼 분권적 제도. 왕은 영주에게, 영주는 봉신과 기사에게 봉토를 줌. 충성 관계가 겹쳐 중앙 통제가 어려웠음 [1.1, 1.6, 1.7]"
+   },
+   {
+    "en": "Knights and chivalry — armored mounted warriors bound by a code of honor, courtesy, and bravery that put women “on a pedestal” but gave them few rights [1.1, 1.6]",
+    "kr": "기사 (Knight)와 기사도 (Chivalry) — 명예·예의·용기의 규범을 따른 갑옷 입은 기마 전사. 기사도는 여성을 “받들었지만” 권리는 거의 주지 않음 [1.1, 1.6]"
+   },
+   {
+    "en": "Royal bureaucracy and army — from Philip II on, kings gained power at the expense of feudal lords through officials and soldiers who served the king directly [1.6]",
+    "kr": "왕실 관료제와 군대 (Royal bureaucracy and army) — 필리프 2세 이후 왕은 자신을 직접 섬기는 관리와 병사를 두어 봉건 영주를 희생시키며 힘을 키움 [1.6]"
+   },
+   {
+    "en": "Estates-General — assembly of the three estates (clergy, nobles, commoners); since clergy and nobles paid no regular taxes, it had little power [1.6]",
+    "kr": "삼부회 (Estates-General) — 세 신분(성직자, 귀족, 평민)의 회의. 성직자와 귀족이 정기 세금을 내지 않아 힘이 약했음 [1.6]"
+   },
+   {
+    "en": "Three orders — medieval writers divided society into those who pray, those who fight, and those who work; about 90 percent of Europeans were peasants [1.6]",
+    "kr": "세 신분 (Three orders) — 중세 저술가들은 사회를 기도하는 사람, 싸우는 사람, 일하는 사람으로 나눔. 유럽인의 약 90퍼센트가 농민 [1.6]"
+   },
+   {
+    "en": "Three-field system — winter crop, spring crop, and fallow rotated yearly, so two-thirds of the land produced and legumes added nitrogen (⚠️ textbook says it came into use near the end of the Middle Ages; most sources say it spread from the 8th–9th centuries) [1.6]",
+    "kr": "삼포제 (Three-field system) — 가을 작물, 봄 작물, 휴경을 해마다 돌려 땅의 3분의 2에서 수확하고 콩과 작물이 질소를 더함 (⚠️ 교재 기준 중세 말기 무렵 쓰이기 시작, 많은 자료는 8–9세기부터 퍼졌다고 봄) [1.6]"
+   },
+   {
+    "en": "Heavy plow, horse collar, and mills — opened northern Europe's heavy clay soils and saved labor, helping Europe's population roughly double c. 1000–1300 [1.6]",
+    "kr": "무거운 쟁기, 말 목걸이, 방아 (Heavy plow, horse collar, and mills) — 북유럽의 무거운 점토질 흙을 갈고 노동을 줄여 c. 1000–1300년 유럽 인구가 대략 두 배가 되는 데 기여함 [1.6]"
+   },
+   {
+    "en": "Standing armies and permanent taxes — after the Hundred Years' War kings relied less on feudal knights, as gunpowder weapons from China spread west [1.6]",
+    "kr": "상비군과 상설 세금 (Standing armies and permanent taxes) — 백년 전쟁 뒤 왕들은 봉건 기사에 덜 의존했고, 중국에서 온 화약 무기가 서쪽으로 퍼짐 [1.6]"
+   }
+  ]
+ },
+ {
+  "order": 30,
+  "name_en": "Holy Roman Empire and Italian City-States",
+  "name_kr": "신성 로마 제국과 이탈리아 도시국가",
+  "people": [
+   {
+    "sort": 800,
+    "en": "Charlemagne (r. 768–814; crowned emperor 800) — king of the Franks whose imperial title Otto I later recalled; his empire split among his grandsons in 843 [1.6]",
+    "kr": "카롤루스 대제 (Charlemagne) (재위 768–814, 800년 황제 대관) — 오토 1세가 뒤에 칭호를 이은 프랑크 왕. 그의 제국은 843년 손자들 사이에서 나뉨 [1.6]"
+   },
+   {
+    "sort": 962,
+    "en": "Otto I (r. 936–973; crowned emperor 962) — German king whose coronation began the Holy Roman Empire [1.6]",
+    "kr": "오토 1세 (Otto I) (재위 936–973, 962년 황제 대관) — 대관으로 신성 로마 제국을 시작한 독일 왕 [1.6]"
+   },
+   {
+    "sort": 1265,
+    "en": "Dante Alighieri (1265–1321) — Florentine author of The Divine Comedy in the Italian vernacular, criticizing corrupt Church officials [1.6]",
+    "kr": "단테 알리기에리 (Dante Alighieri) (1265–1321) — 이탈리아 자국어로 『신곡』을 써 부패한 교회 관리를 비판한 피렌체 작가 [1.6]"
+   },
+   {
+    "sort": 1275,
+    "en": "Marco Polo (1254–1324) — Venetian who visited Kublai Khan's court at Dadu in the late 13th century, stirring European curiosity and mapmaking [1.6]",
+    "kr": "마르코 폴로 (Marco Polo) (1254–1324) — 13세기 후반 대도의 쿠빌라이 칸 궁정을 방문해 유럽인의 호기심과 지도 제작을 자극한 베네치아인 [1.6]"
+   },
+   {
+    "sort": 1356,
+    "en": "Charles IV (r. 1346–1378) — emperor who issued the Golden Bull of 1356 [1.6]",
+    "kr": "카를 4세 (Charles IV) (재위 1346–1378) — 1356년 금인칙서를 내린 황제 [1.6]"
+   },
+   {
+    "sort": 1439,
+    "en": "Johannes Gutenberg (c. 1400–1468) — developed the movable-type printing press at Mainz in 1439 [1.6]",
+    "kr": "요하네스 구텐베르크 (Johannes Gutenberg) (c. 1400–1468) — 1439년 마인츠에서 활판 인쇄기를 개발함 [1.6]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 800,
+    "en": "800 — The pope crowns Charlemagne emperor, a brief revival of empire that splits in 843 [1.6]",
+    "kr": "800 — 교황이 카롤루스 대제를 황제로 대관함. 잠시 제국이 부활했으나 843년에 나뉨 [1.6]"
+   },
+   {
+    "sort": 962,
+    "en": "962 — Otto I is crowned Holy Roman Emperor; the empire lasts, with little power at the end, until 1806 [1.6]",
+    "kr": "962 — 오토 1세가 신성 로마 황제로 대관함. 제국은 말기에 힘을 거의 잃은 채 1806년까지 이어짐 [1.6]"
+   },
+   {
+    "sort": 1000,
+    "en": "11th–12th centuries — Lay investiture controversy: popes and emperors dispute whether a secular ruler may give bishops the symbols of office [1.6]",
+    "kr": "11–12세기 — 서임권 투쟁: 세속 통치자가 주교에게 직위의 상징을 줄 수 있는지를 두고 교황과 황제가 다툼 [1.6]"
+   },
+   {
+    "sort": 1091,
+    "en": "1091 — The Normans complete the conquest of Sicily from its Muslim rulers [1.6]",
+    "kr": "1091 — 노르만족이 시칠리아를 무슬림 통치자에게서 빼앗는 일을 마침 [1.6]"
+   },
+   {
+    "sort": 1122,
+    "en": "1122 — Concordat of Worms ends the lay investiture controversy (⚠️ textbook says the Church won autonomy from secular rulers; most sources call it a compromise) [1.6]",
+    "kr": "1122 — 보름스 협약으로 서임권 투쟁이 끝남 (⚠️ 교재 기준 교회가 세속 권력으로부터 자율을 얻음, 많은 자료는 타협으로 봄) [1.6]"
+   },
+   {
+    "sort": 1275,
+    "en": "1275 — Marco Polo reaches the court of Kublai Khan [1.6]",
+    "kr": "1275 — 마르코 폴로가 쿠빌라이 칸의 궁정에 도착함 [1.6]"
+   },
+   {
+    "sort": 1356,
+    "en": "1356 — The Golden Bull names seven prince-electors to choose the emperor, confirming the princes' power [1.6, 1.7]",
+    "kr": "1356 — 금인칙서가 황제를 뽑을 일곱 선제후를 정해 제후의 권력을 굳힘 [1.6, 1.7]"
+   },
+   {
+    "sort": 1400,
+    "en": "By 1400 — The Renaissance spirit, begun in Italy in Dante's time, spreads to northern Europe (textbook context) [1.6]",
+    "kr": "1400년까지 — 단테 시대 이탈리아에서 시작된 르네상스 정신이 북유럽으로 퍼짐 (교재의 배경 설명) [1.6]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Elected emperor — ruled hundreds of German states and parts of northern Italy, where princes, bishops, and free cities governed their own lands, so Germany stayed fragmented [1.6, 1.7]",
+    "kr": "선출 황제 (Elected emperor) — 수백 개의 독일 국가와 이탈리아 북부 일부를 다스렸지만 제후, 주교, 자유 도시가 각자 땅을 다스려 독일은 분열된 채 남음 [1.6, 1.7]"
+   },
+   {
+    "en": "Revival of Rome — the textbook calls the empire a revival of the Roman Empire; emperors were crowned by the pope but often rivaled the Church (⚠️ textbook names it a more powerful state; most sources say it was weak and decentralized) [1.7]",
+    "kr": "로마의 부흥 (Revival of former empires) — 교재는 제국을 로마 제국의 부흥으로 봄. 교황이 황제를 대관했지만 교회와 자주 경쟁함 (⚠️ 교재 기준 더 강한 국가, 많은 자료는 약하고 분권적이었다고 봄) [1.7]"
+   },
+   {
+    "en": "Italian city-states — independent Venice (a republic led by a doge), Florence, Genoa, and Milan, plus the pope's Papal States; no single ruler united Italy [1.6, 1.7]",
+    "kr": "이탈리아 도시국가 (Italian city-states) — 도제가 이끈 공화국 베네치아, 피렌체, 제노바, 밀라노 같은 독립 도시와 교황이 다스린 교황령. 이탈리아를 통일한 통치자는 없었음 [1.6, 1.7]"
+   },
+   {
+    "en": "Venetian and Genoese trade — grew rich shipping crusaders and goods and controlled sea trade with the eastern Mediterranean and the Black Sea [1.6]",
+    "kr": "베네치아와 제노바의 교역 — 십자군과 상품을 실어 나르며 부유해졌고 동지중해와 흑해의 해상 교역을 장악함 [1.6]"
+   },
+   {
+    "en": "Medici bankers — wealthy merchant family that governed Florence and paid painters, sculptors, and architects [1.6]",
+    "kr": "메디치 가문 (Medici) — 피렌체를 다스리며 화가, 조각가, 건축가를 후원한 부유한 은행가 가문 [1.6]"
+   },
+   {
+    "en": "Guilds and bourgeoisie — merchants and artisans in guilds formed a growing middle class (burghers) whose economic success rivaled religious or military service as a path to status [1.6]",
+    "kr": "길드 (Guild)와 부르주아 (Bourgeoisie) — 길드로 조직된 상인과 장인이 커 가는 중간 계층(버거)을 이룸. 경제적 성공이 종교적 소명이나 군사 봉사와 겨룰 만한 지위 획득의 길이 됨 [1.6]"
+   },
+   {
+    "en": "Renaissance and humanism — revival of classical Greek and Roman learning, with a focus on individuals, secular writing, and vernacular languages, backed by Church and Medici patronage (textbook context) [1.6]",
+    "kr": "르네상스 (Renaissance)와 인문주의 (Humanism) — 개인, 세속 문학, 자국어에 초점을 둔 고대 그리스·로마 학문의 부활. 교회와 메디치 가문의 후원을 받음 (교재의 배경 설명) [1.6]"
+   },
+   {
+    "en": "Printing press — Gutenberg's movable type mass-produced books at low cost and spread literacy and ideas quickly [1.6]",
+    "kr": "인쇄기 (Printing press) — 구텐베르크의 활판 인쇄로 책을 싸게 대량 생산해 문자 해득과 사상이 빠르게 퍼짐 [1.6]"
+   }
+  ]
+ },
+ {
+  "order": 31,
+  "name_en": "Christian Iberia (Reconquista)",
+  "name_kr": "기독교 이베리아 (레콘키스타)",
+  "people": [
+   {
+    "sort": 1187,
+    "en": "Gerard of Cremona (c. 1114–1187) — translated dozens of Arabic works in Toledo, including Ptolemy's Almagest and Ibn Sina's Canon [1.2]",
+    "kr": "크레모나의 제라르도 (Gerard of Cremona) (c. 1114–1187) — 톨레도에서 프톨레마이오스의 『알마게스트』와 이븐 시나의 『의학 정전』 등 수십 편의 아랍어 저작을 번역함 [1.2]"
+   },
+   {
+    "sort": 1252,
+    "en": "Alfonso X of Castile (r. 1252–1284) — sponsored translations into Castilian [1.2]",
+    "kr": "카스티야의 알폰소 10세 (Alfonso X) (재위 1252–1284) — 카스티야어 번역을 후원함 [1.2]"
+   },
+   {
+    "sort": 1492,
+    "en": "Ferdinand and Isabella (Isabella r. 1474–1504; Ferdinand r. 1479–1516) — monarchs who took Granada and expelled Spain's Jews in 1492 (context for later units) [1.6]",
+    "kr": "페르난도와 이사벨 (Ferdinand and Isabella) (이사벨 재위 1474–1504, 페르난도 재위 1479–1516) — 1492년 그라나다를 함락하고 스페인의 유대인을 추방한 군주 (이후 단원의 배경) [1.6]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 1085,
+    "en": "1085 — Castile captures Toledo, which becomes a center for translating Arabic works into Latin [1.2, 1.6]",
+    "kr": "1085 — 카스티야가 톨레도를 점령하고, 톨레도는 아랍어 저작을 라틴어로 옮기는 번역의 중심지가 됨 [1.2, 1.6]"
+   },
+   {
+    "sort": 1212,
+    "en": "1212 — Christian victory at Las Navas de Tolosa breaks Muslim power in Iberia [1.6]",
+    "kr": "1212 — 라스나바스데톨로사 전투에서 기독교 측이 이겨 이베리아의 무슬림 세력이 꺾임 [1.6]"
+   },
+   {
+    "sort": 1236,
+    "en": "1236–1248 — Castile captures Córdoba (1236) and Seville (1248) [1.6]",
+    "kr": "1236–1248 — 카스티야가 코르도바(1236)와 세비야(1248)를 점령함 [1.6]"
+   },
+   {
+    "sort": 1492,
+    "en": "1492 — Granada falls to Ferdinand and Isabella, ending the Reconquista; the Spanish king expels Muslims who will not convert (⚠️ textbook; most sources say Muslims were forced to convert or leave in 1502 and the Moriscos were expelled in 1609) [1.2, 1.6]",
+    "kr": "1492 — 그라나다가 페르난도와 이사벨에게 함락되어 레콘키스타가 끝남. 스페인 왕이 개종하지 않은 무슬림을 추방함 (⚠️ 교재 기준, 많은 자료는 무슬림이 1502년에 개종하거나 떠나도록 강요받았고 모리스코는 1609년에 추방되었다고 봄) [1.2, 1.6]"
+   },
+   {
+    "sort": 1492,
+    "en": "1492 — Spain expels its Jews (context for later units) [1.6]",
+    "kr": "1492 — 스페인이 유대인을 추방함 (이후 단원의 배경) [1.6]"
+   },
+   {
+    "sort": 1497,
+    "en": "1497 — Portugal expels its Jews (context for later units) [1.6]",
+    "kr": "1497 — 포르투갈이 유대인을 추방함 (이후 단원의 배경) [1.6]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Reconquista — the long campaign by the Christian kingdoms of Castile, Aragon, and Portugal to retake Iberia from Muslim rule [1.2, 1.6]",
+    "kr": "레콘키스타 (Reconquista, 국토 회복 운동) — 기독교 왕국 카스티야, 아라곤, 포르투갈이 이베리아를 무슬림 지배에서 되찾으려고 벌인 오랜 전쟁 [1.2, 1.6]"
+   },
+   {
+    "en": "Toledo translation center — in the 12th–13th centuries scholars translated Arabic works into Latin and later Castilian, helping Christian Europe recover Aristotle and start scholasticism [1.2, 1.6]",
+    "kr": "톨레도 번역 중심지 (Toledo translation center) — 12–13세기 학자들이 아랍어 저작을 라틴어로, 뒤에는 카스티야어로 옮겨 기독교 유럽이 아리스토텔레스를 되찾고 스콜라 철학을 시작하도록 도움 [1.2, 1.6]"
+   }
+  ]
+ },
+ {
+  "order": 32,
+  "name_en": "Byzantine Empire and Kievan Rus'",
+  "name_kr": "비잔티움 제국과 키예프 루스",
+  "people": [
+   {
+    "sort": 1480,
+    "en": "Ivan the Great (Ivan III) (r. 1462–1505) — Moscow-based ruler who ended Mongol rule in the late 15th century, beginning the modern Russian state [1.6]",
+    "kr": "이반 대제 (Ivan the Great, 이반 3세) (재위 1462–1505) — 15세기 후반 몽골 지배를 끝내고 근대 러시아 국가를 시작한 모스크바의 통치자 [1.6]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 988,
+    "en": "988 — Kievan Rus' converts to Orthodox Christianity, keeping closer ties with Byzantium than with Catholic Europe [1.6]",
+    "kr": "988 — 키예프 루스가 정교회로 개종해 가톨릭 유럽보다 비잔티움과 더 가까운 관계를 유지함 [1.6]"
+   },
+   {
+    "sort": 1054,
+    "en": "1054 — East-West Schism (the textbook's Great Schism): the pope's representative and the patriarch excommunicate each other, splitting Catholic and Orthodox Christianity [1.6]",
+    "kr": "1054 — 동서 교회 분열(교재의 대분열): 교황의 사절과 총대주교가 서로를 파문해 기독교가 가톨릭과 정교회로 갈라짐 [1.6]"
+   },
+   {
+    "sort": 1071,
+    "en": "1071 — The Seljuk Turks defeat the Byzantines at Manzikert, opening Anatolia to Turkic settlement [1.2]",
+    "kr": "1071 — 셀주크가 만지케르트 전투에서 비잔티움을 이겨 튀르크인이 아나톨리아에 정착할 길이 열림 [1.2]"
+   },
+   {
+    "sort": 1095,
+    "en": "1095 — Byzantium asks Pope Urban II for help against the Seljuk Turks (⚠️ textbook says the Orthodox patriarch appealed; most sources say Emperor Alexios I Komnenos) [1.2, 1.6]",
+    "kr": "1095 — 비잔티움이 셀주크 튀르크에 맞서 교황 우르바노 2세에게 도움을 청함 (⚠️ 교재 기준 정교회 총대주교가 요청, 많은 자료는 알렉시오스 1세 콤니노스 황제가 요청했다고 봄) [1.2, 1.6]"
+   },
+   {
+    "sort": 1200,
+    "en": "13th century — The Mongols overrun Kievan Rus' and make local nobles collect taxes for them [1.6]",
+    "kr": "13세기 — 몽골이 키예프 루스를 정복하고 현지 귀족에게 세금을 걷게 함 [1.6]"
+   },
+   {
+    "sort": 1204,
+    "en": "1204–1261 — After the Fourth Crusade sacks Constantinople, crusaders rule a Latin Empire; the Byzantines retake the city in 1261 but never recover their strength [1.6]",
+    "kr": "1204–1261 — 제4차 십자군이 콘스탄티노폴리스를 약탈한 뒤 라틴 제국을 세움. 비잔티움은 1261년 도시를 되찾았지만 예전의 힘을 회복하지 못함 [1.6]"
+   },
+   {
+    "sort": 1453,
+    "en": "1453 — The Ottoman Turks under Mehmed II capture Constantinople, ending the Byzantine Empire [1.6]",
+    "kr": "1453 — 메흐메트 2세가 이끄는 오스만 튀르크가 콘스탄티노폴리스를 점령해 비잔티움 제국이 멸망함 [1.6]"
+   },
+   {
+    "sort": 1480,
+    "en": "1480 — Under Ivan the Great, Moscow becomes independent of the Mongols (usual date) [1.6]",
+    "kr": "1480 — 이반 대제 아래에서 모스크바가 몽골로부터 독립함 (보통 이 해로 봄) [1.6]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Byzantine Empire — the Eastern Roman Empire, which did not fall, continuing with its capital at Constantinople [1.6]",
+    "kr": "비잔티움 제국 (Byzantine Empire) — 무너지지 않고 콘스탄티노폴리스를 수도로 이어진 동로마 제국 [1.6]"
+   },
+   {
+    "en": "Eastern Orthodox Church — led by the patriarch of Constantinople under strong influence from the emperor, with services in Greek and icons central to worship [1.6]",
+    "kr": "동방 정교회 (Eastern Orthodox Church) — 황제의 강한 영향 아래 콘스탄티노폴리스 총대주교가 이끈 교회. 그리스어 예배와 이콘이 중심 [1.6]"
+   },
+   {
+    "en": "Orthodox vs. Catholic practice — emperor and Church closely tied, parish priests could marry, and communion used leavened bread [1.6]",
+    "kr": "정교회와 가톨릭의 차이 — 황제와 교회가 긴밀히 결합했고, 본당 사제가 결혼할 수 있었으며, 성찬에 발효 빵을 씀 [1.6]"
+   },
+   {
+    "en": "Kievan Rus' — Orthodox trading state (the textbook calls it a city-state) centered on Kiev, at the heart of fur, fish, and grain trade from Scandinavia to the Mediterranean and Central Asia [1.6]",
+    "kr": "키예프 루스 (Kievan Rus') — 스칸디나비아에서 지중해, 중앙아시아까지 이어진 모피·생선·곡물 교역의 중심에 있던 키예프의 정교회 교역 국가 (교재는 도시국가라고 부름) [1.6]"
+   },
+   {
+    "en": "Mongol tax system in Rus' — local nobles collected taxes for the Mongols, grew wealthy, and began to resist, leading to Moscow's rise [1.6]",
+    "kr": "루스의 몽골 세금 제도 — 현지 귀족이 몽골을 위해 세금을 걷다가 부유해져 저항하기 시작했고, 이것이 모스크바의 성장으로 이어짐 [1.6]"
+   }
+  ]
+ }
+]

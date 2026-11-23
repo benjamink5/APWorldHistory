@@ -1,0 +1,502 @@
+[
+ {
+  "order": 1,
+  "name_en": "China (Song, Yuan, Ming)",
+  "name_kr": "중국 (송·원·명)",
+  "people": [
+   {
+    "sort": 600,
+    "en": "Xuanzang (602–664) — 7th-century monk who traveled to India for scriptures & helped make Buddhism popular in China [1.1]",
+    "kr": "현장 (Xuanzang) (602–664) — 경전을 구하러 인도에 다녀와 중국에서 불교의 인기를 높인 7세기 승려 [1.1]"
+   },
+   {
+    "sort": 960,
+    "en": "Zhao Kuangyin (Emperor Taizu) (r. 960–976) — general who founded the Song, put civil officials above military commanders & widened access to education [1.1]",
+    "kr": "조광윤 (Zhao Kuangyin, 송 태조 Emperor Taizu) (재위 960–976) — 송을 세운 장군으로, 문관을 무관보다 높이고 교육 기회를 넓힘 [1.1]"
+   },
+   {
+    "sort": 1040,
+    "en": "Bi Sheng (c. 990–1051) — invented movable type (c. 1040s) [1.1]",
+    "kr": "필승 (Bi Sheng) (c. 990–1051) — 활자를 발명함 (c. 1040년대) [1.1]"
+   },
+   {
+    "sort": 1130,
+    "en": "Zhu Xi (1130–1200) — greatest Neo-Confucian thinker; his commentaries on the Four Books became the exam basis in 1313 [1.1]",
+    "kr": "주희 (Zhu Xi) (1130–1200) — 성리학의 가장 위대한 학자로, 그가 주석을 단 사서가 1313년 과거의 기준이 됨 [1.1]"
+   },
+   {
+    "sort": 1271,
+    "en": "Kublai Khan (r. 1260–1294) — declared the Yuan Dynasty (1271) with its capital at Dadu (Beijing); hosted Marco Polo [1.1, 1.6]",
+    "kr": "쿠빌라이 칸 (Kublai Khan) (재위 1260–1294) — 대도(베이징)를 수도로 원나라를 선포함(1271), 마르코 폴로가 그의 궁정을 방문함 [1.1, 1.6]"
+   },
+   {
+    "sort": 1271.5,
+    "en": "Phagpa (1235–1280) — Tibetan monk Kublai Khan honored as Imperial Preceptor, linking Tibetan Buddhism to Mongol rule [1.1]",
+    "kr": "파스파 (Phagpa) (1235–1280) — 쿠빌라이 칸이 제사로 받든 티베트 승려로, 티베트 불교를 몽골의 통치와 연결함 [1.1]"
+   },
+   {
+    "sort": 1368,
+    "en": "Zhu Yuanzhang (Hongwu Emperor) (r. 1368–1398) — rebel of peasant origin who founded the Ming (1368) & restored Confucian exams [1.1]",
+    "kr": "주원장 (Zhu Yuanzhang, 홍무제 Hongwu Emperor) (재위 1368–1398) — 명나라를 세우고(1368) 유교식 과거를 되살린 농민 출신 반란 지도자 [1.1]"
+   },
+   {
+    "sort": 1405,
+    "en": "Zheng He (1371–c. 1433) — led the Ming fleets (1405–1433) that displayed the emperor's power & collected tribute [1.1]",
+    "kr": "정화 (Zheng He) (1371–c. 1433) — 황제의 힘을 과시하고 조공을 받은 명나라 대함대(1405–1433)를 이끎 [1.1]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 960,
+    "en": "960 — The Song Dynasty replaces the Tang, with its capital at Kaifeng (⚠️ textbook; most sources say the Tang fell in 907, followed by the Five Dynasties and Ten Kingdoms) [1.1]",
+    "kr": "960 — 송나라가 당나라를 대신하고 카이펑을 수도로 삼음 (⚠️ 교재 기준, 많은 자료는 당이 907년에 무너지고 5대 10국 시대가 이어졌다고 봄) [1.1]"
+   },
+   {
+    "sort": 1005,
+    "en": "1005 — Treaty of Shanyuan: the Song pays the Khitan Liao yearly silk & silver [1.1]",
+    "kr": "1005 — 전연의 맹약: 송이 거란의 요에 해마다 비단과 은을 바침 [1.1]"
+   },
+   {
+    "sort": 1012,
+    "en": "1012 — The government distributes Champa rice seed [1.1, 1.7]",
+    "kr": "1012 — 정부가 참파 벼 볍씨를 나눠 줌 [1.1, 1.7]"
+   },
+   {
+    "sort": 1020,
+    "en": "1020s — The Song issues the first state paper money (jiaozi) [1.1]",
+    "kr": "1020년대 — 송이 최초의 국가 지폐(교자)를 발행함 [1.1]"
+   },
+   {
+    "sort": 1127,
+    "en": "1127 — The Jurchen Jin capture Kaifeng; the court flees south & the Southern Song rules from Hangzhou [1.1]",
+    "kr": "1127 — 여진의 금이 카이펑을 함락함. 조정이 남쪽으로 피신하고 남송이 항저우에서 다스림 [1.1]"
+   },
+   {
+    "sort": 1234,
+    "en": "1234 — The Mongols destroy the Jin [1.1]",
+    "kr": "1234 — 몽골이 금을 멸망시킴 [1.1]"
+   },
+   {
+    "sort": 1271,
+    "en": "1271 — Kublai Khan declares the Yuan Dynasty; it keeps the bureaucracy but ranks Mongols & Central Asians above Chinese [1.1]",
+    "kr": "1271 — 쿠빌라이 칸이 원나라를 선포함. 관료제는 유지했지만 몽골인과 중앙아시아인을 중국인보다 높은 신분에 둠 [1.1]"
+   },
+   {
+    "sort": 1279,
+    "en": "1279 — The Southern Song falls to the Mongols [1.1, 1.7]",
+    "kr": "1279 — 남송이 몽골에게 무너짐 [1.1, 1.7]"
+   },
+   {
+    "sort": 1313,
+    "en": "1313 — Zhu Xi's commentaries on the Four Books become the official basis of the exams [1.1]",
+    "kr": "1313 — 주희가 주석을 단 사서가 과거 시험의 공식 기준이 됨 [1.1]"
+   },
+   {
+    "sort": 1315,
+    "en": "1315 — The Yuan restores the civil service exams, limited by ethnic quotas [1.1]",
+    "kr": "1315 — 원나라가 과거를 되살렸지만 민족별 정원으로 제한함 [1.1]"
+   },
+   {
+    "sort": 1368,
+    "en": "1368 — After inflation, floods, epidemics & the Red Turban Rebellion weaken the Yuan, Zhu Yuanzhang founds the Ming [1.1]",
+    "kr": "1368 — 인플레이션, 홍수, 전염병, 홍건적의 난으로 원나라가 약해진 뒤 주원장이 명나라를 세움 [1.1]"
+   },
+   {
+    "sort": 1421,
+    "en": "1421 — The Ming moves the capital to Beijing [1.1]",
+    "kr": "1421 — 명나라가 베이징으로 수도를 옮김 [1.1]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Mandate of Heaven — Heaven grants a virtuous, benevolent emperor the right to rule & can take it away [1.1, 1.7]",
+    "kr": "천명 (Mandate of Heaven) — 하늘이 덕 있고 자애로운 황제에게 통치권을 주고 거둘 수도 있다는 믿음 [1.1, 1.7]"
+   },
+   {
+    "en": "Imperial bureaucracy & civil service exams — merit-based scholar-gentry officials chosen by exams on the Confucian classics, with a rule of avoidance [1.1, 1.7]",
+    "kr": "황제 관료제와 과거제 (Imperial bureaucracy & civil service exams) — 유교 경전 시험으로 능력에 따라 뽑은 사대부 관리, 상피제를 둠 [1.1, 1.7]"
+   },
+   {
+    "en": "Neo-Confucianism — Song revival of Confucianism led by Zhu Xi, stressing filial piety, the Five Relationships & ethics [1.1, 1.7]",
+    "kr": "성리학 (Neo-Confucianism) — 주희가 이끈 송나라의 유교 부흥으로 효, 오륜, 윤리를 강조함 [1.1, 1.7]"
+   },
+   {
+    "en": "Tributary system — neighbors paid tribute & performed the kowtow in return for gifts, trade & recognition [1.1]",
+    "kr": "조공 체제 (Tributary system) — 주변국이 조공을 바치고 고두를 행하는 대가로 선물, 교역, 승인을 받음 [1.1]"
+   },
+   {
+    "en": "Agricultural innovation & the Grand Canal — Champa rice, irrigation & heavy plows; pound locks (984) & Yuan extension to Beijing [1.1, 1.7]",
+    "kr": "농업 혁신과 대운하 (Agricultural innovation & Grand Canal) — 참파 벼, 관개, 무거운 쟁기. 갑문(984)과 원나라의 베이징 연장 [1.1, 1.7]"
+   },
+   {
+    "en": "Commercial revolution — iron & steel, silk & porcelain exports, paper money, paid labor & proto-industrialization [1.1, 1.7]",
+    "kr": "상업 혁명 (Commercial revolution) — 철과 강철, 비단·도자기 수출, 지폐, 유급 노동, 원산업화 [1.1, 1.7]"
+   },
+   {
+    "en": "Technology — woodblock printing, movable type, gunpowder (fire lances & the first guns) & the magnetic compass [1.1, 1.6]",
+    "kr": "기술 (Technology) — 목판 인쇄, 활자, 화약(화창과 최초의 총), 나침반 [1.1, 1.6]"
+   },
+   {
+    "en": "Patriarchy & foot binding — Neo-Confucianism stressed female chastity; foot binding spread among Song elites & women lost independence [1.1, 1.7]",
+    "kr": "가부장제와 전족 (Patriarchy & foot binding) — 성리학이 여성의 정절을 강조함. 송의 상류층에 전족이 퍼져 여성이 독립성을 잃음 [1.1, 1.7]"
+   }
+  ]
+ },
+ {
+  "order": 2,
+  "name_en": "Japan",
+  "name_kr": "일본",
+  "people": [
+   {
+    "sort": 574,
+    "en": "Prince Shōtoku Taishi (574–622) — promoted Buddhism & Confucianism alongside Shinto [1.1]",
+    "kr": "쇼토쿠 태자 (Prince Shōtoku Taishi) (574–622) — 신토와 함께 불교와 유교를 장려함 [1.1]"
+   },
+   {
+    "sort": 1000,
+    "en": "Murasaki Shikibu (c. 973–c. 1014) — court woman who wrote The Tale of Genji (early 1000s), which the textbook calls the world's first novel [1.1]",
+    "kr": "무라사키 시키부 (Murasaki Shikibu) (c. 973–c. 1014) — 교재가 세계 최초의 소설이라 부르는 『겐지 이야기』(1000년대 초)를 쓴 궁중 여성 [1.1]"
+   },
+   {
+    "sort": 1192,
+    "en": "Minamoto no Yoritomo (1147–1199) — Minamoto leader named shogun in 1192 [1.1]",
+    "kr": "미나모토노 요리토모 (Minamoto no Yoritomo) (1147–1199) — 1192년 쇼군이 된 미나모토 가문의 지도자 [1.1]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 794,
+    "en": "794–1185 — Heian period: Japan emulates China; Heian-kyō (Kyoto) is laid out like the Tang capital Chang'an [1.1]",
+    "kr": "794–1185 — 헤이안 시대: 일본이 중국을 본받음. 헤이안쿄(교토)를 당의 수도 장안처럼 만듦 [1.1]"
+   },
+   {
+    "sort": 894,
+    "en": "894 — Japan ends official missions to China & develops its own kana script [1.1]",
+    "kr": "894 — 일본이 중국에 보내던 공식 사절을 끝내고 고유 문자 가나를 발전시킴 [1.1]"
+   },
+   {
+    "sort": 1192,
+    "en": "1192–1333 — Kamakura shogunate: the Minamoto install a shogun & real power passes to the shogun and samurai (⚠️ textbook; most sources date it from 1185) [1.1, 1.7]",
+    "kr": "1192–1333 — 가마쿠라 막부: 미나모토 가문이 쇼군을 세우고 실권이 쇼군과 사무라이에게 넘어감 (⚠️ 교재 기준, 많은 자료는 1185년부터로 봄) [1.1, 1.7]"
+   },
+   {
+    "sort": 1274,
+    "en": "1274, 1281 — Japan repels two Mongol (Yuan) invasions [1.1]",
+    "kr": "1274, 1281 — 일본이 몽골(원나라)의 두 차례 침입을 막아 냄 [1.1]"
+   },
+   {
+    "sort": 1336,
+    "en": "1336–1573 — Ashikaga shogunate: Japan grows more decentralized [1.7]",
+    "kr": "1336–1573 — 무로마치(아시카가) 막부: 일본이 더 분권화됨 [1.7]"
+   },
+   {
+    "sort": 1600,
+    "en": "17th century — Shoguns finally create a strong central government that unifies Japan [1.1]",
+    "kr": "17세기 — 쇼군이 마침내 나라를 통일하는 강한 중앙 정부를 세움 [1.1]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Shinto & divine imperial descent — the emperor claimed descent from the sun goddess Amaterasu, so Japan did not adopt the Mandate of Heaven [1.1, 1.7]",
+    "kr": "신토와 신성한 황실 혈통 (Shinto & divine imperial descent) — 천황이 태양의 여신 아마테라스의 후손이라 주장해 천명 사상을 받아들이지 않음 [1.1, 1.7]"
+   },
+   {
+    "en": "Selective borrowing (synthesis of traditions) — Chinese characters, Buddhism, Confucian ideas & court ranks, adapted with kana [1.1, 1.7]",
+    "kr": "선택적 수용 (Synthesis of traditions) — 한자, 불교, 유교 사상, 관등 제도를 받아들이고 가나로 변형함 [1.1, 1.7]"
+   },
+   {
+    "en": "Tributary status — the textbook lists Japan as a Song tributary state (⚠️ textbook; most sources say Japan sent tribute only to the Ming in the 1400s) [1.1]",
+    "kr": "조공국 지위 (Tributary status) — 교재는 일본을 송나라의 조공국으로 씀 (⚠️ 교재 기준, 많은 자료는 1400년대 명나라에만 조공했다고 봄) [1.1]"
+   },
+   {
+    "en": "Aristocratic court — no real exam system; office depended on birth & the Fujiwara clan dominated [1.1]",
+    "kr": "귀족 중심 조정 (Aristocratic court) — 실질적인 과거제가 없어 출신으로 관직이 정해지고 후지와라 가문이 장악함 [1.1]"
+   },
+   {
+    "en": "Shogunate — military government in which the shogun ruled in the name of a figurehead emperor [1.1, 1.6, 1.7]",
+    "kr": "막부 (Shogunate) — 상징적 존재인 천황의 이름으로 쇼군이 다스린 군사 정부 [1.1, 1.6, 1.7]"
+   },
+   {
+    "en": "Feudalism — hereditary daimyo, samurai & rice-farming peasants; daimyo more powerful than the emperor or shogun (⚠️ textbook; most sources say this fits the Ashikaga era better) [1.1, 1.6, 1.7]",
+    "kr": "봉건제 (Feudalism) — 세습되는 다이묘, 사무라이, 벼농사 농민. 다이묘가 천황이나 쇼군보다 강함 (⚠️ 교재 기준, 많은 자료는 아시카가 시대에 더 맞는다고 봄) [1.1, 1.6, 1.7]"
+   },
+   {
+    "en": "Bushido — samurai code of frugality, loyalty, the martial arts & honor unto death [1.1, 1.6, 1.7]",
+    "kr": "무사도 (Bushido) — 검소, 충성, 무예, 죽음에 이르는 명예를 강조한 사무라이의 규범 [1.1, 1.6, 1.7]"
+   },
+   {
+    "en": "Zen & Pure Land Buddhism — Mahayana schools; Zen spread in Kamakura Japan & became popular with samurai [1.1]",
+    "kr": "선종과 정토종 (Zen & Pure Land) — 대승 불교 학파. 선종이 가마쿠라 일본에 퍼져 사무라이에게 인기를 얻음 [1.1]"
+   }
+  ]
+ },
+ {
+  "order": 3,
+  "name_en": "Korea",
+  "name_kr": "한국",
+  "people": [
+   {
+    "sort": 1392,
+    "en": "Yi Seong-gye (King Taejo) (r. 1392–1398) — general who founded the Joseon Dynasty (1392) [1.1]",
+    "kr": "이성계 (Yi Seong-gye, 태조 King Taejo) (재위 1392–1398) — 조선 왕조를 세운 장군 (1392) [1.1]"
+   },
+   {
+    "sort": 1443,
+    "en": "King Sejong (r. 1418–1450) — created the Hangul alphabet (1443, published 1446) [1.1]",
+    "kr": "세종 (King Sejong) (재위 1418–1450) — 한글을 만듦 (1443년 창제, 1446년 반포) [1.1]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 918,
+    "en": "918–1392 — Goryeo Dynasty, with Buddhism as the state religion [1.1]",
+    "kr": "918–1392 — 불교를 국가 종교로 삼은 고려 왕조 [1.1]"
+   },
+   {
+    "sort": 958,
+    "en": "958 — Goryeo adopts a civil service exam, but it is not open to peasants [1.1]",
+    "kr": "958 — 고려가 과거제를 도입했지만 농민에게는 열려 있지 않음 [1.1]"
+   },
+   {
+    "sort": 1231,
+    "en": "1231 — Mongol invasions begin; Goryeo becomes a vassal of the Yuan [1.1]",
+    "kr": "1231 — 몽골의 침입이 시작되고 고려가 원나라의 속국이 됨 [1.1]"
+   },
+   {
+    "sort": 1236,
+    "en": "1236–1251 — Goryeo carves the Tripitaka Koreana (80,000+ woodblocks) hoping for protection against the Mongols [1.1]",
+    "kr": "1236–1251 — 고려가 몽골의 침입을 막아 달라는 바람으로 팔만대장경(8만 장이 넘는 목판)을 새김 [1.1]"
+   },
+   {
+    "sort": 1377,
+    "en": "1377 — The Jikji is printed, the oldest surviving book printed with metal movable type [1.1]",
+    "kr": "1377 — 금속 활자로 찍은 현존하는 가장 오래된 책인 『직지』가 인쇄됨 [1.1]"
+   },
+   {
+    "sort": 1392,
+    "en": "1392 — Yi Seong-gye founds Joseon, which makes Neo-Confucianism its official ideology & restricts Buddhism [1.1, 1.7]",
+    "kr": "1392 — 이성계가 조선을 세움. 조선은 성리학을 공식 이념으로 삼고 불교를 억누름 [1.1, 1.7]"
+   },
+   {
+    "sort": 1443,
+    "en": "1443 — King Sejong creates Hangul (published 1446) [1.1]",
+    "kr": "1443 — 세종이 한글을 창제함 (1446년 반포) [1.1]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Tributary state — sharing a land border, Korea emulated Chinese politics, centralized its government & sent tribute (Yuan vassal, Ming tributary) [1.1]",
+    "kr": "조공국 (Tributary state) — 국경이 맞닿은 한국은 중국의 정치를 본받아 중앙 집권화하고 조공을 바침 (원의 속국, 명의 조공국) [1.1]"
+   },
+   {
+    "en": "Civil service exam & landed aristocracy — exams adopted, but powerful aristocratic families still dominated & blocked some Chinese reforms [1.1]",
+    "kr": "과거제와 지주 귀족 (Civil service exam & landed aristocracy) — 과거를 도입했지만 강한 귀족 가문이 정치를 장악하고 일부 중국식 개혁을 막음 [1.1]"
+   },
+   {
+    "en": "Buddhism — Mahayana faith of the peasant masses; Goryeo's state religion, restricted under Joseon [1.1]",
+    "kr": "불교 (Buddhism) — 일반 농민이 믿은 대승 불교. 고려의 국가 종교였으나 조선에서 억눌림 [1.1]"
+   },
+   {
+    "en": "Neo-Confucianism — studied by the educated elite; Joseon's official ideology [1.1, 1.7]",
+    "kr": "성리학 (Neo-Confucianism) — 교육받은 지배층이 공부함. 조선의 공식 이념 [1.1, 1.7]"
+   },
+   {
+    "en": "Writing — Chinese characters proved an awkward fit for Korean, so Korea developed Hangul in the 15th century [1.1]",
+    "kr": "문자 (Writing) — 한자가 한국어와 맞지 않아 불편했기 때문에 15세기에 한글을 만듦 [1.1]"
+   },
+   {
+    "en": "Celadon & metal movable type — fine pottery inspired by Song porcelain & printing with metal type [1.1]",
+    "kr": "청자와 금속 활자 (Celadon & metal movable type) — 송의 도자기에 영향을 받은 뛰어난 도자기와 금속 활자 인쇄 [1.1]"
+   }
+  ]
+ },
+ {
+  "order": 4,
+  "name_en": "Vietnam",
+  "name_kr": "베트남",
+  "people": [
+   {
+    "sort": 1428,
+    "en": "Lê Lợi (r. 1428–1433) — drove out the Ming & founded the Lê Dynasty (1428) [1.1]",
+    "kr": "레러이 (Lê Lợi) (재위 1428–1433) — 명나라를 몰아내고 레 왕조를 세움 (1428) [1.1]"
+   }
+  ],
+  "events": [
+   {
+    "sort": -111,
+    "en": "111 B.C.E. — China begins about a thousand years of rule over northern Vietnam [1.1]",
+    "kr": "기원전 111 — 중국이 약 천 년에 걸친 베트남 북부 지배를 시작함 [1.1]"
+   },
+   {
+    "sort": 700,
+    "en": "8th century — Vietnamese rebels push out China's army as the Tang begins to crumble (⚠️ textbook; most sources date independence to 939) [1.1]",
+    "kr": "8세기 — 당나라가 무너지기 시작하자 베트남 반란군이 중국 군대를 몰아냄 (⚠️ 교재 기준, 많은 자료는 독립을 939년으로 봄) [1.1]"
+   },
+   {
+    "sort": 1009,
+    "en": "1009–1225 — Lý Dynasty; Mahayana Buddhism is strong [1.1]",
+    "kr": "1009–1225 — 리 왕조. 대승 불교가 강함 [1.1]"
+   },
+   {
+    "sort": 1070,
+    "en": "1070 — The Lý build the Temple of Literature to honor Confucius [1.1]",
+    "kr": "1070 — 리 왕조가 공자를 기리는 문묘를 세움 [1.1]"
+   },
+   {
+    "sort": 1075,
+    "en": "1075 — Đại Việt holds its first civil service exam [1.1]",
+    "kr": "1075 — 대월이 첫 과거를 치름 [1.1]"
+   },
+   {
+    "sort": 1225,
+    "en": "1225–1400 — Trần Dynasty [1.1]",
+    "kr": "1225–1400 — 쩐 왕조 [1.1]"
+   },
+   {
+    "sort": 1258,
+    "en": "1258, 1285, 1287–1288 — The Trần defeat three Mongol invasions with guerrilla warfare [1.1]",
+    "kr": "1258, 1285, 1287–1288 — 쩐 왕조가 게릴라전으로 몽골의 세 차례 침입을 물리침 [1.1]"
+   },
+   {
+    "sort": 1407,
+    "en": "1407–1427 — The Ming occupy Vietnam [1.1]",
+    "kr": "1407–1427 — 명나라가 베트남을 점령함 [1.1]"
+   },
+   {
+    "sort": 1428,
+    "en": "1428 — Lê Lợi founds the Lê Dynasty, which adopts Neo-Confucian government [1.1]",
+    "kr": "1428 — 레러이가 레 왕조를 세우고, 레 왕조는 성리학식 정치를 받아들임 [1.1]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Adapted borrowing — Chinese writing & architecture adapted, a copied bureaucracy & tribute, but Vietnam kept its own language [1.1]",
+    "kr": "변형된 수용 (Adapted borrowing) — 중국의 문자와 건축을 변형해 받아들이고 관료제를 본뜨고 조공을 바쳤지만 고유 언어를 지킴 [1.1]"
+   },
+   {
+    "en": "Scholar-officials & village autonomy — merit-based officials loyal to village peasants; villages ran largely independently (⚠️ textbook says centralization was nonexistent; most sources call the Lý, Trần & Lê centralized monarchies) [1.1]",
+    "kr": "학자 관료와 마을 자치 (Scholar-officials & village autonomy) — 능력으로 뽑힌 관리가 마을 농민에게 충성하고 마을이 대체로 독립적으로 운영됨 (⚠️ 교재 기준 중앙 집권이 없었음, 많은 자료는 리·쩐·레를 중앙 집권 왕조로 봄) [1.1]"
+   },
+   {
+    "en": "Resistance to China — the most adversarial relationship with China: violent rebellions & guerrilla warfare [1.1]",
+    "kr": "중국에 대한 저항 (Resistance to China) — 중국과 가장 적대적인 관계: 격렬한 반란과 게릴라전 [1.1]"
+   },
+   {
+    "en": "Mahayana Buddhism — strong under the Lý and Trần [1.1]",
+    "kr": "대승 불교 (Mahayana Buddhism) — 리 왕조와 쩐 왕조 때 강함 [1.1]"
+   },
+   {
+    "en": "Family & gender — nuclear families; women had more independence & property rights and rejected foot binding & polygyny [1.1]",
+    "kr": "가족과 성별 (Family & gender) — 핵가족. 여성이 더 독립적이고 재산권을 가졌으며 전족과 일부다처제를 거부함 [1.1]"
+   },
+   {
+    "en": "Champa rice — fast-ripening, drought-resistant rice from Champa (central Vietnam) that spread to Song China [1.1, 1.7]",
+    "kr": "참파 벼 (Champa rice) — 참파(베트남 중부)에서 송나라 중국으로 퍼진 빨리 익고 가뭄에 강한 벼 [1.1, 1.7]"
+   }
+  ]
+ },
+ {
+  "order": 5,
+  "name_en": "Mongol Empire and Steppe Nomads",
+  "name_kr": "몽골 제국과 초원 유목민",
+  "people": [
+   {
+    "sort": 1206,
+    "en": "Genghis Khan (b. 1162; r. 1206–1227) — united the Mongols in 1206; chosen at a kuriltai & claimed a mandate from the Eternal Blue Sky (Tengri) [1.1, 1.7]",
+    "kr": "칭기즈 칸 (Genghis Khan) (1162년 출생, 재위 1206–1227) — 1206년 몽골을 통일함. 쿠릴타이에서 추대되고 영원한 푸른 하늘(텡그리)의 명을 받았다고 주장함 [1.1, 1.7]"
+   },
+   {
+    "sort": 1258,
+    "en": "Hulagu (r. 1256–1265) — grandson of Genghis Khan who sacked Baghdad (1258) & founded the Ilkhanate [1.2]",
+    "kr": "훌레구 (Hulagu) (재위 1256–1265) — 바그다드를 약탈하고(1258) 일 칸국을 세운 칭기즈 칸의 손자 [1.2]"
+   },
+   {
+    "sort": 1398,
+    "en": "Timur (Tamerlane) (r. 1370–1405) — Turco-Mongol conqueror who sacked Delhi in 1398 [1.2, 1.3, 1.7]",
+    "kr": "티무르 (Timur) (재위 1370–1405) — 1398년 델리를 약탈한 튀르크-몽골계 정복자 [1.2, 1.3, 1.7]"
+   }
+  ],
+  "events": [
+   {
+    "sort": 1206,
+    "en": "1206 — Genghis Khan unites the Mongol clans; the empire stays united until 1294, then splits into khanates [1.1, 1.7]",
+    "kr": "1206 — 칭기즈 칸이 몽골 씨족을 통일함. 제국은 1294년까지 통합되었다가 칸국으로 나뉨 [1.1, 1.7]"
+   },
+   {
+    "sort": 1234,
+    "en": "1234–1279 — The Mongols destroy the Jin & conquer the Southern Song, ruling China as the Yuan [1.1, 1.7]",
+    "kr": "1234–1279 — 몽골이 금을 멸망시키고 남송을 정복해 원나라로 중국을 다스림 [1.1, 1.7]"
+   },
+   {
+    "sort": 1240,
+    "en": "1240–1480 — Mongol rule over the Rus': local nobles collect taxes for the Mongols, grow rich & resist [1.6]",
+    "kr": "1240–1480 — 루스에 대한 몽골 지배: 현지 귀족이 몽골 대신 세금을 걷어 부유해지고 저항함 [1.6]"
+   },
+   {
+    "sort": 1258,
+    "en": "1258 — Hulagu sacks Baghdad, executes the last Abbasid caliph & destroys the House of Wisdom [1.2, 1.7]",
+    "kr": "1258 — 훌레구가 바그다드를 약탈하고 마지막 아바스 칼리프를 처형하며 지혜의 집을 파괴함 [1.2, 1.7]"
+   },
+   {
+    "sort": 1258.5,
+    "en": "1258–1288 — Mongol (Yuan) invasions are repelled by Đại Việt (1258, 1285, 1287–1288) & Japan (1274, 1281) [1.1]",
+    "kr": "1258–1288 — 몽골(원나라)의 침입을 대월(1258, 1285, 1287–1288)과 일본(1274, 1281)이 물리침 [1.1]"
+   },
+   {
+    "sort": 1260,
+    "en": "1260 — Mamluks under Qutuz & Baybars defeat the Mongols at Ain Jalut, stopping them in Egypt (⚠️ textbook; most sources say the battle was in Palestine) [1.2, 1.7]",
+    "kr": "1260 — 쿠투즈와 바이바르스가 이끈 맘루크가 아인잘루트에서 몽골을 물리쳐 이집트에서 저지함 (⚠️ 교재 기준, 많은 자료는 전투가 팔레스타인에서 벌어졌다고 봄) [1.2, 1.7]"
+   },
+   {
+    "sort": 1293,
+    "en": "1293 — Raden Wijaya uses an invading Yuan army to defeat a rival on Java, then drives it out & founds Majapahit [1.3]",
+    "kr": "1293 — 라덴 위자야가 침입한 원나라 군대를 이용해 자와의 경쟁자를 물리친 뒤 몽골군을 몰아내고 마자파힛을 세움 [1.3]"
+   },
+   {
+    "sort": 1297,
+    "en": "c. 1297–1306 — Alauddin Khalji's Delhi Sultanate turns back several Mongol invasions, keeping the Mongols out of South Asia [1.2, 1.3]",
+    "kr": "c. 1297–1306 — 알라우딘 할지의 델리 술탄국이 몽골의 침입을 여러 번 물리쳐 남아시아 정복을 막음 [1.2, 1.3]"
+   },
+   {
+    "sort": 1398,
+    "en": "1398 — Timur sacks Delhi; the Delhi Sultanate never fully recovers [1.2, 1.3]",
+    "kr": "1398 — 티무르가 델리를 약탈하고 델리 술탄국은 완전히 회복하지 못함 [1.2, 1.3]"
+   },
+   {
+    "sort": 1400,
+    "en": "15th century — The influence of nomadic societies begins to wane as stronger, centralized states rise [1.7]",
+    "kr": "15세기 — 더 강하고 중앙 집권적인 국가가 등장하면서 유목 사회의 영향력이 줄어들기 시작함 [1.7]"
+   }
+  ],
+  "institutions": [
+   {
+    "en": "Kuriltai & Tengri — Genghis Khan was chosen at a kuriltai & claimed a mandate from the Eternal Blue Sky [1.7]",
+    "kr": "쿠릴타이와 텡그리 (Kuriltai & Tengri) — 칭기즈 칸이 쿠릴타이에서 추대되고 영원한 푸른 하늘의 명을 받았다고 주장함 [1.7]"
+   },
+   {
+    "en": "Nomadic land-based empire — the largest in history, built by one coordinated campaign of unified clans, unlike the separate Turkic empires [1.7]",
+    "kr": "유목 육상 제국 (Nomadic land-based empire) — 통합된 씨족의 조직적인 원정 하나로 세운 역사상 가장 큰 제국으로, 따로따로 세워진 튀르크계 제국들과 다름 [1.7]"
+   },
+   {
+    "en": "Indirect rule & tribute — local administrators & nobles collected taxes and tribute for the Mongols [1.6, 1.7]",
+    "kr": "간접 통치와 공납 (Indirect rule & tribute) — 현지 행정가와 귀족이 몽골을 위해 세금과 공납을 걷음 [1.6, 1.7]"
+   },
+   {
+    "en": "Yuan rule in China — kept the Chinese bureaucracy & Mandate of Heaven but ranked Mongols & Central Asians first and suspended the exams until 1315 [1.1]",
+    "kr": "원나라의 중국 통치 (Yuan rule in China) — 중국식 관료제와 천명을 유지했지만 몽골인과 중앙아시아인을 앞세우고 1315년까지 과거를 중단함 [1.1]"
+   },
+   {
+    "en": "Tibetan Buddhism — practiced in Tibet & Mongolia & patronized by the Yuan court [1.1]",
+    "kr": "티베트 불교 (Tibetan Buddhism) — 티베트와 몽골에서 믿었고 원나라 조정이 후원함 [1.1]"
+   },
+   {
+    "en": "Ilkhanate — Hulagu's khanate in Persia & Iraq; its rulers converted to Islam (1295) & backed al-Tusi's Maragha observatory [1.2]",
+    "kr": "일 칸국 (Ilkhanate) — 페르시아와 이라크를 다스린 훌레구의 칸국. 통치자들이 이슬람으로 개종하고(1295) 알투시의 마라게 천문대를 후원함 [1.2]"
+   },
+   {
+    "en": "Pax Mongolica — political stability expanded Eurasian trade, spread gunpowder west & brought the first direct Europe–China contacts since the classical period [1.6, 1.7]",
+    "kr": "팍스 몽골리카 (Pax Mongolica) — 정치적 안정으로 유라시아 교역이 늘고 화약이 서쪽으로 전해졌으며 고전 시대 이후 처음으로 유럽과 중국이 직접 접촉함 [1.6, 1.7]"
+   }
+  ]
+ }
+]

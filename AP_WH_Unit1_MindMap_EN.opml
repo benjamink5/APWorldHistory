@@ -1,0 +1,747 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <title>AP World History: Modern — Unit 1 The Global Tapestry (c. 1200–1450): People, Events &amp; Institutions by Region</title>
+    <dateCreated>Sun, 22 Nov 2026 22:10:31 -0800</dateCreated>
+  </head>
+  <body>
+    <outline text="Unit 1: The Global Tapestry (c. 1200–1450)">
+      <outline text="Legend: [1.x] = source topic · ⚠️ = textbook differs from most sources · Events in chronological order" />
+      <outline text="China (Song, Yuan, Ming)">
+        <outline text="People">
+          <outline text="Xuanzang (602–664) — 7th-century monk who traveled to India for scriptures &amp; helped make Buddhism popular in China [1.1]" />
+          <outline text="Zhao Kuangyin (Emperor Taizu) (r. 960–976) — general who founded the Song, put civil officials above military commanders &amp; widened access to education [1.1]" />
+          <outline text="Bi Sheng (c. 990–1051) — invented movable type (c. 1040s) [1.1]" />
+          <outline text="Zhu Xi (1130–1200) — greatest Neo-Confucian thinker; his commentaries on the Four Books became the exam basis in 1313 [1.1]" />
+          <outline text="Kublai Khan (r. 1260–1294) — declared the Yuan Dynasty (1271) with its capital at Dadu (Beijing); hosted Marco Polo [1.1, 1.6]" />
+          <outline text="Phagpa (1235–1280) — Tibetan monk Kublai Khan honored as Imperial Preceptor, linking Tibetan Buddhism to Mongol rule [1.1]" />
+          <outline text="Zhu Yuanzhang (Hongwu Emperor) (r. 1368–1398) — rebel of peasant origin who founded the Ming (1368) &amp; restored Confucian exams [1.1]" />
+          <outline text="Zheng He (1371–c. 1433) — led the Ming fleets (1405–1433) that displayed the emperor's power &amp; collected tribute [1.1]" />
+        </outline>
+        <outline text="Events">
+          <outline text="960 — The Song Dynasty replaces the Tang, with its capital at Kaifeng (⚠️ textbook; most sources say the Tang fell in 907, followed by the Five Dynasties and Ten Kingdoms) [1.1]" />
+          <outline text="1005 — Treaty of Shanyuan: the Song pays the Khitan Liao yearly silk &amp; silver [1.1]" />
+          <outline text="1012 — The government distributes Champa rice seed [1.1, 1.7]" />
+          <outline text="1020s — The Song issues the first state paper money (jiaozi) [1.1]" />
+          <outline text="1127 — The Jurchen Jin capture Kaifeng; the court flees south &amp; the Southern Song rules from Hangzhou [1.1]" />
+          <outline text="1234 — The Mongols destroy the Jin [1.1]" />
+          <outline text="1271 — Kublai Khan declares the Yuan Dynasty; it keeps the bureaucracy but ranks Mongols &amp; Central Asians above Chinese [1.1]" />
+          <outline text="1279 — The Southern Song falls to the Mongols [1.1, 1.7]" />
+          <outline text="1313 — Zhu Xi's commentaries on the Four Books become the official basis of the exams [1.1]" />
+          <outline text="1315 — The Yuan restores the civil service exams, limited by ethnic quotas [1.1]" />
+          <outline text="1368 — After inflation, floods, epidemics &amp; the Red Turban Rebellion weaken the Yuan, Zhu Yuanzhang founds the Ming [1.1]" />
+          <outline text="1421 — The Ming moves the capital to Beijing [1.1]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Mandate of Heaven — Heaven grants a virtuous, benevolent emperor the right to rule &amp; can take it away [1.1, 1.7]" />
+          <outline text="Imperial bureaucracy &amp; civil service exams — merit-based scholar-gentry officials chosen by exams on the Confucian classics, with a rule of avoidance [1.1, 1.7]" />
+          <outline text="Neo-Confucianism — Song revival of Confucianism led by Zhu Xi, stressing filial piety, the Five Relationships &amp; ethics [1.1, 1.7]" />
+          <outline text="Tributary system — neighbors paid tribute &amp; performed the kowtow in return for gifts, trade &amp; recognition [1.1]" />
+          <outline text="Agricultural innovation &amp; the Grand Canal — Champa rice, irrigation &amp; heavy plows; pound locks (984) &amp; Yuan extension to Beijing [1.1, 1.7]" />
+          <outline text="Commercial revolution — iron &amp; steel, silk &amp; porcelain exports, paper money, paid labor &amp; proto-industrialization [1.1, 1.7]" />
+          <outline text="Technology — woodblock printing, movable type, gunpowder (fire lances &amp; the first guns) &amp; the magnetic compass [1.1, 1.6]" />
+          <outline text="Patriarchy &amp; foot binding — Neo-Confucianism stressed female chastity; foot binding spread among Song elites &amp; women lost independence [1.1, 1.7]" />
+        </outline>
+      </outline>
+      <outline text="Japan">
+        <outline text="People">
+          <outline text="Prince Shōtoku Taishi (574–622) — promoted Buddhism &amp; Confucianism alongside Shinto [1.1]" />
+          <outline text="Murasaki Shikibu (c. 973–c. 1014) — court woman who wrote The Tale of Genji (early 1000s), which the textbook calls the world's first novel [1.1]" />
+          <outline text="Minamoto no Yoritomo (1147–1199) — Minamoto leader named shogun in 1192 [1.1]" />
+        </outline>
+        <outline text="Events">
+          <outline text="794–1185 — Heian period: Japan emulates China; Heian-kyō (Kyoto) is laid out like the Tang capital Chang'an [1.1]" />
+          <outline text="894 — Japan ends official missions to China &amp; develops its own kana script [1.1]" />
+          <outline text="1192–1333 — Kamakura shogunate: the Minamoto install a shogun &amp; real power passes to the shogun and samurai (⚠️ textbook; most sources date it from 1185) [1.1, 1.7]" />
+          <outline text="1274, 1281 — Japan repels two Mongol (Yuan) invasions [1.1]" />
+          <outline text="1336–1573 — Ashikaga shogunate: Japan grows more decentralized [1.7]" />
+          <outline text="17th century — Shoguns finally create a strong central government that unifies Japan [1.1]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Shinto &amp; divine imperial descent — the emperor claimed descent from the sun goddess Amaterasu, so Japan did not adopt the Mandate of Heaven [1.1, 1.7]" />
+          <outline text="Selective borrowing (synthesis of traditions) — Chinese characters, Buddhism, Confucian ideas &amp; court ranks, adapted with kana [1.1, 1.7]" />
+          <outline text="Tributary status — the textbook lists Japan as a Song tributary state (⚠️ textbook; most sources say Japan sent tribute only to the Ming in the 1400s) [1.1]" />
+          <outline text="Aristocratic court — no real exam system; office depended on birth &amp; the Fujiwara clan dominated [1.1]" />
+          <outline text="Shogunate — military government in which the shogun ruled in the name of a figurehead emperor [1.1, 1.6, 1.7]" />
+          <outline text="Feudalism — hereditary daimyo, samurai &amp; rice-farming peasants; daimyo more powerful than the emperor or shogun (⚠️ textbook; most sources say this fits the Ashikaga era better) [1.1, 1.6, 1.7]" />
+          <outline text="Bushido — samurai code of frugality, loyalty, the martial arts &amp; honor unto death [1.1, 1.6, 1.7]" />
+          <outline text="Zen &amp; Pure Land Buddhism — Mahayana schools; Zen spread in Kamakura Japan &amp; became popular with samurai [1.1]" />
+        </outline>
+      </outline>
+      <outline text="Korea">
+        <outline text="People">
+          <outline text="Yi Seong-gye (King Taejo) (r. 1392–1398) — general who founded the Joseon Dynasty (1392) [1.1]" />
+          <outline text="King Sejong (r. 1418–1450) — created the Hangul alphabet (1443, published 1446) [1.1]" />
+        </outline>
+        <outline text="Events">
+          <outline text="918–1392 — Goryeo Dynasty, with Buddhism as the state religion [1.1]" />
+          <outline text="958 — Goryeo adopts a civil service exam, but it is not open to peasants [1.1]" />
+          <outline text="1231 — Mongol invasions begin; Goryeo becomes a vassal of the Yuan [1.1]" />
+          <outline text="1236–1251 — Goryeo carves the Tripitaka Koreana (80,000+ woodblocks) hoping for protection against the Mongols [1.1]" />
+          <outline text="1377 — The Jikji is printed, the oldest surviving book printed with metal movable type [1.1]" />
+          <outline text="1392 — Yi Seong-gye founds Joseon, which makes Neo-Confucianism its official ideology &amp; restricts Buddhism [1.1, 1.7]" />
+          <outline text="1443 — King Sejong creates Hangul (published 1446) [1.1]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Tributary state — sharing a land border, Korea emulated Chinese politics, centralized its government &amp; sent tribute (Yuan vassal, Ming tributary) [1.1]" />
+          <outline text="Civil service exam &amp; landed aristocracy — exams adopted, but powerful aristocratic families still dominated &amp; blocked some Chinese reforms [1.1]" />
+          <outline text="Buddhism — Mahayana faith of the peasant masses; Goryeo's state religion, restricted under Joseon [1.1]" />
+          <outline text="Neo-Confucianism — studied by the educated elite; Joseon's official ideology [1.1, 1.7]" />
+          <outline text="Writing — Chinese characters proved an awkward fit for Korean, so Korea developed Hangul in the 15th century [1.1]" />
+          <outline text="Celadon &amp; metal movable type — fine pottery inspired by Song porcelain &amp; printing with metal type [1.1]" />
+        </outline>
+      </outline>
+      <outline text="Vietnam">
+        <outline text="People">
+          <outline text="Lê Lợi (r. 1428–1433) — drove out the Ming &amp; founded the Lê Dynasty (1428) [1.1]" />
+        </outline>
+        <outline text="Events">
+          <outline text="111 B.C.E. — China begins about a thousand years of rule over northern Vietnam [1.1]" />
+          <outline text="8th century — Vietnamese rebels push out China's army as the Tang begins to crumble (⚠️ textbook; most sources date independence to 939) [1.1]" />
+          <outline text="1009–1225 — Lý Dynasty; Mahayana Buddhism is strong [1.1]" />
+          <outline text="1070 — The Lý build the Temple of Literature to honor Confucius [1.1]" />
+          <outline text="1075 — Đại Việt holds its first civil service exam [1.1]" />
+          <outline text="1225–1400 — Trần Dynasty [1.1]" />
+          <outline text="1258, 1285, 1287–1288 — The Trần defeat three Mongol invasions with guerrilla warfare [1.1]" />
+          <outline text="1407–1427 — The Ming occupy Vietnam [1.1]" />
+          <outline text="1428 — Lê Lợi founds the Lê Dynasty, which adopts Neo-Confucian government [1.1]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Adapted borrowing — Chinese writing &amp; architecture adapted, a copied bureaucracy &amp; tribute, but Vietnam kept its own language [1.1]" />
+          <outline text="Scholar-officials &amp; village autonomy — merit-based officials loyal to village peasants; villages ran largely independently (⚠️ textbook says centralization was nonexistent; most sources call the Lý, Trần &amp; Lê centralized monarchies) [1.1]" />
+          <outline text="Resistance to China — the most adversarial relationship with China: violent rebellions &amp; guerrilla warfare [1.1]" />
+          <outline text="Mahayana Buddhism — strong under the Lý and Trần [1.1]" />
+          <outline text="Family &amp; gender — nuclear families; women had more independence &amp; property rights and rejected foot binding &amp; polygyny [1.1]" />
+          <outline text="Champa rice — fast-ripening, drought-resistant rice from Champa (central Vietnam) that spread to Song China [1.1, 1.7]" />
+        </outline>
+      </outline>
+      <outline text="Mongol Empire and Steppe Nomads">
+        <outline text="People">
+          <outline text="Genghis Khan (b. 1162; r. 1206–1227) — united the Mongols in 1206; chosen at a kuriltai &amp; claimed a mandate from the Eternal Blue Sky (Tengri) [1.1, 1.7]" />
+          <outline text="Hulagu (r. 1256–1265) — grandson of Genghis Khan who sacked Baghdad (1258) &amp; founded the Ilkhanate [1.2]" />
+          <outline text="Timur (Tamerlane) (r. 1370–1405) — Turco-Mongol conqueror who sacked Delhi in 1398 [1.2, 1.3, 1.7]" />
+        </outline>
+        <outline text="Events">
+          <outline text="1206 — Genghis Khan unites the Mongol clans; the empire stays united until 1294, then splits into khanates [1.1, 1.7]" />
+          <outline text="1234–1279 — The Mongols destroy the Jin &amp; conquer the Southern Song, ruling China as the Yuan [1.1, 1.7]" />
+          <outline text="1240–1480 — Mongol rule over the Rus': local nobles collect taxes for the Mongols, grow rich &amp; resist [1.6]" />
+          <outline text="1258 — Hulagu sacks Baghdad, executes the last Abbasid caliph &amp; destroys the House of Wisdom [1.2, 1.7]" />
+          <outline text="1258–1288 — Mongol (Yuan) invasions are repelled by Đại Việt (1258, 1285, 1287–1288) &amp; Japan (1274, 1281) [1.1]" />
+          <outline text="1260 — Mamluks under Qutuz &amp; Baybars defeat the Mongols at Ain Jalut, stopping them in Egypt (⚠️ textbook; most sources say the battle was in Palestine) [1.2, 1.7]" />
+          <outline text="1293 — Raden Wijaya uses an invading Yuan army to defeat a rival on Java, then drives it out &amp; founds Majapahit [1.3]" />
+          <outline text="c. 1297–1306 — Alauddin Khalji's Delhi Sultanate turns back several Mongol invasions, keeping the Mongols out of South Asia [1.2, 1.3]" />
+          <outline text="1398 — Timur sacks Delhi; the Delhi Sultanate never fully recovers [1.2, 1.3]" />
+          <outline text="15th century — The influence of nomadic societies begins to wane as stronger, centralized states rise [1.7]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Kuriltai &amp; Tengri — Genghis Khan was chosen at a kuriltai &amp; claimed a mandate from the Eternal Blue Sky [1.7]" />
+          <outline text="Nomadic land-based empire — the largest in history, built by one coordinated campaign of unified clans, unlike the separate Turkic empires [1.7]" />
+          <outline text="Indirect rule &amp; tribute — local administrators &amp; nobles collected taxes and tribute for the Mongols [1.6, 1.7]" />
+          <outline text="Yuan rule in China — kept the Chinese bureaucracy &amp; Mandate of Heaven but ranked Mongols &amp; Central Asians first and suspended the exams until 1315 [1.1]" />
+          <outline text="Tibetan Buddhism — practiced in Tibet &amp; Mongolia &amp; patronized by the Yuan court [1.1]" />
+          <outline text="Ilkhanate — Hulagu's khanate in Persia &amp; Iraq; its rulers converted to Islam (1295) &amp; backed al-Tusi's Maragha observatory [1.2]" />
+          <outline text="Pax Mongolica — political stability expanded Eurasian trade, spread gunpowder west &amp; brought the first direct Europe–China contacts since the classical period [1.6, 1.7]" />
+        </outline>
+      </outline>
+      <outline text="Abbasid Caliphate and Islamic Scholarship">
+        <outline text="People">
+          <outline text="Muhammad (c. 570–632) — prophet of Islam and former merchant who forbade female infanticide and gave dowries to the bride [1.2]" />
+          <outline text="al-Khwarizmi (c. 780–c. 850) — Baghdad mathematician whose book gave us “algebra” and who spread Hindu-Arabic numerals [1.2]" />
+          <outline text="al-Ma'mun (r. 813–833) — Abbasid caliph under whom the House of Wisdom reached its height [1.2]" />
+          <outline text="Ibn Sina (Avicenna) (980–1037) — Persian philosopher and physician whose Canon of Medicine was used in European universities for centuries [1.2, 1.7]" />
+          <outline text="Omar Khayyam (1048–1131) — Seljuk Persian who solved cubic equations, improved the calendar, and wrote the Rubaiyat [1.2]" />
+          <outline text="Nasir al-Din al-Tusi (1201–1274) — directed the Maragha observatory, created the “Tusi couple,” and laid the groundwork for trigonometry (⚠️ textbook places him in Baghdad's golden age; most sources say he worked at Maragha after 1258) [1.2]" />
+          <outline text="Rumi (1207–1273) — Persian Sufi poet in Seljuk Konya whose Masnavi expresses the soul's love for God; his followers founded the Mevlevi order [1.2]" />
+          <outline text="Ibn Khaldun (1332–1406) — North African historian whose Muqaddimah explained the rise and fall of dynasties; a founder of historiography and sociology [1.2]" />
+          <outline text="'A'ishah al-Ba'uniyyah (1460–1507) — Sufi poet of Damascus, possibly the most prolific female Muslim writer before the 20th century (⚠️ textbook; most sources say she died in 1517) [1.2]" />
+        </outline>
+        <outline text="Events">
+          <outline text="632 — Muhammad dies; Sunni and Shia split over who should lead, and Islam spreads out of Arabia [1.2]" />
+          <outline text="750 — The Abbasids overthrow the Umayyads and found the Abbasid Caliphate (750–1258) [1.2]" />
+          <outline text="762 — Baghdad is built as the Abbasid capital; its golden age lasts through the 8th–10th centuries [1.2]" />
+          <outline text="9th century — The House of Wisdom is founded in Baghdad and reaches its height under al-Ma'mun (c. 830) [1.2, 1.7]" />
+          <outline text="12th–13th centuries — Mamluks, Seljuk Turks, Crusaders, and Mongols challenge the weakened Abbasids as trade shifts away from Baghdad [1.2, 1.7]" />
+          <outline text="1258 — Hulagu's Mongols sack Baghdad, execute the last Abbasid caliph, and destroy the House of Wisdom [1.2, 1.7]" />
+          <outline text="1259 — The Maragha observatory is founded under Hulagu and directed by al-Tusi [1.2]" />
+          <outline text="1295 — Rulers of the Mongol Ilkhanate (Persia and Iraq) convert to Islam, so Islamic learning survives the Mongols [1.2]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Caliph — religious and political successor of Muhammad; after 1055 mostly a religious figurehead [1.2]" />
+          <outline text="Five Pillars — declaration of faith, prayer, charity (zakat), fasting, and hajj, shared across Dar al-Islam [1.2]" />
+          <outline text="Sharia, ulama &amp; qadis — Islamic law from the Qur'an and hadith, taught in madrasas and applied by judges, giving a common legal culture [1.2]" />
+          <outline text="Sunni and Shia — split over leadership after 632; Sunni majority (Abbasids, Seljuks, Mamluks), Shia minority (Fatimids) [1.2]" />
+          <outline text="Sufism — mystical Islam seeking personal closeness to God; its orders (Mevlevi, Chishti) were very effective missionaries [1.2, 1.3]" />
+          <outline text="Dhimmi &amp; jizya — Jews and Christians as protected “People of the Book” who paid a special tax [1.2]" />
+          <outline text="Women under sharia — rights to inherit, own property, consent to marriage, and divorce, within a patriarchal society (hijab, harem) [1.2]" />
+          <outline text="House of Wisdom (Bayt al-Hikma) — Baghdad library and translation center that put Greek, Persian, and Indian works into Arabic [1.2, 1.7]" />
+          <outline text="Knowledge transfer — algebra, Hindu-Arabic numerals with zero, and Chinese papermaking passed through Dar al-Islam to Europe [1.2, 1.7]" />
+        </outline>
+      </outline>
+      <outline text="Seljuk Turks and Early Ottomans">
+        <outline text="People">
+          <outline text="Tughril Beg (r. 1037–1063) — led the Seljuk Turks into Baghdad in 1055 and called himself sultan (⚠️ textbook; most sources say the caliph granted the title) [1.2]" />
+          <outline text="Nizam al-Mulk (1018–1092) — Seljuk vizier who organized the bureaucracy and founded Nizamiyya madrasas to train Sunni ulama [1.2]" />
+          <outline text="Osman (r. c. 1299–1324) — founded the Ottoman state in Anatolia c. 1299 [1.7]" />
+          <outline text="Mehmed II (r. 1451–1481) — led the Ottoman Turks in capturing Constantinople in 1453 [1.6]" />
+        </outline>
+        <outline text="Events">
+          <outline text="1037–1194 — The Great Seljuk Empire rules Persia, Iraq, and Syria (⚠️ textbook lists it as a new state of this era; most sources say it peaked in the 11th–12th centuries) [1.2, 1.7]" />
+          <outline text="1055 — Seljuk Turks under Tughril Beg enter Baghdad; the sultan holds power and the caliph becomes a religious figurehead [1.2]" />
+          <outline text="1071 — Seljuks defeat the Byzantines at Manzikert, opening Anatolia to Turkic settlement [1.2]" />
+          <outline text="1077–1308 — The Seljuk Sultanate of Rum rules Anatolia from its capital at Konya [1.2, 1.7]" />
+          <outline text="1095 — The Byzantines ask Pope Urban II for help against the Seljuks, and the First Crusade is called (⚠️ textbook blames Seljuk limits on Christian pilgrims; most sources stress the Byzantine appeal after Manzikert) [1.2, 1.6]" />
+          <outline text="13th century — The Ottomans expand into the Balkans, where Albania, Kosovo, and Bosnia gain large Muslim populations (⚠️ textbook; most sources say the mid-1300s) [1.6]" />
+          <outline text="1243 — The Sultanate of Rum becomes a Mongol vassal [1.2]" />
+          <outline text="1258 — The Mongol conquest of Baghdad ends Seljuk rule (⚠️ textbook; most sources say the Great Seljuks ended in 1194 and Rum lasted until 1308) [1.2]" />
+          <outline text="c. 1299 — Osman founds the Ottoman state in Anatolia [1.2, 1.7]" />
+          <outline text="1453 — The Ottoman Turks under Mehmed II capture Constantinople, ending the Byzantine Empire [1.6]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Sultan — political and military ruler separate from the caliph, a Seljuk innovation [1.2, 1.7]" />
+          <outline text="Iqta — grants of the right to collect land revenue in return for military service [1.2, 1.7]" />
+          <outline text="Persian bureaucracy &amp; Nizamiyya madrasas — Turkic rulers governed with Persian officials and state-funded schools for Sunni ulama [1.2]" />
+          <outline text="Diverse empire — Turkic rulers, Persian officials, and Arab and Greek Christian subjects [1.2]" />
+          <outline text="Warriors for the faith — Islam and the title of sultan legitimized Turkic cavalry conquest in Anatolia [1.7]" />
+          <outline text="Janissaries — Ottoman slave soldiers used from the late 1300s [1.7]" />
+          <outline text="Separate Turkic empires — unlike the Mongols' one coordinated empire, Seljuks and Ottomans built their own states that lasted past 1450 [1.7]" />
+        </outline>
+      </outline>
+      <outline text="Mamluk Sultanate (Egypt)">
+        <outline text="People">
+          <outline text="Saladin (r. 1174–1193) — founder of the Ayyubid dynasty who retook Jerusalem in 1187 [1.2, 1.6]" />
+          <outline text="Ibn al-Nafis (1213–1288) — Mamluk Cairo physician who described pulmonary circulation between the heart and lungs [1.2]" />
+          <outline text="Shajar al-Durr (r. 1250) — briefly ruled Egypt in 1250 as the Mamluks rose [1.2]" />
+          <outline text="Qutuz (r. 1259–1260) — Mamluk commander who defeated the Mongols at Ain Jalut in 1260 [1.2]" />
+          <outline text="Baybars (r. 1260–1277) — Ain Jalut commander who set up an Abbasid “shadow caliph” in Cairo in 1261 [1.2]" />
+          <outline text="Qalawun (r. 1279–1290) — Mamluk sultan who built a great hospital in Cairo in 1284 [1.2]" />
+        </outline>
+        <outline text="Events">
+          <outline text="909–1171 — The Shia Fatimid Caliphate rules Egypt from Cairo as a rival to the Abbasids [1.2]" />
+          <outline text="1187 — Saladin, founder of the Ayyubid dynasty, retakes Jerusalem from the Crusaders [1.2, 1.6]" />
+          <outline text="1250 — Mamluk officers seize power in Egypt, founding the Mamluk Sultanate (1250–1517) on former Abbasid land (⚠️ textbook; most sources say they took Egypt from the Ayyubids) [1.2, 1.7]" />
+          <outline text="1260 — Qutuz and Baybars defeat the Mongols at Ain Jalut, stopping them in Egypt (⚠️ textbook; most sources say the battle was in Palestine) [1.2, 1.7]" />
+          <outline text="1261 — Baybars brings an Abbasid survivor to Cairo as a “shadow caliph” for religious legitimacy [1.2, 1.7]" />
+          <outline text="1284 — Sultan Qalawun builds a great hospital in Cairo [1.2]" />
+          <outline text="1291 — The Mamluks capture Acre, the last major Crusader city, ending the crusader states [1.2, 1.6]" />
+          <outline text="c. 1500 — Portuguese and other European sea routes bypass Egypt, and Mamluk power declines [1.2]" />
+          <outline text="1517 — The Ottomans conquer the Mamluk Sultanate [1.2, 1.7]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Mamluks (slave-soldiers) — mostly Turkic boys bought, converted to Islam, and trained as elite cavalry and later bureaucrats [1.2, 1.7]" />
+          <outline text="Non-hereditary rule — power rarely passed from father to son; new slave-soldiers rose to become sultans [1.2]" />
+          <outline text="Shadow caliph &amp; defenders of Islam — Abbasid caliphs kept in Cairo after 1261; guardians of Mecca and Medina [1.2, 1.7]" />
+          <outline text="Iqta — land grants whose tax revenue paid military officers [1.7]" />
+          <outline text="Trade economy — Nile farming, Red Sea spice trade, and cotton and sugar trade with Europe [1.2, 1.7]" />
+          <outline text="Cairo as a center of learning — hospitals, and licensing examinations for doctors and pharmacists [1.2]" />
+          <outline text="Diverse society — Turkic (later Circassian) rulers over Arab Egyptians, Coptic Christians, and Jews [1.2]" />
+        </outline>
+      </outline>
+      <outline text="al-Andalus (Muslim Spain)">
+        <outline text="People">
+          <outline text="Ibn Rushd (Averroes) (1126–1198) — Córdoba qadi and philosopher whose commentaries on Aristotle earned him the name “the Commentator” in Latin Europe [1.2, 1.6]" />
+          <outline text="Maimonides (c. 1135–c. 1204) — Córdoba-born Jewish philosopher and Cairo physician who wrote the Guide for the Perplexed and influenced Thomas Aquinas (⚠️ textbook dates; most sources say 1138–1204) [1.2, 1.6]" />
+        </outline>
+        <outline text="Events">
+          <outline text="711 — Umayyad Muslim forces invade Spain from the south and make Córdoba their capital [1.2, 1.6]" />
+          <outline text="732 — Franks defeat a Muslim army at the Battle of Tours, the limit of rapid Islamic expansion into Western Europe [1.2]" />
+          <outline text="929–1031 — The Umayyad Caliphate of Córdoba makes Córdoba one of Europe's largest and richest cities [1.2]" />
+          <outline text="1031 — al-Andalus splits into small kingdoms [1.2]" />
+          <outline text="1085 — Castile captures Toledo, which becomes a center for translating Arabic works into Latin [1.2, 1.6]" />
+          <outline text="1212 — Defeat at Las Navas de Tolosa breaks Muslim power in Iberia [1.6]" />
+          <outline text="1232–1492 — The Nasrid Emirate of Granada is the last Muslim state in Iberia [1.2, 1.6]" />
+          <outline text="1236 / 1248 — Córdoba and Seville fall to Castile [1.6]" />
+          <outline text="1492 — Granada falls, ending the Reconquista, and Muslims who would not convert are expelled (⚠️ textbook; most sources say Muslims were forced to convert or leave in 1502) [1.2, 1.6]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Coexistence of the People of the Book — Muslims, Jews, and Christians lived side by side and influenced one another (⚠️ textbook says peaceful; most historians say real but often unequal) [1.2]" />
+          <outline text="Córdoba as a center of learning — a great mosque and, the textbook says, the largest library in the world [1.2, 1.6]" />
+          <outline text="Toledo translations — 12th–13th-century scholars put Arabic works into Latin (e.g., Gerard of Cremona's Almagest and Canon) [1.2, 1.6]" />
+          <outline text="Chain of influence — Ibn Rushd shaped Maimonides, who shaped Thomas Aquinas and European scholasticism [1.2, 1.6]" />
+          <outline text="Toleration and trade — Umayyad rulers promoted trade that brought Chinese and Southeast Asian goods into Europe [1.2]" />
+          <outline text="Dhow — long, thin-hulled cargo ship that carried many goods (⚠️ textbook says first developed in India or China; most sources link it to Arab and Indian sailors) [1.2]" />
+        </outline>
+      </outline>
+      <outline text="Delhi Sultanate">
+        <outline text="People">
+          <outline text="Qutb al-Din Aibak (r. 1206–1210) — Turkic former slave general who founded the Delhi Sultanate in 1206 [1.2, 1.3]" />
+          <outline text="Moinuddin Chishti (1143–1236) — Chishti Sufi who settled at Ajmer; his shrine drew both Muslims and Hindus [1.3]" />
+          <outline text="Razia Sultana (r. 1236–1240) — female ruler of the Delhi Sultanate, one of the few women to rule in the Islamic world [1.2, 1.3]" />
+          <outline text="Alauddin Khalji (r. 1296–1316) — defeated several Mongol invasions (c. 1297–1306) and captured the Rajput fortress of Chittor in 1303 [1.2, 1.3]" />
+          <outline text="Lal Ded (Mother Lalla) (1320–1392) — Hindu poet of Kashmir whose stress on personal experience appealed to many Muslims, especially Sufis [1.3]" />
+          <outline text="Nizamuddin Auliya (1238–1325) — Chishti Sufi who taught in Delhi; his shrine drew both Muslims and Hindus [1.3]" />
+          <outline text="Kabir (c. 15th century) — weaver poet of Varanasi who blended Hindu and Muslim ideas and taught that God is one, whether called Rama or Allah [1.3]" />
+        </outline>
+        <outline text="Events">
+          <outline text="8th century — Islamic armies invade present-day Pakistan but change daily life little; Rajput princes limit their influence [1.3]" />
+          <outline text="11th century — Islamic forces plunder Hindu temples and Buddhist shrines and build mosques on their holy sites [1.3]" />
+          <outline text="1190s — Muslim forces take Delhi [1.3]" />
+          <outline text="c. 1199 — Qutb Minar begun in Delhi [1.3]" />
+          <outline text="1206 — Qutb al-Din Aibak founds the Delhi Sultanate, which rules north India for about 300 years [1.2, 1.3, 1.7]" />
+          <outline text="c. 1297–1306 — Alauddin Khalji turns back several Mongol invasions; the sultanate keeps the Mongols from conquering South Asia [1.2, 1.3, 1.7]" />
+          <outline text="1398 — Timur (Tamerlane) sacks Delhi; the sultanate never fully recovers [1.2, 1.3]" />
+          <outline text="1526 — Babur defeats the last Lodi sultan at Panipat and founds the Mughal Empire [1.2, 1.3]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Muslim minority rule — a small Muslim elite ruled a Hindu majority with Persian as the court language; the textbook's example of a synthesis of Islamic and Hindu traditions [1.2, 1.3, 1.7]" />
+          <outline text="Turkic military elite — first sultans were former slave soldiers; five dynasties (Mamluk, Khalji, Tughluq, Sayyid, Lodi); officers paid with iqta land grants [1.2, 1.3, 1.7]" />
+          <outline text="Jizya — tax on non-Muslims, who were treated as protected people; the textbook says it added to Hindu resentment of Muslims [1.2, 1.3, 1.7]" />
+          <outline text="Weak bureaucracy — the sultanate never built an efficient bureaucracy like China's, so local kingdoms kept a major role [1.3]" />
+          <outline text="Islamic legitimacy — sultans ruled as Muslims and sought recognition from the Abbasid caliph [1.2, 1.7]" />
+          <outline text="Land-based state — wealth came from taxes on a large farming population; the textbook calls it more land-based than the southern states [1.2, 1.3, 1.7]" />
+          <outline text="Qutb Minar (textbook: Qutub Minar) — Indo-Islamic tower over a mosque built on a Hindu temple, a symbol of Islamic dominance of north India (⚠️ textbook calls it India's tallest structure; most sources say the world's tallest brick minaret) [1.2, 1.3, 1.7]" />
+          <outline text="Urdu — new language combining Hindi grammar with Arabic vocabulary and some Persian (Farsi) elements (⚠️ textbook; most sources say most borrowed words are Persian) [1.3]" />
+          <outline text="Sufism and the Chishti order — mystical Islam spread by Sufis through shrines, local languages, and qawwali songs that drew Muslims and Hindus [1.2, 1.3]" />
+        </outline>
+      </outline>
+      <outline text="Hindu States of South Asia (Rajputs, Vijayanagara, Chola)">
+        <outline text="People">
+          <outline text="Basava (12th century) — led the Lingayat Bhakti movement devoted to Shiva in Karnataka and rejected caste [1.3]" />
+          <outline text="Harihara and Bukka (Harihara I r. 1336–1356; Bukka I r. 1356–1377) — brothers sent south by Delhi who converted to Islam, returned to Hinduism, and founded Vijayanagara in 1336 (⚠️ textbook; many historians treat the conversion as a traditional story) [1.3]" />
+          <outline text="Mira Bai (c. 1498–1547) — Rajput princess and famous female Bhakti poet devoted to Krishna (after this period) [1.3]" />
+          <outline text="Krishnadevaraya (r. 1509–1529) — Vijayanagara reached its peak under his rule [1.3]" />
+        </outline>
+        <outline text="Events">
+          <outline text="After 550 — After the Gupta collapse, Rajput kingdoms gradually form in northern India and present-day Pakistan [1.3]" />
+          <outline text="850–1267 — Chola Dynasty (Tamil, Hindu) rules south India for more than 400 years (⚠️ textbook; most sources say it ended in 1279) [1.3, 1.7]" />
+          <outline text="11th century — The Cholas extend their rule to Ceylon (Sri Lanka) [1.3]" />
+          <outline text="1025 — Chola navy raids Srivijaya [1.3, 1.7]" />
+          <outline text="12th century — Bhakti Movement begins in southern India and later spreads north (⚠️ textbook; most sources trace its roots to the Tamil Alvars and Nayanars, c. 6th–9th centuries) [1.3]" />
+          <outline text="1303 — Alauddin Khalji captures Chittor in Mewar, but the Rajput kingdoms survive and recover [1.3]" />
+          <outline text="1336 — Harihara and Bukka found the Vijayanagara Empire in south India [1.3, 1.7]" />
+          <outline text="1347 — Bahmani Sultanate is founded on Vijayanagara's border [1.3]" />
+          <outline text="1443 — Persian envoy Abdur Razzaq describes Vijayanagara as one of the greatest cities he had seen [1.3]" />
+          <outline text="1565 — Vijayanagara loses the Battle of Talikota to the Deccan sultanates and continues in weakened form until 1646 [1.3]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Caste system — four varnas plus jati birth groups, justified by karma and dharma; the textbook calls it India's strongest historical continuity [1.3]" />
+          <outline text="Bhakti movement — intense devotion to one god (Vishnu, Krishna, or Shiva), open to all castes and women, spread through vernacular poetry and song [1.3]" />
+          <outline text="Rajput kingdoms — Hindu warrior clans of Rajasthan claiming Kshatriya status, whose power rested on fortresses, clan loyalty, and warrior honor [1.3]" />
+          <outline text="Rajput regionalism — clan leaders often fought one another, so no central government arose and they were vulnerable to Muslim attacks [1.3]" />
+          <outline text="Vijayanagara Hindu kingship — patron of temples at the capital Hampi; presented itself as defender of Hindu traditions against the sultanates [1.3, 1.7]" />
+          <outline text="Vijayanagara power base — irrigated agriculture, a strong army with hired Muslim cavalry, nayaka governors, and land revenue [1.3, 1.7]" />
+          <outline text="Trade in South India — Vijayanagara exported cotton textiles, pepper, and gems and imported warhorses; the textbook says the Chola and Vijayanagar used trade to build strong states (⚠️ textbook; many sources classify Vijayanagara as land-based) [1.3, 1.7]" />
+          <outline text="Chola naval power — Hindu kingdom with a strong navy and trade ports; built great temples such as the one at Thanjavur [1.3, 1.7]" />
+        </outline>
+      </outline>
+      <outline text="Sri Lanka (Sinhala Dynasties)">
+        <outline text="People">
+          <outline text="Parakramabahu I (r. 1153–1186) — expanded the irrigation tanks and canals at the capital Polonnaruwa [1.3]" />
+          <outline text="Parakramabahu VI (r. 1412–1467) — briefly reunited the island from Kotte [1.3]" />
+        </outline>
+        <outline text="Events">
+          <outline text="3rd century B.C.E. — Buddhists arrive among the Sinhala (descendants of early north Indian immigrants); the island becomes a center of Buddhist study [1.3]" />
+          <outline text="11th century — The Chola dynasty of south India extends its rule to Ceylon [1.3]" />
+          <outline text="12th–14th centuries — Sri Lankan monks carry Theravada Buddhism to Burma, Thailand, and Cambodia [1.3]" />
+          <outline text="1215 — After an invasion, the Sinhala capital moves southwest (Dambadeniya, later Kotte) and a Tamil Hindu kingdom forms in Jaffna [1.3]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Theravada Buddhist kingship — Sinhala kings saw protecting Buddhism as their main duty [1.3]" />
+          <outline text="Buddhist monasticism — kings gave land to monasteries and nunneries, and Buddhist priests often advised the monarchs [1.3]" />
+          <outline text="Tooth Relic — the Buddha's tooth was a symbol of royal power; whoever held it had the right to rule [1.3]" />
+          <outline text="Irrigation tanks — huge reservoirs and canals stored monsoon rain for rice farming; the textbook says they fueled economic growth [1.3]" />
+          <outline text="Land-based kingdom — the textbook groups the Sinhala dynasties with the Khmer as kingdoms that drew power from land and irrigation [1.3]" />
+          <outline text="Weakening — attacks by invaders from India and conflicts between the monarchy and Buddhist priests weakened the kingdoms [1.3]" />
+        </outline>
+      </outline>
+      <outline text="Srivijaya and Majapahit">
+        <outline text="People">
+          <outline text="Raden Wijaya (r. 1293–1309) — founded Majapahit in 1293 by using an invading Mongol (Yuan) army to defeat a rival, then drove the Mongols out [1.3]" />
+          <outline text="Hayam Wuruk (r. 1350–1389) — king under whom Majapahit reached its peak [1.3]" />
+          <outline text="Gajah Mada (d. c. 1364) — Hayam Wuruk's chief minister who vowed to unite the archipelago [1.3]" />
+        </outline>
+        <outline text="Events">
+          <outline text="500 B.C.E. — Indian merchants trade in Southeast Asia, and their voyages bring Hinduism and Buddhism to the region [1.3]" />
+          <outline text="670–1025 — Srivijaya builds up its navy and prospers by charging fees on ships between India and China (⚠️ textbook; most sources say it survived, weakened, into the 13th century) [1.3, 1.7]" />
+          <outline text="671 — Chinese monk Yijing studies in Srivijaya on his way to India [1.3]" />
+          <outline text="1025 — Chola navy from south India raids and weakens Srivijaya [1.3, 1.7]" />
+          <outline text="1293 — Raden Wijaya founds Majapahit on Java [1.3, 1.7]" />
+          <outline text="1365 — Court poem Nagarakretagama lists Majapahit's tributary lands; at its height it has 98 tributaries [1.3]" />
+          <outline text="Late 14th century — Majapahit controls Srivijaya's former lands [1.3]" />
+          <outline text="15th century — Muslim port states such as Malacca and Demak grow richer as Islamic influence spreads [1.3]" />
+          <outline text="1520 — Majapahit ends after a slow decline following the deaths of key leaders (⚠️ textbook; other sources say c. 1478 or c. 1527) [1.3]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Sea-based state — Srivijaya (capital Palembang, Sumatra) controlled the Strait of Malacca, taxed ships waiting for the monsoon, and used its navy against pirates [1.3, 1.7]" />
+          <outline text="Tribute and alliances — Srivijaya sent tribute missions to China for trade privileges and kept local rulers loyal with gifts, oaths, and shared profits [1.3]" />
+          <outline text="Religion and kingship — Srivijaya was primarily a Buddhist (mostly Mahayana) kingdom and religious center; Majapahit was a Hindu kingdom with strong Buddhist influences (⚠️ the 2.5 textbook reading says the reverse: Srivijaya Hindu, Majapahit Buddhist) [1.3, 1.7]" />
+          <outline text="Majapahit's land and sea power — Java's volcanic soil gave rice surpluses, while its navy controlled the spice trade and collected island tribute [1.3, 1.7]" />
+        </outline>
+      </outline>
+      <outline text="Khmer Empire">
+        <outline text="People">
+          <outline text="Jayavarman II (r. from 802) — founded the Khmer Empire at Angkor in 802 [1.3]" />
+          <outline text="Suryavarman II (r. 1113–c. 1150) — built Angkor Wat, the world's largest religious monument, for the Hindu god Vishnu [1.3]" />
+          <outline text="Jayavarman VII (r. 1181–c. 1218) — Mahayana Buddhist king who built Angkor Thom, the Bayon temple, roads, rest houses, and hospitals [1.3]" />
+        </outline>
+        <outline text="Events">
+          <outline text="802 — Jayavarman II founds the Khmer Empire (Angkor Kingdom) near the Mekong River [1.3, 1.7]" />
+          <outline text="12th–13th centuries — Khmer rulers become Buddhist and add Buddhist art without destroying the Hindu artwork [1.3]" />
+          <outline text="1181 — Jayavarman VII begins Buddhist rule at Angkor [1.3]" />
+          <outline text="13th–14th centuries — Most Khmer people follow Theravada Buddhism, and Angkor Wat becomes a Buddhist temple [1.3]" />
+          <outline text="1296–1297 — Chinese envoy Zhou Daguan visits Angkor and describes its wealth [1.3]" />
+          <outline text="1351 — The Thai kingdom of Ayutthaya is founded and begins wars with the Khmer [1.3]" />
+          <outline text="1431 — Thais of the Sukhothai Kingdom invade and force the Khmers out of Angkor; the capital moves south (⚠️ textbook; most sources say Ayutthaya sacked Angkor c. 1431) [1.3, 1.7]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Devaraja (god-king) — kings presented themselves as connected to the Hindu gods and built temples to show legitimacy [1.3, 1.7]" />
+          <outline text="Land-based state — unlike Srivijaya and Majapahit, the Khmer did not depend on sea power and taxed irrigated rice farming [1.3, 1.7]" />
+          <outline text="Barays (reservoirs) and canals — let farmers harvest rice several times a year, while drainage reduced monsoon damage, making the Khmer one of the most prosperous kingdoms [1.3, 1.7]" />
+          <outline text="Control of labor and taxes — kings controlled labor for temples and waterworks and collected rice as taxes [1.3]" />
+          <outline text="Angkor Thom — the capital, whose temples show Indian cultural influence with Hindu art and later Buddhist additions [1.3]" />
+          <outline text="Angkor Wat — ornate Buddhist temple complex near Angkor Thom, a symbol of royal power (⚠️ textbook; most sources say it was built earlier as a Hindu temple to Vishnu and became Buddhist later) [1.3, 1.7]" />
+        </outline>
+      </outline>
+      <outline text="Maya City-States">
+        <outline text="Events">
+          <outline text="c. 250–900 — Height of Maya civilization: about 40 cities across southern Mexico, Belize, Honduras, and Guatemala (⚠️ textbook says up to 2 million people; most sources say several million or more) [1.4]" />
+          <outline text="c. 800–900 — Classic Maya collapse: southern lowland cities such as Tikal and Copán are abandoned (causes debated: drought, overpopulation, deforestation, warfare) [1.4]" />
+          <outline text="c. 900 — Power shifts north to Postclassic city-states on the Yucatán Peninsula; Chichén Itzá rises (c. 900–1100s; its peak and decline dates are debated) [1.4]" />
+          <outline text="c. 1220 — Mayapán becomes the leading Maya city and heads a league of Yucatán city-states [1.4]" />
+          <outline text="c. 1441 — Mayapán collapses after a revolt, and the Yucatán splits into many small states (some sources say up to c. 1461) [1.4]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Competing city-states — never united into one empire; one strong city often dominated its neighbors, but shifting alliances kept any city from holding power long [1.4]" />
+          <outline text="Holy kings (k'uhul ajaw) — kings claimed descent from a god and held political and religious power; rule usually passed father to son, and women ruled when no male heir was ready [1.4]" />
+          <outline text="Warfare for captives and tribute — wars for captives, tribute, and prestige rather than territory; with no standing armies, citizens owed military service [1.4]" />
+          <outline text="Maya calendar — 260-day ritual and 365-day solar calendars formed a 52-year cycle, plus the Long Count; priests used observatories atop pyramids such as at Chichén Itzá [1.4]" />
+          <outline text="Hieroglyphic writing — the most complete writing system of the pre-Columbian Americas, carved on monuments and painted in bark-paper codices [1.4]" />
+          <outline text="Mathematics and science — base-20 numbers with a concept of zero, tracking of the sun, moon, and Venus, and rubber made from rubber plants [1.4]" />
+          <outline text="Religion — male and female priests honored gods of the sun, rain, and corn; war captives were sometimes sacrificed [1.4]" />
+          <outline text="Mayapán league — walled city dominated by the Cocom family; leaders of subject towns had to live in Mayapán, which helped control them [1.4]" />
+        </outline>
+      </outline>
+      <outline text="Mexica (Aztec) Empire">
+        <outline text="People">
+          <outline text="Nezahualcoyotl (1402–1472) — Aztec poet and ruler of Texcoco, one of the three Triple Alliance cities [1.4]" />
+          <outline text="Itzcoatl (r. 1427–1440) — Mexica ruler under whom the Triple Alliance defeated Azcapotzalco in 1428 [1.4]" />
+          <outline text="Moctezuma I (r. 1440–1469) — expanded the empire from the Gulf of Mexico to the Pacific [1.4]" />
+        </outline>
+        <outline text="Events">
+          <outline text="13th century — Nahuatl-speaking Mexica migrate from legendary Aztlán into the Valley of Mexico and first serve as mercenaries for Azcapotzalco [1.4]" />
+          <outline text="c. 1325 — Mexica found Tenochtitlan on an island in Lake Texcoco, linked to the shore by causeways and fed by aqueducts [1.4, 1.7]" />
+          <outline text="1428 — Tenochtitlan, Texcoco, and Tlacopan form the Triple Alliance and defeat Azcapotzalco; Tenochtitlan soon dominates [1.4, 1.7]" />
+          <outline text="Late 15th century — The empire weakens from low technology, overexpansion, and subjects' resentment (⚠️ textbook; most sources say it was still expanding under Ahuitzotl and Moctezuma II) [1.4]" />
+          <outline text="1519–1521 — Hernán Cortés, aided by tens of thousands of indigenous allies (especially Tlaxcalans) and smallpox, defeats the Mexica (Unit 4 context) [1.4]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Chinampas — raised fields (“floating gardens”) built in Lake Texcoco that gave several harvests a year and fed Tenochtitlan [1.4, 1.7]" />
+          <outline text="Tribute empire — conquered peoples paid tribute (maize, cotton cloth, cacao, feathers), gave up land, and served in the army; the textbook calls it a tributary empire relying on a strong military [1.4, 1.7]" />
+          <outline text="Local rulers kept — local rulers stayed on as tribute collectors and kept their gods; provinces had an Aztec official and resettled warriors, but no large bureaucracy [1.4, 1.7]" />
+          <outline text="Huey tlatoani and theocracy — the “Great Speaker,” chosen by a council of nobles, was political ruler, military leader, and divine representative of the gods [1.4]" />
+          <outline text="Huitzilopochtli and human sacrifice — the sun and war god was thought to need human blood; priests sacrificed mostly war captives at the Templo Mayor (Spanish sources may exaggerate the numbers) [1.4, 1.7]" />
+          <outline text="Warrior class — eagle and jaguar warriors led conquest and rose in rank by taking captives, so even commoners could gain status [1.4]" />
+          <outline text="Social hierarchy — emperor, landowning nobles (pipiltin), scribes and healers, craftspeople and traders (including luxury-trading pochteca), commoners in calpulli, and enslaved people [1.4]" />
+          <outline text="Role of women — women wove the cloth demanded as tribute; some became priestesses, midwives, healers, merchants, or scribes [1.4]" />
+        </outline>
+      </outline>
+      <outline text="Inca Empire">
+        <outline text="People">
+          <outline text="Pachacuti (r. c. 1438–1471) — “transformer of the earth” who defeated the Chanka, began rapid expansion, and rebuilt Cuzco as an imperial capital [1.4, 1.7]" />
+          <outline text="Topa Inca (r. 1471–1493) — Pachacuti's son; conquered the coastal Chimú kingdom (c. 1470) and pushed the empire south [1.4]" />
+          <outline text="Huayna Capac (r. 1493–1527) — Pachacuti's grandson who consolidated the conquered lands; his death led to a civil war of succession [1.4]" />
+          <outline text="Huáscar and Atahualpa (Huáscar r. 1527–1532; Atahualpa r. 1532–1533) — Huayna Capac's sons, whose civil war weakened the empire before Pizarro arrived in 1532 [1.4]" />
+        </outline>
+        <outline text="Events">
+          <outline text="c. 1200 — The Inca kingdom forms around Cuzco (date from Inca oral tradition) [1.4]" />
+          <outline text="1438 — Pachacuti takes power and begins Inca expansion (firm date in the textbook; based on oral tradition, so approximate) [1.4, 1.7]" />
+          <outline text="Early 1500s — Tawantinsuyu (“Land of the Four Quarters”) stretches about 2,500 miles along the Andes from Ecuador to central Chile [1.4]" />
+          <outline text="1532 — Francisco Pizarro arrives during the civil war between Huáscar and Atahualpa; disease and the war aid the Spanish (Unit 4 context) [1.4]" />
+          <outline text="1533 — The Spanish conquer the core of the empire; Inca outposts hold out until 1572 [1.4]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Sapa Inca — emperor believed to be the son and earthly representative of the sun god Inti; in theory he owned all land [1.4, 1.7]" />
+          <outline text="Centralized bureaucracy — four provinces with governors, households counted in units of 10 to 10,000, supervised local lords (kurakas), mitma resettlement, and elite hostages in Cuzco [1.4, 1.7]" />
+          <outline text="Mit'a — labor tax (mandatory public service) by men aged 15–50 on roads, terraces, temples, state lands, and in the army, instead of tribute in goods; ayllu kin groups organized the turns and the state repaid with food, chicha, and cloth [1.4, 1.7]" />
+          <outline text="Road network (Qhapaq Ñan) — about 25,000 miles with rope bridges, waystations, and chasqui runners, used mainly by the government and army (⚠️ textbook says built with captive labor; most sources say mainly by mit'a workers) [1.4, 1.7]" />
+          <outline text="Quipu and Quechua — knotted cords recorded census, labor, goods, and messages without a writing system; Quechua was imposed as the language of government [1.4, 1.7]" />
+          <outline text="Terraces, waru waru, and storehouses — terraces stopped erosion for potatoes, maize, and quinoa; surpluses filled state storehouses (⚠️ textbook ties waru waru raised beds to Inca terraces; most sources say it is an older raised-field technique near Lake Titicaca) [1.4, 1.7]" />
+          <outline text="State religion — Inti and the gold-covered Coricancha (Temple of the Sun) in Cuzco, ancestor worship, and sacred huaca; human sacrifice was far rarer than among the Mexica [1.4, 1.7]" />
+          <outline text="Split inheritance — mummified rulers kept their servants and property, so each new ruler needed new conquests, a partial motive for expansion [1.4]" />
+        </outline>
+      </outline>
+      <outline text="North America (Mississippian, Ancestral Puebloans)">
+        <outline text="Events">
+          <outline text="8th–9th centuries — The Mississippian culture emerges in the Mississippi River Valley, the first large-scale civilization in North America [1.4]" />
+          <outline text="c. 850–1150 — Chaco Canyon in New Mexico flourishes as a ceremonial and trade center [1.4]" />
+          <outline text="c. 1050–1200 — Cahokia, near present-day St. Louis, is at its peak as the largest city north of Mexico [1.4]" />
+          <outline text="c. 1190–1300 — Mesa Verde cliff dwellings are built and lived in [1.4]" />
+          <outline text="Late 13th century — Chaco and Mesa Verde decline as the climate grows drier (⚠️ textbook; most sources say Chaco declined c. 1150 and Mesa Verde was abandoned c. 1300) [1.4]" />
+          <outline text="c. 1450 — Cahokia is abandoned (⚠️ textbook; most sources say it was largely abandoned by c. 1350–1400) [1.4]" />
+          <outline text="By 1600 — Other large Mississippian cities are abandoned (causes debated: flooding or weather extremes, drought, deforestation, conflict, European diseases) [1.4]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Mound-building — enormous earthen mounds instead of stone buildings; Monks Mound at Cahokia is about 100 feet tall (⚠️ textbook calls the largest mound Cahokia; most sources say Cahokia was the city and Monks Mound its largest mound) [1.4]" />
+          <outline text="Great Sun and rigid classes — a chief ruled each large town above priests and nobles, commoners, and enslaved prisoners of war (⚠️ textbook; most sources say the title comes from later French records of the Natchez) [1.4]" />
+          <outline text="Matrilineal society — status came from the mother's side, so the Great Sun's title passed to his sister's son; women generally farmed and men hunted [1.4]" />
+          <outline text="Great houses and kivas (Chaco) — multistory stone-and-clay buildings such as Pueblo Bonito with hundreds of rooms, round ceremonial kivas, straight roads, and turquoise trade [1.4]" />
+          <outline text="Cliff dwellings (Mesa Verde) — multistory sandstone homes such as Cliff Palace built into canyon walls for shelter and defense [1.4]" />
+          <outline text="Water management — in the dry Southwest, with little wood for building, people collected, transported, and stored water efficiently [1.4]" />
+          <outline text="Chiefdoms, not empires — ceremonial centers without writing; outside the Aztec and Inca empires, most of the Americas lacked centralized states [1.4, 1.7]" />
+        </outline>
+      </outline>
+      <outline text="Ghana and Mali">
+        <outline text="People">
+          <outline text="Sundiata Keita (r. c. 1235–c. 1255) — Malinke prince who defeated the Sosso at Kirina and founded Mali; most scholars believe he was a Muslim (⚠️ textbook; many sources say his Islam was nominal at most) [1.5, 1.7]" />
+          <outline text="Mansa Musa (r. c. 1312–1337) — Sundiata's nephew who ruled at Mali's height and made the 1324 hajj (⚠️ textbook; most sources say grand-nephew) [1.2, 1.5, 1.7]" />
+          <outline text="Abu Ishaq al-Sahili (d. 1346) — architect Mansa Musa brought back, credited with designing the Djinguereber Mosque in Timbuktu [1.5]" />
+          <outline text="Mansa Sulayman (r. c. 1341–1360) — Mansa Musa's brother, after whom Mali faced weak rulers and succession disputes [1.5]" />
+        </outline>
+        <outline text="Events">
+          <outline text="5th century — Ghana (Wagadu of the Soninke) is founded, at least two centuries before Muhammad [1.5]" />
+          <outline text="8th–11th centuries — Ghana is at its peak, growing rich by taxing gold and salt [1.5]" />
+          <outline text="12th century — Wars with neighboring societies permanently weaken Ghana [1.5]" />
+          <outline text="Early 1200s — The Sosso kingdom controls much of the region as new trading societies arise [1.5]" />
+          <outline text="c. 1235 — Sundiata defeats Sumanguru of the Sosso at the Battle of Kirina and founds the Mali Empire [1.5, 1.7]" />
+          <outline text="1324 — Mansa Musa's hajj to Mecca; his gold spending in Cairo lowers gold's value there for years [1.2, 1.5, 1.7]" />
+          <outline text="c. 1327 — Djinguereber Mosque is built in Timbuktu [1.5]" />
+          <outline text="1352–1353 — Ibn Battuta visits Mali and praises its safety and justice [1.5]" />
+          <outline text="1375 — The Catalan Atlas shows Mansa Musa holding a gold nugget [1.5]" />
+          <outline text="1433 — Tuareg raiders take Timbuktu [1.5]" />
+          <outline text="1468 — Sunni Ali of Songhai takes Timbuktu; Mali shrinks to its Mande heartland [1.5]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Gold-salt trade — Ghana and Mali taxed West African gold (Bambuk, Bure) traded for Saharan salt (Taghaza); Ghana's king kept the nuggets, traders used gold dust [1.5, 1.7]" />
+          <outline text="Koumbi Saleh — Ghana's capital with two towns, one for Muslim merchants and one for the king, who kept traditional religion [1.5]" />
+          <outline text="Ghana's centralized government — the king ruled with nobles and an army armed with iron weapons [1.5]" />
+          <outline text="Mansa and governors — the mansa ruled from the capital, governors ran provinces, and conquered rulers kept power by paying tribute; bigger and more centrally administered than Ghana (textbook) [1.5, 1.7]" />
+          <outline text="Revival of a former empire — the textbook's example: Mali rebuilt on Ghana's foundation and trade routes [1.7]" />
+          <outline text="Islam and syncretism — rulers, court, and merchants converted to Islam while rural subjects kept traditional beliefs and the court kept pre-Islamic rituals [1.2, 1.5, 1.7]" />
+          <outline text="Timbuktu — center of Islamic scholarship where mosques such as Djinguereber and Sankore taught law, theology, astronomy, and math [1.2, 1.5, 1.7]" />
+          <outline text="Griots — hereditary storytellers and historians who kept oral history such as the Epic of Sundiata and advised kings [1.5]" />
+        </outline>
+      </outline>
+      <outline text="Hausa Kingdoms">
+        <outline text="People">
+          <outline text="Sarki Yaji (r. c. 1349–1385) — ruler of Kano under whom Islam came to Kano with Wangara merchants from Mali, according to the Kano Chronicle [1.5]" />
+        </outline>
+        <outline text="Events">
+          <outline text="Before 1000 — The Hausa people form seven states, said in legend to come from the sons and grandsons of the hero Bayajidda [1.5]" />
+          <outline text="14th century — Hausa rulers and merchants adopt Islam, brought by missionaries (⚠️ textbook; the Kano Chronicle names Wangara Muslim merchants and clerics) [1.5]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="City-states — Kano, Katsina, Zaria, and others, each ruled by a king (sarki), loosely tied by kinship with no central authority [1.5]" />
+          <outline text="Walled cities (birni) — large cities with farmland inside the walls so people could survive a siege [1.5]" />
+          <outline text="Specialized economies — cotton cloth, indigo dyeing, leather goods, and trade in kola nuts and enslaved people, linked to trans-Saharan routes [1.5]" />
+          <outline text="Shared defense — one state on the western edge specialized in military matters and defended the others (⚠️ textbook; Hausa tradition names Gobir in the north) [1.5]" />
+          <outline text="Disunity — the city-states competed for trade and land, were often dominated by outsiders, and later paid tribute to Kanem-Bornu and Songhai [1.5]" />
+        </outline>
+      </outline>
+      <outline text="Ethiopia">
+        <outline text="People">
+          <outline text="Ezana (r. 4th century) — king of Aksum (textbook: Axum) who converted to Christianity in the 4th century [1.5]" />
+          <outline text="King Lalibela (r. c. 1181–1221) — Zagwe king credited with the rock-hewn churches, meant as a “New Jerusalem” for pilgrims [1.5, 1.7]" />
+          <outline text="Yekuno Amlak (r. 1270–1285) — overthrew the Zagwe in 1270 and founded the Solomonic dynasty [1.5]" />
+          <outline text="Amda Seyon (r. 1314–1344) — expanded the kingdom by fighting nearby Muslim sultanates such as Ifat [1.5]" />
+        </outline>
+        <outline text="Events">
+          <outline text="7th century — The spread of Islam makes the Horn of Africa more religiously diverse [1.5]" />
+          <outline text="12th century — A new Christian-led kingdom, the Zagwe dynasty, emerges in the highlands [1.5, 1.7]" />
+          <outline text="c. 1200 — Eleven rock-hewn churches are carved down into solid rock at Lalibela [1.5, 1.7]" />
+          <outline text="1270 — Yekuno Amlak founds the Solomonic dynasty, which rules (with breaks) until 1974 [1.5, 1.7]" />
+          <outline text="Early 14th century — The Kebra Nagast is compiled in Ge'ez to legitimize Solomonic rule [1.5]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Solomonic legitimacy — kings claimed descent from King Solomon and the Queen of Sheba through Menelik I, as told in the Kebra Nagast [1.5, 1.7]" />
+          <outline text="Island of Christianity — from the 12th to the 16th centuries, Ethiopian Christianity developed independently of Europe's churches (⚠️ textbook; most sources stress its link to Egypt's Coptic Church, which sent its head bishop) [1.5]" />
+          <outline text="Church and state — kings gave land to churches and monasteries, and the Church supported the king's right to rule [1.5, 1.7]" />
+          <outline text="Blended faith — people combined ancestor veneration and belief in spirits with Christianity [1.5]" />
+          <outline text="Rock-hewn churches of Lalibela — monumental churches such as the cross-shaped Church of St. George that displayed Zagwe power [1.5, 1.7]" />
+          <outline text="Moving royal camps — Solomonic kings often ruled from mobile camps instead of a fixed capital [1.5]" />
+          <outline text="Red Sea trade — gold, ivory, and enslaved people traded through Red Sea ports, often with Muslim merchants [1.5, 1.7]" />
+        </outline>
+      </outline>
+      <outline text="Great Zimbabwe and the Swahili Coast">
+        <outline text="Events">
+          <outline text="9th century — Chiefs begin building their zimbabwes in stone instead of wood [1.5]" />
+          <outline text="By 1000 — Bantu migrations have spread farming, iron working, and Bantu languages, later spoken by the Shona and Swahili peoples [1.5]" />
+          <outline text="c. 1075–1220 — Mapungubwe shows that gold trade and stone-walled elite centers already exist in the region [1.5]" />
+          <outline text="12th–15th centuries — Zimbabwe is one of the most powerful kingdoms of the region [1.5]" />
+          <outline text="Late 13th century — A massive wall 30 feet tall and 15 feet thick surrounds the capital (⚠️ textbook; most sources say the Great Enclosure wall reaches about 11 m and encloses a royal compound) [1.5]" />
+          <outline text="1331 — Ibn Battuta visits Kilwa [1.5]" />
+          <outline text="By the end of the 1400s — The capital is abandoned, mainly because of overgrazing (⚠️ textbook; most sources say c. 1450, also citing a shift of the gold trade north to Mutapa) [1.5, 1.7]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Dry-stone architecture — granite walls built without mortar, including the Great Enclosure and the older Hill Complex; “zimbabwe” means “dwellings” (⚠️ textbook; most sources say “houses of stone”) [1.5, 1.7]" />
+          <outline text="Shona society — the king and elites lived inside the stone walls and ordinary people in mud houses outside; nearly 20,000 people (textbook) [1.5]" />
+          <outline text="Gold and cattle economy — wealth from farming, cattle grazing, and taxes on transporting gold and ivory to the Swahili coast [1.5, 1.7]" />
+          <outline text="Indian Ocean link — Chinese porcelain, Persian pottery, and glass beads found at the site show long-distance sea trade [1.5]" />
+          <outline text="Soapstone birds — carved birds from Great Zimbabwe; the Zimbabwe Bird is now a national symbol [1.5]" />
+          <outline text="Swahili city-states — independent Muslim-ruled ports (Kilwa, Mombasa, Malindi, Zanzibar, Mogadishu) that used monsoon winds and each taxed its own port trade [1.2, 1.5, 1.7]" />
+          <outline text="Kilwa and Sofala gold — Kilwa grew rich by controlling the gold trade from Sofala, which came from the Great Zimbabwe region [1.5]" />
+          <outline text="Swahili language — a Bantu language blended with Arabic words by East African traders, still spoken today [1.2, 1.5]" />
+        </outline>
+      </outline>
+      <outline text="Catholic Church and Crusades">
+        <outline text="People">
+          <outline text="Peter Abelard (1079–1142) — scholar who studied Aristotle and sometimes criticized the Church but stayed faithful all his life [1.6]" />
+          <outline text="Pope Urban II (pope 1088–1099) — called the First Crusade at the Council of Clermont in 1095 [1.2, 1.6]" />
+          <outline text="Pope Innocent III (pope 1198–1216) — placed England under interdict (1208–1214) in a dispute with King John [1.6]" />
+          <outline text="Thomas Aquinas (1225–1274) — Dominican friar whose Summa Theologica argued that faith and reason do not conflict, drawing on Aristotle and Ibn Rushd [1.2, 1.6]" />
+          <outline text="Pope Boniface VIII (pope 1294–1303) — clashed with France's Philip IV over taxing the clergy (c. 1296–1303) [1.6]" />
+          <outline text="Pope Clement VI (pope 1342–1352) — declared that Jews were not to blame for the Black Death [1.6]" />
+        </outline>
+        <outline text="Events">
+          <outline text="1095 — At the Council of Clermont, Pope Urban II calls the First Crusade to take the Holy Land from Muslim rule [1.2, 1.6]" />
+          <outline text="1096 — Crusaders attack Jewish communities in the Rhineland [1.6]" />
+          <outline text="1096–1099 — First Crusade captures Jerusalem (1099) and sets up crusader states, the textbook's only clear victory for Christendom [1.2, 1.6, 1.7]" />
+          <outline text="1187 — Saladin retakes Jerusalem [1.2, 1.6]" />
+          <outline text="1189–1192 — Third Crusade fails to retake Jerusalem; a truce lets Christian pilgrims visit [1.6]" />
+          <outline text="1202–1204 — Fourth Crusade, owing Venice for its ships, sacks Zara and is diverted to Constantinople, never reaching the Holy Land (⚠️ textbook calls Zara an Italian city; most sources place it on the Dalmatian coast under the king of Hungary) [1.6]" />
+          <outline text="1209–1229 — Albigensian Crusade against the Cathars of southern France; the Church sets up the Inquisition to try heretics [1.6]" />
+          <outline text="1215 — Fourth Lateran Council requires Jews and Muslims in Christian lands to wear distinctive clothing or badges [1.6]" />
+          <outline text="1291 — Mamluks take Acre, ending the crusader states (⚠️ textbook counts four major Crusades, ending with the Fourth; most sources number more, up to 1272) [1.2, 1.6]" />
+          <outline text="1309–1377 — Avignon Papacy: popes live in Avignon under strong French influence [1.6]" />
+          <outline text="1349 — Jews falsely blamed for the Black Death are massacred in Strasbourg and other towns [1.6]" />
+          <outline text="1378–1417 — Western Schism: two, then three rival popes damage the Church's prestige [1.6]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Church hierarchy — the pope led archbishops, bishops, and parish priests, giving a fragmented Europe one chain of authority and its most unifying institution [1.6]" />
+          <outline text="Sacraments and tithe — seven rituals believed necessary for salvation; a one-tenth tax made the Church rich and one of the largest landowners [1.6]" />
+          <outline text="Excommunication and interdict — cutting a person or a whole region off from the sacraments gave popes power over kings and lords [1.6]" />
+          <outline text="Monasteries and convents — communities under the Rule of St. Benedict copied manuscripts, ran schools and hospitals, and gave nuns learning and leadership [1.6, 1.7]" />
+          <outline text="Mendicant orders — Franciscans and Dominicans (early 1200s) lived in poverty and preached in towns; Dominicans also fought heresy [1.6]" />
+          <outline text="Gothic cathedrals — pointed arches, flying buttresses, and stained glass (Chartres, Notre-Dame de Paris) showed Church wealth and taught Bible stories to people who could not read [1.6]" />
+          <outline text="Universities and scholasticism — Church-founded universities (Bologna, Paris, Oxford by c. 1200) used reason and logic, drawing on Aristotle through Arabic texts, to explain faith [1.2, 1.6]" />
+          <outline text="Church and state — kings were crowned and anointed by the Church, but the Church was also an alternative structure and at times a rival as France and the Holy Roman Empire grew stronger [1.7]" />
+          <outline text="Jews in Christian Europe — barred from land and most guilds and not bound by the usury ban, many became moneylenders; they faced antisemitism, blood libel, and expulsions, and many moved east to Poland and Lithuania [1.6]" />
+        </outline>
+      </outline>
+      <outline text="England">
+        <outline text="People">
+          <outline text="William the Conqueror (r. 1066–1087) — duke of Normandy who conquered England in 1066 and ran a tightly organized feudal system through royal sheriffs [1.6]" />
+          <outline text="King John (r. 1199–1216) — submitted to the pope in 1213 after an interdict and was forced by his barons to sign Magna Carta in 1215 [1.6]" />
+          <outline text="Simon de Montfort (c. 1208–1265) — called the Parliament of 1265 [1.6]" />
+          <outline text="Edward I (r. 1272–1307) — expelled England's Jews in 1290 and called the Model Parliament in 1295 [1.6]" />
+          <outline text="Edward III (r. 1327–1377) — claimed the French throne after the Capetian line ended in 1328, a cause of the Hundred Years' War [1.6]" />
+          <outline text="Geoffrey Chaucer (c. 1343–1400) — wrote The Canterbury Tales in Middle English, satirizing Church figures (⚠️ textbook places him in the Northern Renaissance; most sources call him a late medieval writer) [1.6]" />
+          <outline text="Wat Tyler and John Ball (both d. 1381) — rebel leader and preacher who led the English Peasants' Revolt of 1381 [1.6]" />
+        </outline>
+        <outline text="Events">
+          <outline text="1066 — Norman Conquest: William of Normandy wins England, gaining lands on both sides of the English Channel [1.6]" />
+          <outline text="1208–1214 — Pope Innocent III places England under interdict; King John submits in 1213 [1.6]" />
+          <outline text="1215 — Barons force King John to sign Magna Carta, putting the king under the law (⚠️ textbook says it guaranteed a jury trial; most sources say it promised only the lawful judgment of equals or the law of the land) [1.6, 1.7]" />
+          <outline text="1265 — Simon de Montfort's Parliament, the textbook's first English Parliament (⚠️ textbook says it already had a House of Lords and a House of Commons; most sources say Parliament split into two houses in the 14th century) [1.6]" />
+          <outline text="1290 — Edward I expels England's Jews [1.6]" />
+          <outline text="1295 — Edward I's Model Parliament, often called the first representative one [1.6]" />
+          <outline text="1346–1415 — English longbow victories at Crécy (1346), Poitiers (1356), and Agincourt (1415) [1.6]" />
+          <outline text="1347–1351 — Black Death, brought by Italian ships from Caffa to Sicily in 1347, kills about a third of Europe's people [1.6]" />
+          <outline text="1349–1351 — The Ordinance (1349) and Statute of Labourers (1351) try to freeze wages at pre-plague levels [1.6]" />
+          <outline text="1381 — English Peasants' Revolt against the poll tax marches on London and meets Richard II; it is crushed, but the poll tax is dropped [1.6]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Hereditary monarchy — Norman kings from 1066, then Plantagenets; slowly centralizing as feudal ties declined [1.6, 1.7]" />
+          <outline text="Royal sheriffs — officials through whom William the Conqueror ran a tightly organized feudal kingdom [1.6]" />
+          <outline text="Parliament — grew from royal councils to include knights and townspeople, later gained the right to approve taxes, and became stronger than similar bodies on the continent [1.6]" />
+          <outline text="Scutage — a knight's payment instead of military service; nobles won the right to be consulted on it [1.6]" />
+          <outline text="Manorialism — self-sufficient manors with a manor house, village, fields, mill, and church, where serfs worked the lord's demesne and paid fees [1.6, 1.7]" />
+          <outline text="Serfdom — coerced labor bound to the land; after the Black Death, lords turned duties into money rents and serfdom faded in England (the textbook says serfdom held back European state-building) [1.6, 1.7]" />
+          <outline text="Longbow — six-foot English bow that, with later cannons, made armored knights less useful and weakened feudalism [1.6]" />
+          <outline text="National identity — the Hundred Years' War led people to call themselves English, and English replaced French as the language of government and courts [1.6]" />
+        </outline>
+      </outline>
+      <outline text="France">
+        <outline text="People">
+          <outline text="Philip II (r. 1180–1223) — built the first real royal bureaucracy and took Normandy from England in 1204 [1.6]" />
+          <outline text="Philip IV (r. 1285–1314) — defied Pope Boniface VIII and called the Estates-General to win support against the pope [1.6]" />
+          <outline text="Christine de Pizan (1364–c. 1430) — writer who defended women's abilities in The Book of the City of Ladies (1405) [1.6]" />
+          <outline text="Joan of Arc (c. 1412–1431) — peasant girl who helped lift the siege of Orléans (1429) and was burned at the stake by the English in 1431 [1.6]" />
+        </outline>
+        <outline text="Events">
+          <outline text="987–1328 — Capetian kings rule France, at first controlling only the area around Paris [1.6]" />
+          <outline text="1204 — Philip II takes Normandy from England [1.6]" />
+          <outline text="c. 1296–1303 — Philip IV clashes with Pope Boniface VIII over taxing the clergy [1.6]" />
+          <outline text="c. 1300 — The Little Ice Age begins, cooling Europe for about five centuries, cutting harvests, and fueling unrest and scapegoating [1.6]" />
+          <outline text="1302 — The first Estates-General meets [1.6]" />
+          <outline text="1315–1317 — The Great Famine halts Europe's population growth [1.6]" />
+          <outline text="1328 — The Capetian line ends and the Valois dynasty begins [1.6]" />
+          <outline text="1337–1453 — Hundred Years' War with England over Gascony, the French throne, and wool-trading Flanders [1.6, 1.7]" />
+          <outline text="1358 — Jacquerie: a violent peasant uprising in northern France after the defeat at Poitiers, crushed within weeks [1.6]" />
+          <outline text="1394 — France expels its Jews (⚠️ textbook date; most sources say Philip IV first expelled them in 1306 and 1394 was the final expulsion) [1.6]" />
+          <outline text="1429 — Joan of Arc helps lift the siege of Orléans [1.6]" />
+          <outline text="1453 — France wins the Hundred Years' War; England keeps only Calais [1.6]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Feudalism — decentralized exchange of land for loyalty and military service: kings granted fiefs to lords, lords to vassals and knights; overlapping loyalties limited central control [1.1, 1.6, 1.7]" />
+          <outline text="Knights and chivalry — armored mounted warriors bound by a code of honor, courtesy, and bravery that put women “on a pedestal” but gave them few rights [1.1, 1.6]" />
+          <outline text="Royal bureaucracy and army — from Philip II on, kings gained power at the expense of feudal lords through officials and soldiers who served the king directly [1.6]" />
+          <outline text="Estates-General — assembly of the three estates (clergy, nobles, commoners); since clergy and nobles paid no regular taxes, it had little power [1.6]" />
+          <outline text="Three orders — medieval writers divided society into those who pray, those who fight, and those who work; about 90 percent of Europeans were peasants [1.6]" />
+          <outline text="Three-field system — winter crop, spring crop, and fallow rotated yearly, so two-thirds of the land produced and legumes added nitrogen (⚠️ textbook says it came into use near the end of the Middle Ages; most sources say it spread from the 8th–9th centuries) [1.6]" />
+          <outline text="Heavy plow, horse collar, and mills — opened northern Europe's heavy clay soils and saved labor, helping Europe's population roughly double c. 1000–1300 [1.6]" />
+          <outline text="Standing armies and permanent taxes — after the Hundred Years' War kings relied less on feudal knights, as gunpowder weapons from China spread west [1.6]" />
+        </outline>
+      </outline>
+      <outline text="Holy Roman Empire and Italian City-States">
+        <outline text="People">
+          <outline text="Charlemagne (r. 768–814; crowned emperor 800) — king of the Franks whose imperial title Otto I later recalled; his empire split among his grandsons in 843 [1.6]" />
+          <outline text="Otto I (r. 936–973; crowned emperor 962) — German king whose coronation began the Holy Roman Empire [1.6]" />
+          <outline text="Dante Alighieri (1265–1321) — Florentine author of The Divine Comedy in the Italian vernacular, criticizing corrupt Church officials [1.6]" />
+          <outline text="Marco Polo (1254–1324) — Venetian who visited Kublai Khan's court at Dadu in the late 13th century, stirring European curiosity and mapmaking [1.6]" />
+          <outline text="Charles IV (r. 1346–1378) — emperor who issued the Golden Bull of 1356 [1.6]" />
+          <outline text="Johannes Gutenberg (c. 1400–1468) — developed the movable-type printing press at Mainz in 1439 [1.6]" />
+        </outline>
+        <outline text="Events">
+          <outline text="800 — The pope crowns Charlemagne emperor, a brief revival of empire that splits in 843 [1.6]" />
+          <outline text="962 — Otto I is crowned Holy Roman Emperor; the empire lasts, with little power at the end, until 1806 [1.6]" />
+          <outline text="11th–12th centuries — Lay investiture controversy: popes and emperors dispute whether a secular ruler may give bishops the symbols of office [1.6]" />
+          <outline text="1091 — The Normans complete the conquest of Sicily from its Muslim rulers [1.6]" />
+          <outline text="1122 — Concordat of Worms ends the lay investiture controversy (⚠️ textbook says the Church won autonomy from secular rulers; most sources call it a compromise) [1.6]" />
+          <outline text="1275 — Marco Polo reaches the court of Kublai Khan [1.6]" />
+          <outline text="1356 — The Golden Bull names seven prince-electors to choose the emperor, confirming the princes' power [1.6, 1.7]" />
+          <outline text="By 1400 — The Renaissance spirit, begun in Italy in Dante's time, spreads to northern Europe (textbook context) [1.6]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Elected emperor — ruled hundreds of German states and parts of northern Italy, where princes, bishops, and free cities governed their own lands, so Germany stayed fragmented [1.6, 1.7]" />
+          <outline text="Revival of Rome — the textbook calls the empire a revival of the Roman Empire; emperors were crowned by the pope but often rivaled the Church (⚠️ textbook names it a more powerful state; most sources say it was weak and decentralized) [1.7]" />
+          <outline text="Italian city-states — independent Venice (a republic led by a doge), Florence, Genoa, and Milan, plus the pope's Papal States; no single ruler united Italy [1.6, 1.7]" />
+          <outline text="Venetian and Genoese trade — grew rich shipping crusaders and goods and controlled sea trade with the eastern Mediterranean and the Black Sea [1.6]" />
+          <outline text="Medici bankers — wealthy merchant family that governed Florence and paid painters, sculptors, and architects [1.6]" />
+          <outline text="Guilds and bourgeoisie — merchants and artisans in guilds formed a growing middle class (burghers) whose economic success rivaled religious or military service as a path to status [1.6]" />
+          <outline text="Renaissance and humanism — revival of classical Greek and Roman learning, with a focus on individuals, secular writing, and vernacular languages, backed by Church and Medici patronage (textbook context) [1.6]" />
+          <outline text="Printing press — Gutenberg's movable type mass-produced books at low cost and spread literacy and ideas quickly [1.6]" />
+        </outline>
+      </outline>
+      <outline text="Christian Iberia (Reconquista)">
+        <outline text="People">
+          <outline text="Gerard of Cremona (c. 1114–1187) — translated dozens of Arabic works in Toledo, including Ptolemy's Almagest and Ibn Sina's Canon [1.2]" />
+          <outline text="Alfonso X of Castile (r. 1252–1284) — sponsored translations into Castilian [1.2]" />
+          <outline text="Ferdinand and Isabella (Isabella r. 1474–1504; Ferdinand r. 1479–1516) — monarchs who took Granada and expelled Spain's Jews in 1492 (context for later units) [1.6]" />
+        </outline>
+        <outline text="Events">
+          <outline text="1085 — Castile captures Toledo, which becomes a center for translating Arabic works into Latin [1.2, 1.6]" />
+          <outline text="1212 — Christian victory at Las Navas de Tolosa breaks Muslim power in Iberia [1.6]" />
+          <outline text="1236–1248 — Castile captures Córdoba (1236) and Seville (1248) [1.6]" />
+          <outline text="1492 — Granada falls to Ferdinand and Isabella, ending the Reconquista; the Spanish king expels Muslims who will not convert (⚠️ textbook; most sources say Muslims were forced to convert or leave in 1502 and the Moriscos were expelled in 1609) [1.2, 1.6]" />
+          <outline text="1492 — Spain expels its Jews (context for later units) [1.6]" />
+          <outline text="1497 — Portugal expels its Jews (context for later units) [1.6]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Reconquista — the long campaign by the Christian kingdoms of Castile, Aragon, and Portugal to retake Iberia from Muslim rule [1.2, 1.6]" />
+          <outline text="Toledo translation center — in the 12th–13th centuries scholars translated Arabic works into Latin and later Castilian, helping Christian Europe recover Aristotle and start scholasticism [1.2, 1.6]" />
+        </outline>
+      </outline>
+      <outline text="Byzantine Empire and Kievan Rus'">
+        <outline text="People">
+          <outline text="Ivan the Great (Ivan III) (r. 1462–1505) — Moscow-based ruler who ended Mongol rule in the late 15th century, beginning the modern Russian state [1.6]" />
+        </outline>
+        <outline text="Events">
+          <outline text="988 — Kievan Rus' converts to Orthodox Christianity, keeping closer ties with Byzantium than with Catholic Europe [1.6]" />
+          <outline text="1054 — East-West Schism (the textbook's Great Schism): the pope's representative and the patriarch excommunicate each other, splitting Catholic and Orthodox Christianity [1.6]" />
+          <outline text="1071 — The Seljuk Turks defeat the Byzantines at Manzikert, opening Anatolia to Turkic settlement [1.2]" />
+          <outline text="1095 — Byzantium asks Pope Urban II for help against the Seljuk Turks (⚠️ textbook says the Orthodox patriarch appealed; most sources say Emperor Alexios I Komnenos) [1.2, 1.6]" />
+          <outline text="13th century — The Mongols overrun Kievan Rus' and make local nobles collect taxes for them [1.6]" />
+          <outline text="1204–1261 — After the Fourth Crusade sacks Constantinople, crusaders rule a Latin Empire; the Byzantines retake the city in 1261 but never recover their strength [1.6]" />
+          <outline text="1453 — The Ottoman Turks under Mehmed II capture Constantinople, ending the Byzantine Empire [1.6]" />
+          <outline text="1480 — Under Ivan the Great, Moscow becomes independent of the Mongols (usual date) [1.6]" />
+        </outline>
+        <outline text="Institutions">
+          <outline text="Byzantine Empire — the Eastern Roman Empire, which did not fall, continuing with its capital at Constantinople [1.6]" />
+          <outline text="Eastern Orthodox Church — led by the patriarch of Constantinople under strong influence from the emperor, with services in Greek and icons central to worship [1.6]" />
+          <outline text="Orthodox vs. Catholic practice — emperor and Church closely tied, parish priests could marry, and communion used leavened bread [1.6]" />
+          <outline text="Kievan Rus' — Orthodox trading state (the textbook calls it a city-state) centered on Kiev, at the heart of fur, fish, and grain trade from Scandinavia to the Mediterranean and Central Asia [1.6]" />
+          <outline text="Mongol tax system in Rus' — local nobles collected taxes for the Mongols, grew wealthy, and began to resist, leading to Moscow's rise [1.6]" />
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>
