@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>AP World History Unit 4 Topic Mind Map</title>
+  </head>
+  <body>
+    <outline text="Unit 4: Transoceanic Interconnections (1450–1750)">
+      <outline text="4.1 Technological Innovations">
+        <outline text="Cross-cultural diffusion">
+          <outline text="Chinese compass"/>
+          <outline text="Islamic astrolabe"/>
+          <outline text="Lateen sail"/>
+          <outline text="Astronomical charts"/>
+        </outline>
+        <outline text="Ship design">
+          <outline text="Caravel — exploration"/>
+          <outline text="Carrack — armed cargo ship"/>
+          <outline text="Fluyt — low-cost merchant ship"/>
+        </outline>
+        <outline text="Understanding of wind and current patterns"/>
+      </outline>
+      <outline text="4.2 Exploration: Causes and Events">
+        <outline text="Motives: God, Gold, Glory">
+          <outline text="Mercantilism"/>
+          <outline text="State sponsorship"/>
+        </outline>
+        <outline text="Portugal">
+          <outline text="Bartolomeu Dias — 1488 Cape of Good Hope"/>
+          <outline text="Vasco da Gama — 1498 India"/>
+          <outline text="Trading-post empire"/>
+        </outline>
+        <outline text="Spain">
+          <outline text="Columbus — 1492"/>
+          <outline text="Magellan — 1519–1522 circumnavigation"/>
+          <outline text="Manila Galleons"/>
+        </outline>
+        <outline text="England, France, Netherlands">
+          <outline text="Northwest Passage"/>
+          <outline text="Jamestown, Quebec, New Amsterdam"/>
+        </outline>
+      </outline>
+      <outline text="4.3 Columbian Exchange">
+        <outline text="Disease">
+          <outline text="Smallpox"/>
+          <outline text="50–90% native population loss (Great Dying)"/>
+        </outline>
+        <outline text="Americas → Afro-Eurasia">
+          <outline text="Potato, maize, manioc"/>
+          <outline text="Afro-Eurasian population growth"/>
+        </outline>
+        <outline text="Afro-Eurasia → Americas">
+          <outline text="Horses, cattle, pigs"/>
+          <outline text="Sugarcane"/>
+          <outline text="Deforestation and soil erosion"/>
+        </outline>
+        <outline text="Plantations">
+          <outline text="Engenhos"/>
+          <outline text="African Diaspora"/>
+        </outline>
+      </outline>
+      <outline text="4.4 Maritime Empires Established">
+        <outline text="Treaty of Tordesillas — 1494"/>
+        <outline text="Conquistadors">
+          <outline text="Cortés — Aztecs 1521"/>
+          <outline text="Pizarro — Inca 1532"/>
+        </outline>
+        <outline text="Asian restrictive policies">
+          <outline text="Ming Haijin (sea ban)"/>
+          <outline text="Tokugawa Sakoku"/>
+        </outline>
+        <outline text="Growth of African states">
+          <outline text="Asante"/>
+          <outline text="Kongo"/>
+        </outline>
+        <outline text="Coerced labor">
+          <outline text="Chattel slavery"/>
+          <outline text="Indentured servitude"/>
+          <outline text="Encomienda &amp; Hacienda"/>
+          <outline text="Mita — Potosí silver mines"/>
+        </outline>
+        <outline text="Continuity of Indian Ocean trade"/>
+      </outline>
+      <outline text="4.5 Maritime Empires Maintained and Developed">
+        <outline text="Economic strategies">
+          <outline text="Joint-stock companies"/>
+          <outline text="VOC 1602 &amp; EIC 1600"/>
+        </outline>
+        <outline text="Silver flow">
+          <outline text="Potosí → Europe &amp; Manila"/>
+          <outline text="Chinese silver demand (Single Whip)"/>
+        </outline>
+        <outline text="Triangular trade">
+          <outline text="Middle Passage"/>
+        </outline>
+        <outline text="Trade rivalries">
+          <outline text="Battle of Diu — 1509"/>
+          <outline text="Battle of Tondibi — 1591"/>
+        </outline>
+        <outline text="Society and culture">
+          <outline text="Casta system"/>
+          <outline text="Rise of polygyny"/>
+          <outline text="Syncretism"/>
+        </outline>
+      </outline>
+      <outline text="4.6 Internal and External Challenges to State Power">
+        <outline text="Internal">
+          <outline text="Fronde"/>
+          <outline text="Pugachev Rebellion"/>
+          <outline text="Marathas vs. Mughals"/>
+          <outline text="Glorious Revolution — 1688"/>
+        </outline>
+        <outline text="External / colonial resistance">
+          <outline text="Ana Nzinga"/>
+          <outline text="Pueblo Revolt — 1680"/>
+          <outline text="Metacom's War"/>
+        </outline>
+        <outline text="Slave resistance">
+          <outline text="Maroons"/>
+          <outline text="Queen Nanny"/>
+        </outline>
+      </outline>
+      <outline text="4.7 Changing Social Hierarchies">
+        <outline text="Policies toward minorities">
+          <outline text="Spain expels Jews — 1492"/>
+          <outline text="Ottomans accept Jewish refugees"/>
+          <outline text="Akbar abolishes the jizya"/>
+        </outline>
+        <outline text="Qing queue order"/>
+        <outline text="Ottoman harem politics — Roxelana"/>
+        <outline text="Changing elites">
+          <outline text="Rise of the bourgeoisie"/>
+          <outline text="Decline of the boyars"/>
+          <outline text="Decline of the European nobility"/>
+        </outline>
+      </outline>
+      <outline text="4.8 Continuity and Change">
+        <outline text="Change">
+          <outline text="Integration of the hemispheres"/>
+          <outline text="Silver as global money"/>
+          <outline text="Expansion of coerced labor"/>
+          <outline text="Race-based hierarchies"/>
+        </outline>
+        <outline text="Continuity">
+          <outline text="Asian manufacturing dominance"/>
+          <outline text="Eurasian serfdom"/>
+          <outline text="Agriculture-based economies"/>
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

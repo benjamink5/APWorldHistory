@@ -20,6 +20,12 @@ Files are grouped by unit, then by kind: `Unit<N>/{Notes,Flashcards,Mindmaps,Tes
 
 Units 1 and 2 are complete. When creating a new unit, copy the structure of the existing files of the same family instead of inventing a new layout.
 
+Units 3–5 were made elsewhere and copied in. They do not follow the conventions in this file: their headers, source lines, and test formats differ (Unit 3 adds DBQs and practice questions; Unit 4 has a single-language MCQ sheet and `_Explanations` files; Unit 5 has a 100-question test with an answer key). Do not treat them as templates. `Unit4/Notes/` has no `AP_WH_4.1_Notes_EN.md`.
+
+`Inbox/` is a gitignored drop folder for incoming material. The user copies files in; sort them into `Unit<N>/` by file name.
+
+**Generated output goes in `Output/`** (gitignored), never next to the source files. This covers PDFs, HTML, images, and any other export or render. Mirror the source path: `Unit1/Notes/X.md` → `Output/Unit1/Notes/X.pdf`. For PDFs, use the `md-to-pdf` skill (`.claude/skills/md-to-pdf/`). The Markdown, OPML, and generator data in `Unit<N>/` and `tools/` are source, not output.
+
 ## Sources and their order of authority
 
 1. **CED** (Learning Objectives and Historical Developments). The CED PDF on apcentral.collegeboard.org is blocked by the proxy, so CED wording has been written from memory. Wherever exact wording matters, flag it as needing verification.
@@ -42,7 +48,7 @@ After textbook integration, the Focus Question becomes `**Focus Question (textbo
   - Mind maps: `(⚠️ textbook; most sources say …)` / `(⚠️ 교재 기준, 많은 자료는 …)`
   - MCQ: 📌 marks an explanation that uses content not found in the notes.
 - **Notes order:** title → Focus Question → source line → Unit line → LO table → HD table (with a "Covered in / 다루는 곳" § column; every HD and illustrative example must be mapped) → Big Picture (paragraph + flowchart) → §-numbered sections → Timeline (Mermaid `timeline` for events plus `gantt` for periods) → map-style `flowchart` → comparison tables (optionally a `mindmap`) → Key Terms table (Theme | Term | Definition).
-- **Mermaid safety rules** (the files have never been rendered, only checked against these rules): put node labels in double quotes and use `<br/>` for line breaks; no colons inside `timeline` event text (`1279 : A : B` is the valid way to list two events); in `gantt`, use `dateFormat YYYY` with 4-digit years ≥ 1000 only, and put the real earlier start year in the label; no brackets or parentheses in `mindmap` nodes except the root `((…))`; flashcard charts use `pie showData`.
+- **Mermaid safety rules** (the `md-to-pdf` skill draws every diagram and reports the blocks that fail to parse; `Unit4/Notes/AP_WH_4.3_Notes_EN.md` has one such flowchart): put node labels in double quotes and use `<br/>` for line breaks; no colons inside `timeline` event text (`1279 : A : B` is the valid way to list two events); in `gantt`, use `dateFormat YYYY` with 4-digit years ≥ 1000 only, and put the real earlier start year in the label; no brackets or parentheses in `mindmap` nodes except the root `((…))`; flashcard charts use `pie showData`.
 - **Flashcards:** five sections in this order: Key Terms / People / Dates & Events / Cause & Effect / Comparison & AP Writing (핵심 용어 / 인물 / 연도·사건 / 원인·결과 / 비교·AP 서술형). Each card is `- [ ] **Question**` followed by `<details><summary>▶ Answer</summary>…</details>` (KR uses `▶ 정답`). AP writing cards are Claim → Evidence → Reasoning (주장 → 근거 → 설명), each on its own line ending in `<br/>`. The pie counts and the "(N cards)" title must match the real card counts. Explanations must not refer to option letters.
 - **MCQ:** stimulus sets of 2–4 questions; A–D options with exactly one correct answer, and never "all/none of the above". A primary source must be a short public-domain excerpt with author, date, and translator. Invented passages, maps, and images must be labeled as written for practice. Tags use the AP skills (Skill 1–5; Skill 5 is split into Causation / Comparison / Continuity & Change). Keep the answer letters balanced and free of patterns, and don't let the correct option usually be the longest one.
 - **OPML:** version 2.0, UTF-8, entities escaped. Person: `Name (r. YYYY–YYYY) — one-line achievement [1.x]`. Event: `YYYY — event [1.x]`, in chronological order. Every leaf ends with its source-topic tag.
@@ -60,7 +66,7 @@ Each unit goes through the same pipeline. Agent briefs for every step are saved 
    `python3 -I tools/mcq/gen.py tools/mcq/unit1 Unit1/Tests`
    Then run a blind review: a fresh agent answers the questions without the key, and any disagreement means that question gets rewritten.
 
-To change a mind map or MCQ, edit the data and regenerate; don't hand-edit the generated files. Both generators reproduce the current Unit 1 files exactly; the OPML differs only in `dateCreated`. Unit 2's mind map and MCQ predate `tools/` and have no source data. For a new unit, add `tools/<kind>/unit<N>/` containing a `meta.json` or `meta.py` modeled on Unit 1's.
+To change a mind map or MCQ, edit the data and regenerate; don't hand-edit the generated files. Both generators reproduce the current Unit 1 files exactly; the OPML differs only in `dateCreated`. Unit 2's mind map and MCQ predate `tools/` and have no source data. Units 3–5 have no source data either; edit their Markdown and OPML directly. For a new unit, add `tools/<kind>/unit<N>/` containing a `meta.json` or `meta.py` modeled on Unit 1's.
 
 ## Checks to run after editing
 
