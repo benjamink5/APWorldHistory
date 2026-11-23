@@ -40,6 +40,14 @@ Output/           generated PDFs and other exports (gitignored)
 - **Mind maps** are OPML 2.0 and open in MindNode, XMind, OmniOutliner, and most outliners.
 - **PDFs**: run `python3 -I .claude/skills/md-to-pdf/scripts/md2pdf.py <file.md> …`. The PDF goes to `Output/`, at the same path as the source file. Add `--no-answers` to print flashcards as questions only, or `--a4` for A4 paper. This needs macOS, `pandoc`, and the Xcode command-line tools. The script lists its other requirements and options.
 
+## Maintenance skills (Claude Code)
+
+Project skills in `.claude/skills/` automate the routine work:
+
+- `check-materials`: runs every consistency check (EN/KR parity, flashcard counts, OPML, Mermaid rules and rendering, CED KC codes): `python3 -I .claude/skills/check-materials/scripts/check.py --unit <N>`.
+- `unit-builder`: sequences the five-stage pipeline for a new unit and reports where a unit stands: `python3 -I .claude/skills/unit-builder/scripts/status.py <N>`.
+- `md-to-pdf` prints any file to `Output/`, and `essay-grader` scores DBQ, LEQ, and SAQ answers against the CED rubrics.
+
 ## Regenerating
 
 The Unit 1 mind map and MCQ set are generated from data in `tools/`:

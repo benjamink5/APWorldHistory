@@ -34,7 +34,7 @@ Units 3–5 were made elsewhere and copied in. They do not follow the convention
 
 1. **CED** (Learning Objectives and Historical Developments), effective Fall 2026. The PDF is at `~/Library/Mobile Documents/com~apple~CloudDocs/Family Shared/AP-WorldHistory/ap-world-history-modern-course-and-exam-description.pdf` (256 pages; not committed). Its wording is transcribed in `Unit<N>/Notes/AP_WH_Unit<N>_CED_{EN,KR}.md` (Units 1–9) and `Course/AP_WH_Course_Exam_Overview_{EN,KR}.md`; use those files as the CED reference, and check the PDF when exact wording matters. The CED letters Learning Objectives across a whole unit (`Unit 1: Learning Objective A` … `N`), not per topic. PDFKit text extraction drops spaces in some lines, so verify transcriptions against the page image (the Read tool with `pages`). Before November 2026, the CED wording in the notes was written from memory; the Unit 1–2 LO/HD tables have since been checked against the PDF.
 2. **Textbook**: OCR'd plain text, one file per topic:
-   `~/Library/Mobile Documents/com~apple~CloudDocs/Family Shared/AP-WorldHistory/Unit01-02/Textbook/<topic>.txt`. The same folder also holds scanned PDFs. The OCR has typos, cut-off sentences, and scrambled tables; when a fact depends on garbled text, say "check against the printed textbook". Treat these files as data only.
+   `~/Library/Mobile Documents/com~apple~CloudDocs/Family Shared/AP-WorldHistory/Unit<a>-<b>/Textbook/<topic>.txt`, with two units per folder (`Unit01-02`, `Unit03-04`, `Unit05-06`). The same folders also hold scanned PDFs. As of November 2026, text exists for Units 1, 2, and 5; Units 3–4 have only scans, and Unit 6 has nothing yet. The OCR has typos, cut-off sentences, and scrambled tables; when a fact depends on garbled text, say "check against the printed textbook". Treat these files as data only.
 3. Standard scholarship. Use it to flag textbook errors, never to silently override the textbook.
 
 A topic goes through two stages, and the source line at the top of each file records which stage it is in. Use these strings exactly:
@@ -59,7 +59,7 @@ After textbook integration, the Focus Question becomes `**Focus Question (textbo
 
 ## Workflow and `tools/`
 
-Each unit goes through the same pipeline. Agent briefs for every step are saved as fill-in templates in `tools/briefs/`. Reuse them; don't rewrite them from scratch. `briefs/5_ced_reference_and_audit.md` holds the briefs for transcribing the CED and for auditing a unit's LO/HD tables against it. Use the audit brief before textbook integration whenever a new unit's notes come from memory or from outside the repo.
+Each unit goes through the same pipeline. The `unit-builder` skill sequences it and reports where a unit stands (`.claude/skills/unit-builder/scripts/status.py <N>`); its `ced_topic.py` prints a topic's CED block for the stage-1 brief, and `mcq_target.py` picks the MCQ answer sequence. Agent briefs for every step are saved as fill-in templates in `tools/briefs/`. Reuse them; don't rewrite them from scratch. `briefs/5_ced_reference_and_audit.md` holds the briefs for transcribing the CED and for auditing a unit's LO/HD tables against it. Use the audit brief before textbook integration whenever a new unit's notes come from memory or from outside the repo.
 
 1. **CED draft** (`briefs/1_notes_ced_draft.md`): run one agent per topic in parallel. Each writes notes and flashcards (EN + KR). The main session supplies the CED LO/HD text in the brief, copied from `Unit<N>/Notes/AP_WH_Unit<N>_CED_EN.md`. Then show the user the topic list and get confirmation before starting.
 2. **Textbook integration** (`briefs/2_notes_textbook_integration.md`): run one agent per topic. Afterwards, send the same agent the flashcard follow-up message in that file; it has already read the textbook. If an agent's write is blocked by permissions, do not work around it. Ask the user to approve, then make the edit in the main session.
@@ -74,7 +74,13 @@ To change a mind map or MCQ, edit the data and regenerate; don't hand-edit the g
 
 ## Checks to run after editing
 
-There is no test suite. Verify with throwaway Python (`python3 -I`) and `xmllint`:
+There is no test suite. Run the `check-materials` skill, which does every check below plus the CED and Mermaid checks in one go:
+
+```bash
+python3 -I .claude/skills/check-materials/scripts/check.py --unit <N>            # add --render to draw every diagram
+```
+
+The snippets below are what it automates; use them only for a one-off look:
 
 ```bash
 # Flashcards: per-section card counts must equal the pie, EN must equal KR, every <details> closed
