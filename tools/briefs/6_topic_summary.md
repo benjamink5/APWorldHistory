@@ -14,6 +14,14 @@ You are writing a plain-language summary of AP World History: Modern **Topic <X.
 
 Do not edit any other file.
 
+**Units 3–5 (notes made elsewhere):** these notes don't follow CLAUDE.md. They have no LO/HD tables, no stage string in the source line, and usually no ⚠️ notes. When summarizing them, apply these overrides:
+- **Learning Objectives:** take the topic's LOs and HDs from `Unit<N>/Notes/AP_WH_Unit<N>_CED_EN.md` (KR wording from `_CED_KR.md`). Every LO must still be reflected, but only with facts that are in the notes. If the notes don't cover an LO, don't fill the gap from memory. Say so in your report.
+- **Source line:** `> Source: Summary of AP_WH_<X.Y>_Notes_EN.md` / `> 출처: AP_WH_<X.Y>_Notes_KR.md 요약`. Don't claim a textbook stage.
+- **Unit line:** use the unit number and title from the CED file, e.g. `**Unit 3: Land-Based Empires (c. 1450–1750)**` / `**Unit 3: 육상 제국 (Land-Based Empires, c. 1450–1750)**`.
+- **Focus Question:** "In One Sentence" answers the notes' Essential Question or Focus Question. Don't add a separate Focus Question line; the layout has none.
+- **Errors in the notes:** these notes were not checked against the CED or the textbook. If a fact in them is clearly wrong by standard scholarship, leave it out of the summary and list it in your report. Don't correct it silently, and don't add ⚠️ notes for it.
+- **Length:** about two-thirds of the EN notes' line count. The layout's minimum is about 90 lines, so for notes under about 135 lines, aim for about 90: use 4 Key Points sections with 3 bullets each, 8 term rows, and 5 date rows.
+
 ## Content rules
 
 - **Only facts that are in the topic's notes.** No new facts, dates, or numbers from memory. If you simplify, keep it true. Where the notes say "check against the printed textbook", keep that caveat or leave the fact out.
@@ -66,6 +74,7 @@ Exactly 3 short-answer questions, numbered, each followed by
 
 - **EN/KR parity is a hard rule:** same headings in the same order, same table row counts, same single Mermaid block with the same nodes and edges, same ⚠️ notes, same questions in the same order. Write the EN file first, then translate it to KR.
 - **Korean:** plain declarative style (`~했다/~이다`). Key terms and people carry the English in parentheses on first use and in every table row: `과거제 (Civil service examinations)`, `만사 무사 (Mansa Musa)`. Use the spellings in the KR notes.
+- **Korean bold:** never end bold with punctuation (`)`, `"`, `'`, `』`, `%`) directly followed by Hangul. GitHub won't close it. Write `**만사 무사** (Mansa Musa)는`, not `**만사 무사 (Mansa Musa)**는`.
 - **Mermaid:** every node label in double quotes, `<br/>` for line breaks, no unquoted parentheses.
 - After writing, grep the KR file for `�`, then run
   `python3 -I .claude/skills/check-materials/scripts/check.py Unit<N>/Summaries/AP_WH_<X.Y>_Summary_EN.md Unit<N>/Summaries/AP_WH_<X.Y>_Summary_KR.md`

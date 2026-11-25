@@ -13,7 +13,7 @@ Files are grouped by unit, then by kind: `Unit<N>/{Notes,Summaries,Flashcards,Mi
 | Path | What it is |
 |---|---|
 | `Unit<N>/Notes/AP_WH_<topic>_Notes_{EN,KR}.md` | Topic notes (e.g. `1.3`) |
-| `Unit<N>/Summaries/AP_WH_<topic>_Summary_{EN,KR}.md` | Plain-language summary of a topic's notes (about 100 lines; brief `tools/briefs/6_topic_summary.md`). Unit 1 only so far |
+| `Unit<N>/Summaries/AP_WH_<topic>_Summary_{EN,KR}.md` | Plain-language summary of a topic's notes (about 100 lines; brief `tools/briefs/6_topic_summary.md`). Units 1–5 |
 | `Unit<N>/Notes/AP_WH_Unit<N>_CED_{EN,KR}.md` | CED reference for the unit (Units 1–9): per topic, the suggested skill, LOs, HDs with KC codes, and illustrative examples, verbatim. KR keeps the English and adds a Korean line under each item |
 | `Course/AP_WH_Course_Exam_Overview_{EN,KR}.md` | Exam format and unit weightings, skills, reasoning processes, themes, course at a glance, and SAQ/DBQ/LEQ rubrics, from the CED |
 | `Unit<N>/Flashcards/AP_WH_<topic>_Flashcards_{EN,KR}.md` | 20–40 cards per topic |
@@ -46,7 +46,7 @@ After textbook integration, the Focus Question becomes `**Focus Question (textbo
 
 ## Conventions that span multiple files
 
-- **EN/KR parity is a hard rule.** Both files must have the same headings in the same order, the same table row counts, the same Mermaid blocks, the same ⚠️ notes, and the same cards or questions in the same order. In Korean text, key terms and people's names carry the English in parentheses on first use and in tables: `징세 청부 (Tax farming)`, `악바르 (Akbar)`. Korean prose uses plain declarative style (`~했다/~이다`).
+- **EN/KR parity is a hard rule.** Both files must have the same headings in the same order, the same table row counts, the same Mermaid blocks, the same ⚠️ notes, and the same cards or questions in the same order. In Korean text, key terms and people's names carry the English in parentheses on first use and in tables: `징세 청부 (Tax farming)`, `악바르 (Akbar)`. Korean prose uses plain declarative style (`~했다/~이다`). Don't end bold with punctuation directly followed by Hangul: GitHub leaves `**악바르 (Akbar)**는` unbolded, so write `**악바르** (Akbar)는`. (Pandoc and the PDFs render both; many KR notes still use the broken form.)
 - **Textbook vs. scholarship conflicts.** Give the textbook version, then the other view. Each file family has its own wording:
   - Notes: `> ⚠️ The textbook … Many accounts say … Check how your teacher presents this.` / `> ⚠️ 교재는 … 많은 설명에서는 … 선생님이 어떻게 가르치는지 확인이 필요하다.`
   - Flashcards: inline `The textbook says …; many accounts say …` / `교재는 …라고 쓴다. 많은 설명에서는 …라고 본다.`
