@@ -8,11 +8,12 @@ Bilingual (English / Korean) study materials for **AP World History: Modern**, b
 
 ## File families
 
-Files are grouped by unit, then by kind: `Unit<N>/{Notes,Flashcards,Mindmaps,Tests}/`. File names keep the `AP_WH_` prefix.
+Files are grouped by unit, then by kind: `Unit<N>/{Notes,Summaries,Flashcards,Mindmaps,Tests}/`. File names keep the `AP_WH_` prefix.
 
 | Path | What it is |
 |---|---|
 | `Unit<N>/Notes/AP_WH_<topic>_Notes_{EN,KR}.md` | Topic notes (e.g. `1.3`) |
+| `Unit<N>/Summaries/AP_WH_<topic>_Summary_{EN,KR}.md` | Plain-language summary of a topic's notes (about 100 lines; brief `tools/briefs/6_topic_summary.md`). Unit 1 only so far |
 | `Unit<N>/Notes/AP_WH_Unit<N>_CED_{EN,KR}.md` | CED reference for the unit (Units 1–9): per topic, the suggested skill, LOs, HDs with KC codes, and illustrative examples, verbatim. KR keeps the English and adds a Korean line under each item |
 | `Course/AP_WH_Course_Exam_Overview_{EN,KR}.md` | Exam format and unit weightings, skills, reasoning processes, themes, course at a glance, and SAQ/DBQ/LEQ rubrics, from the CED |
 | `Unit<N>/Flashcards/AP_WH_<topic>_Flashcards_{EN,KR}.md` | 20–40 cards per topic |
